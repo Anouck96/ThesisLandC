@@ -9,108 +9,72 @@ def get_words(csvFile):
 
 	return list_of_words
 
-
-def main():
-	#Create grammar for singular nouns and singular PROPN
-
-	Grammar = """
-  S -> NP VP
-  VP -> V 
-  NP -> Det N
-  NP -> Propn
-  V -> "laughs" | "smiles"
-  Det -> "the"
-  N -> "author" | "pilot"
-  """
-
-	# grammarsing = CFG.fromstring("""
- #  S -> NP VP
- #  VP -> V 
- #  NP -> Det N
- #  NP -> Propn
- #  V -> "laughs" | "smiles"
- #  Det -> "the"
- #  N -> "author" | "pilot"
- #  """)
-
-	# Create grammar for plural nouns
-	grammarplur = CFG.fromstring("""
-  S -> NP VP
-  VP -> V
-  NP -> Det N
-  V -> "laugh"
-  V -> "smile"
-  Det -> "the"
-  N -> "authors" | "pilots"
-  """)
-
-	#Get the lists of random words
-
-	PROPNsing = get_words("simpleAgrPROPN.csv")
-	#print(PROPNsing)
-
-	NOUNsing = get_words("AgrSingNOUN.csv")
-	#print(NOUNsing)
-
-	NOUNpl = get_words("AgrPlNoun.csv")
-	#print(NOUNpl)
-
-	VERBsing = get_words("AgrSingVBs.csv")
-	#print(VERBsing)
-
-	VERBpl = get_words("AgrPluralVBs.csv")
-	#print(VERBpl)
-
-
-#	prod = grammarsing.productions()
-
-	# Add rules to the string grammar for the Proper nouns
-	print(Grammar)
+def addToGram(PROPNsing, Grammar, name):
 	s = ""
 	listOfpropn = []
 	for propns in PROPNsing:
-		print(propns)
-		s = "Propn -> " + "'"+propns+"'"
+		s = name + " -> " + "'"+propns+"'"
 		listOfpropn.append(s)
 
-	print(listOfpropn)
 	props = '\n'.join(listOfpropn)
-	gr = Grammar + props
-	print(gr)
+	gr = Grammar + "\n" + props
+
+	return(gr)
+
+def main():
+	#Create grammar for singular nouns and singular PROPN (with faulty verb inflection)
+
+	SingGrammar = """
+  S -> NP VP
+  VP -> VSing
+  VP -> VPl
+  NP -> Det N
+  NP -> Propn
+  Det -> 'in'"""
+
+	# Create grammar for plural nouns (with faulty verb inflection)
+	PlurGrammar = """
+  S -> NP VP
+  VP -> VPl
+  VP -> VSing
+  NP -> Det Npl
+  Det -> 'de'"""
+
+	#Get the lists of random words
+	PROPNsing = get_words("simpleAgrPROPN.csv")
+
+	NOUNsing = get_words("AgrSingNOUN.csv")
+
+	NOUNpl = get_words("AgrPlNoun.csv")
+
+	VERBsing = get_words("AgrSingVBs.csv")
+
+	VERBpl = get_words("AgrPluralVBs.csv")
+
+	# Add rules to the singular Grammar
+	gr = addToGram(PROPNsing, SingGrammar, "Propn")
+	gr = addToGram(NOUNsing, gr, "N")
+	gr = addToGram(VERBsing, gr, "VSing")
+	gr = addToGram(VERBpl, gr, "VPl")
+
 	# Create CFG from the string
 	sing = CFG.fromstring(gr)
-	print(sing.productions())
+
 	# Print the generated sentences
 	for sent in generate(sing):
 		print(' '.join(sent))
 
-	# for item in PROPNsing:
-	# 	item = "'"+item+"'"
-	# 	lhs = nltk.grammar.Nonterminal('Propn')
-	# 	rhs = nltk.grammar.Nonterminal(item)
-	# 	new_production = nltk.grammar.Production(lhs, [rhs])
-	# 	#print(new_production)
-	# 	prod.append(new_production)
+	# Add rules to the plural grammar
+	grpl = addToGram(NOUNpl, PlurGrammar, "Npl")
+	grpl = addToGram(VERBpl, grpl, "VPl")
+	grpl = addToGram(VERBsing, grpl, "VSing")
 
+	#Create CFG for plural grammar
+	plur = CFG.fromstring(grpl)
 
-	#  #Generate n sentences
-	# print(grammarsing)
-
-
-
-	for sentence in generate(grammarsing):
-		print(' '.join(sentence))
-	# for sentence in generate(grammarplur):
-	# 	print(' '.join(sentence))
-
-	#Sentences with max depth
-	# for sentenced in generate(grammar, depth=4):
-	# 	print(' '.join(sentenced))
-
-	# #Number of sentences without max depth
-	# print(len(list(generate(grammar))))
-
-
+	#Print generated sentences
+	for se in generate(plur):
+		print(' '.join(se))
 
 if __name__ == '__main__':
 	main()
