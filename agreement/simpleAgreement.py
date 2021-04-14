@@ -1,81 +1,74 @@
 from nltk import CFG
-import nltk
 from nltk.parse.generate import generate
 import pandas as pd
 
-def get_words(csvFile):
-	df = pd.read_csv(csvFile, sep=",")
-	list_of_words = df['word'].to_list()
+def createLists(cfgString):
+	PairsList = []
+	l = CFG.fromstring(cfgString)
+	for sent in generate(l):
+		new = (' '.join(sent))
+		PairsList.append(new)
 
-	return list_of_words
-
-def addToGram(PROPNsing, Grammar, name):
-	s = ""
-	listOfpropn = []
-	for propns in PROPNsing:
-		s = name + " -> " + "'"+propns+"'"
-		listOfpropn.append(s)
-
-	props = '\n'.join(listOfpropn)
-	gr = Grammar + "\n" + props
-
-	return(gr)
-
+	return PairsList
 def main():
-	#Create grammar for singular nouns and singular PROPN (with faulty verb inflection)
 
-	SingGrammar = """
-  S -> NP VP
-  VP -> VSing
-  VP -> VPl
-  NP -> Det N
-  NP -> Propn
-  Det -> 'in'"""
+# Singular Noun simple agreement
+	simpAgrSing = """
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'in'
+	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
+	V -> 'hat' | 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat'
+	PUNCT -> '.'
+	"""
 
-	# Create grammar for plural nouns (with faulty verb inflection)
-	PlurGrammar = """
-  S -> NP VP
-  VP -> VPl
-  VP -> VSing
-  NP -> Det Npl
-  Det -> 'de'"""
+# Singular Noun with faulty plural verb
+	simpAgrSingFault = """ 
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'in'
+	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
+	V -> 'hawwe' | 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
+	PUNCT -> '.'
+	"""
 
-	#Get the lists of random words
-	PROPNsing = get_words("simpleAgrPROPN.csv")
+# Plural Noun simple agreement
+	simpAgrPlCor = """ 
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'de'
+	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
+	V -> 'hawwe' | 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
+	PUNCT -> '.'
+	"""
+# Plural Noun with faulty singular verb
+	simpAgrPlFault = """
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'de'
+	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
+	V -> 'hat' | 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat'
+	PUNCT -> '.'
+	"""
 
-	NOUNsing = get_words("AgrSingNOUN.csv")
+	MinPairsSingCor = createLists(simpAgrSing)
+	MinPairsSingFa = createLists(simpAgrSingFault)
+	MinPairsPlurCor = createLists(simpAgrPlCor)
+	MinPairsPlurFa = createLists(simpAgrPlFault)
 
-	NOUNpl = get_words("AgrPlNoun.csv")
+	SimpAgrSingular = list(zip(MinPairsSingCor, MinPairsSingFa))
+	print(SimpAgrSingular)
 
-	VERBsing = get_words("AgrSingVBs.csv")
-
-	VERBpl = get_words("AgrPluralVBs.csv")
-
-	# Add rules to the singular Grammar
-	gr = addToGram(PROPNsing, SingGrammar, "Propn")
-	gr = addToGram(NOUNsing, gr, "N")
-	gr = addToGram(VERBsing, gr, "VSing")
-	gr = addToGram(VERBpl, gr, "VPl")
-
-	# Create CFG from the string
-	sing = CFG.fromstring(gr)
-
-	# Print the generated sentences
-	for sent in generate(sing):
-		print(' '.join(sent))
-
-	# Add rules to the plural grammar
-	grpl = addToGram(NOUNpl, PlurGrammar, "Npl")
-	grpl = addToGram(VERBpl, grpl, "VPl")
-	grpl = addToGram(VERBsing, grpl, "VSing")
-
-	#Create CFG for plural grammar
-	plur = CFG.fromstring(grpl)
-
-	#Print generated sentences
-	for se in generate(plur):
-		print(' '.join(se))
+	SimpAgrPlural = list(zip(MinPairsPlurCor, MinPairsPlurFa))
+	print(SimpAgrPlural)
 
 if __name__ == '__main__':
 	main()
- 	
