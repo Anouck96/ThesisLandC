@@ -4,17 +4,31 @@ import pandas as pd
 def getNouns(nr, NOUNdf):
 	# Select singular nouns
 	singNouns = (NOUNdf[NOUNdf.feats.str.contains("Number.Sing")])
-	randomsingNouns = singNouns.sample(n=nr)
-	randomsingNouns[~randomsingNouns.feats.str.contains("Number.Plur")]
-	print(randomsingNouns)
+	sg = singNouns[~singNouns.feats.str.contains("Number.Plur")]
+	randomsingNouns = sg.sample(n=nr)
 
 	# Select plural forms for selected nouns
 	listOfSings = randomsingNouns['lemma'].to_list()
 	allForms = (NOUNdf[NOUNdf['lemma'].isin(listOfSings)])
 	pluralNouns = (allForms[allForms.feats.str.contains("Number.Plur")])
-	pl = pluralNouns.drop_duplicates(subset="lemma")
-	print(pl)
+	pn = pluralNouns[~pluralNouns.feats.str.contains("Number.Sing")]
+	pl = pn.drop_duplicates(subset="lemma")
 	return randomsingNouns, pl
+
+
+def getVerbs(nr, VERBdf):
+	# Select singular verbs
+	singVerbs = (VERBdf[VERBdf.feats.str.contains("Number.Sing")])
+	sgV = singVerbs[~singVerbs.feats.str.contains("Number.Plur")]
+	randomsingVerbs = singVerbs.sample(n=nr)
+
+	# Select plural forms for selected nouns
+	singVerbslist = randomsingVerbs['lemma'].to_list()
+	allFormsV = (VERBdf[VERBdf['lemma'].isin(singVerbslist)])
+	pluralVerbs = (allFormsV[allFormsV.feats.str.contains("Number.Plur")])
+	pv = pluralVerbs[~pluralVerbs.feats.str.contains("Number.Sing")]
+	plurVerbs = pv.drop_duplicates(subset="lemma")
+	return randomsingVerbs, plurVerbs
 
 
 def main():
@@ -23,18 +37,42 @@ def main():
 	nr = 4
 	# Create dataframes for specific POStags
 	NOUNdf = (df[df.feats.str.contains("Pos.NOUN")])
-	
+	VERBdf = (df[df.feats.str.contains("Pos.VERB")])
+	VERBTdf = (VERBdf[VERBdf.feats.str.contains("Person.Third")])
+
+
+
 	randomSingNouns , pluralNouns = getNouns(nr, NOUNdf)
-	print(randomSingNouns.shape[0])
-	print(pluralNouns.shape[0])
+	randomSingVerbs, pluralVerbs = getVerbs(nr, VERBTdf)
+
+	# Check if for both there are nr items
 	while randomSingNouns.shape[0] != nr or pluralNouns.shape[0] != nr:
-		randomSingNouns , pluralNouns = getNouns(nr, NOUNdf)
+	 	randomSingNouns , pluralNouns = getNouns(nr, NOUNdf)
+	else:
+	 	pass
+
+	while randomSingVerbs.shape[0] != nr or pluralVerbs.shape[0] != nr:
+		randomSingVerbs, pluralVerbs = getVerbs(nr, VERBdf)
 	else:
 		pass
+
 
 	# Write to files 
 	randomSingNouns.to_csv(r'SimpleAgreementSingularNouns.csv', index=False)
 	pluralNouns.to_csv(r'SimpleAgreementPluralNouns.csv', index=False)
+	randomSingVerbs.to_csv(r'SimpleAgreementSingularVerbs.csv', index=False)
+	pluralVerbs.to_csv(r'SimpleAgreementPluralVerbs.csv', index=False)
 
 if __name__ == '__main__':
 	main()
+
+
+
+
+
+
+
+
+
+
+
