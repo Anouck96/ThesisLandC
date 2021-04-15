@@ -10,6 +10,25 @@ def createLists(cfgString):
 		PairsList.append(new)
 
 	return PairsList
+
+def get_words(csvFile):
+	df = pd.read_csv(csvFile, sep=",")
+	list_of_words = df['word'].to_list()
+	list_of_words.sort()
+	return list_of_words
+
+def addToGram(PROPNsing, Grammar, name):
+	s = ""
+	listOfpropn = []
+	for propns in PROPNsing:
+		s = name + " -> " + "'"+propns+"'"
+		listOfpropn.append(s)
+
+	props = '\n'.join(listOfpropn)
+	gr = Grammar + "\n" + props
+
+	return(gr)
+
 def main():
 
 # Singular Noun simple agreement
@@ -20,7 +39,18 @@ def main():
 	NP -> Propn
 	Det -> 'in'
 	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
+	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
 	V -> 'hat' | 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat'
+	PUNCT -> '.'
+	"""
+
+# For creation of nonce
+	simpSingNonce = """
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'in'
 	PUNCT -> '.'
 	"""
 
@@ -32,7 +62,18 @@ def main():
 	NP -> Propn
 	Det -> 'in'
 	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
+	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
 	V -> 'hawwe' | 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
+	PUNCT -> '.'
+	"""
+
+# For nonce
+	simpSingNoncefl = """
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'in'
 	PUNCT -> '.'
 	"""
 
@@ -47,6 +88,17 @@ def main():
 	V -> 'hawwe' | 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
 	PUNCT -> '.'
 	"""
+
+# For nonce sentences plural noun correct
+	noncepluc = """ 
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'de'
+	PUNCT -> '.'
+	"""
+
 # Plural Noun with faulty singular verb
 	simpAgrPlFault = """
 	S -> NP VP PUNCT
@@ -59,16 +111,58 @@ def main():
 	PUNCT -> '.'
 	"""
 
+# Nonce: Plural noun faulty singular verb 
+	nonceplf = """
+	S -> NP VP PUNCT
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'de'
+	PUNCT -> '.'
+	"""
+
 	MinPairsSingCor = createLists(simpAgrSing)
 	MinPairsSingFa = createLists(simpAgrSingFault)
 	MinPairsPlurCor = createLists(simpAgrPlCor)
 	MinPairsPlurFa = createLists(simpAgrPlFault)
 
+	print("\n" + "Regular sentences singular:" + "\n")
 	SimpAgrSingular = list(zip(MinPairsSingCor, MinPairsSingFa))
 	print(SimpAgrSingular)
 
+	print("\n" + "Regular sentences plural:" + "\n")
 	SimpAgrPlural = list(zip(MinPairsPlurCor, MinPairsPlurFa))
 	print(SimpAgrPlural)
+
+	# Get random words from csv files
+	NOUNsing = get_words("newRandomWords/SimpleAgreementSingularNouns.csv")
+	NOUNpl = get_words("newRandomWords/SimpleAgreementPluralNouns.csv")
+	VERBsing = get_words("newRandomWords/SimpleAgreementSingularVerbs.csv")
+	VERBpl = get_words("newRandomWords/SimpleAgreementPluralVerbs.csv")
+
+	noncesing = addToGram(NOUNsing, simpSingNonce, "N")
+	noncesing = addToGram(VERBsing, noncesing, "V")
+	minnoncesingcor = createLists(noncesing)
+
+	noncesingFl = addToGram(NOUNsing, simpSingNonce, "N")
+	noncesingFl = addToGram(VERBpl, noncesingFl, "V")
+	minnoncesingfaul = createLists(noncesingFl)
+
+	nonceplucor = addToGram(NOUNpl, noncepluc, "N")
+	nonceplucor = addToGram(VERBpl, nonceplucor, "V")
+	mpnonceplurcor = createLists(nonceplucor)
+
+	nonceplufl = addToGram(NOUNpl, nonceplf, "N")
+	nonceplufl = addToGram(VERBsing, nonceplufl, "V")
+	mpnonceplurfaul = createLists(nonceplufl)
+
+	print("\n" + "Nonce sentences singular:" + "\n")
+	simpagrSingNonce = list(zip(minnoncesingcor, minnoncesingfaul))
+	print(simpagrSingNonce)
+
+	print("\n" + "Nonce sentences plural:" + "\n")
+	simpagrnonceplural = list(zip(mpnonceplurcor, mpnonceplurfaul))
+	print(simpagrnonceplural)
 
 if __name__ == '__main__':
 	main()
