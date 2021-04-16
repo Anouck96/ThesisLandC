@@ -30,6 +30,34 @@ def addToGram(PROPNsing, Grammar, name):
 
 	return(gr)
 
+def writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplural, Nsimp_agrmt, Nsa, Npa, Nsn, Npn):
+	with open("simpagr_data.tsv", "w") as out_file:
+		tsv_output = csv.writer(out_file, delimiter='\t')
+
+		# Write minimal pairs singular
+		for it in SimpAgrSingular:
+			start = [Nsimp_agrmt, Nsa]
+			start.extend(it)
+			tsv_output.writerow(start)
+	
+		# Write minimal pairs plural
+		for i in SimpAgrPlural:
+			stplu = [Nsimp_agrmt, Npa]
+			stplu.extend(i)
+			tsv_output.writerow(stplu)
+
+		# Write minimal pairs singular nonce
+		for p in simpagrSingNonce:
+			sinnonce = [Nsimp_agrmt, Nsn]
+			sinnonce.extend(p)
+			tsv_output.writerow(sinnonce)
+
+		# Write minimal pairs plural nonce
+		for pp in simpagrnonceplural:
+			plunonce = [Nsimp_agrmt, Npn]
+			plunonce.extend(pp)
+			tsv_output.writerow(plunonce)
+
 def main():
 
 # Singular Noun simple agreement
@@ -157,32 +185,8 @@ def main():
 	simpagrnonceplural = list(zip(mpnonceplurcor, mpnonceplurfaul))
 
 	# Write to tsv file
-	with open("simpagr_data.tsv", "w") as out_file:
-		tsv_output = csv.writer(out_file, delimiter='\t')
 
-		# Write minimal pairs singular
-		for it in SimpAgrSingular:
-			start = ['simple_agrmt', 'sing_agr']
-			start.extend(it)
-			tsv_output.writerow(start)
-	
-		# Write minimal pairs plural
-		for i in SimpAgrPlural:
-			stplu = ['simple_agrmt', 'plur_agr']
-			stplu.extend(i)
-			tsv_output.writerow(stplu)
-
-		# Write minimal pairs singular nonce
-		for p in simpagrSingNonce:
-			sinnonce = ['simple_agrmt', 'sing_nonce']
-			sinnonce.extend(p)
-			tsv_output.writerow(sinnonce)
-
-		# Write minimal pairs plural nonce
-		for pp in simpagrnonceplural:
-			plunonce = ['simple_agrmt', 'plural_nonce']
-			plunonce.extend(pp)
-			tsv_output.writerow(plunonce)
+	writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplural, "simp_agrmt", "sing_agr", "plur_agr", "sing_nonce", "plural_nonce")
 
 if __name__ == '__main__':
 	main()
