@@ -1,6 +1,7 @@
 from nltk import CFG
 from nltk.parse.generate import generate
 import pandas as pd
+import csv
 
 def createLists(cfgString):
 	PairsList = []
@@ -126,13 +127,6 @@ def main():
 	MinPairsPlurCor = createLists(simpAgrPlCor)
 	MinPairsPlurFa = createLists(simpAgrPlFault)
 
-	print("\n" + "Regular sentences singular:" + "\n")
-	SimpAgrSingular = list(zip(MinPairsSingCor, MinPairsSingFa))
-	print(SimpAgrSingular)
-
-	print("\n" + "Regular sentences plural:" + "\n")
-	SimpAgrPlural = list(zip(MinPairsPlurCor, MinPairsPlurFa))
-	print(SimpAgrPlural)
 
 	# Get random words from csv files
 	NOUNsing = get_words("newRandomWords/SimpleAgreementSingularNouns.csv")
@@ -156,13 +150,39 @@ def main():
 	nonceplufl = addToGram(VERBsing, nonceplufl, "V")
 	mpnonceplurfaul = createLists(nonceplufl)
 
-	print("\n" + "Nonce sentences singular:" + "\n")
+	#Create minimal pairs
+	SimpAgrSingular = list(zip(MinPairsSingCor, MinPairsSingFa))
+	SimpAgrPlural = list(zip(MinPairsPlurCor, MinPairsPlurFa))
 	simpagrSingNonce = list(zip(minnoncesingcor, minnoncesingfaul))
-	print(simpagrSingNonce)
-
-	print("\n" + "Nonce sentences plural:" + "\n")
 	simpagrnonceplural = list(zip(mpnonceplurcor, mpnonceplurfaul))
-	print(simpagrnonceplural)
+
+	# Write to tsv file
+	with open("simpagr_data.tsv", "w") as out_file:
+		tsv_output = csv.writer(out_file, delimiter='\t')
+
+		# Write minimal pairs singular
+		for it in SimpAgrSingular:
+			start = ['simple_agrmt', 'sing_agr']
+			start.extend(it)
+			tsv_output.writerow(start)
+	
+		# Write minimal pairs plural
+		for i in SimpAgrPlural:
+			stplu = ['simple_agrmt', 'plur_agr']
+			stplu.extend(i)
+			tsv_output.writerow(stplu)
+
+		# Write minimal pairs singular nonce
+		for p in simpagrSingNonce:
+			sinnonce = ['simple_agrmt', 'sing_nonce']
+			sinnonce.extend(p)
+			tsv_output.writerow(sinnonce)
+
+		# Write minimal pairs plural nonce
+		for pp in simpagrnonceplural:
+			plunonce = ['simple_agrmt', 'plural_nonce']
+			plunonce.extend(pp)
+			tsv_output.writerow(plunonce)
 
 if __name__ == '__main__':
 	main()
