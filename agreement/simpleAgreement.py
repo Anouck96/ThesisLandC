@@ -62,93 +62,69 @@ def main():
 
 # Singular Noun simple agreement
 	simpAgrSing = """
-	S -> NP VP PUNCT
+	S -> NP VP
 	VP -> V
 	NP -> Det N
 	NP -> Propn
 	Det -> 'in'
 	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
-	V -> 'hat' | 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat'
-	PUNCT -> '.'
+	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	"""
 
 # For creation of nonce
 	simpSingNonce = """
-	S -> NP VP PUNCT
+	S -> NP VP
 	VP -> V
 	NP -> Det N
 	NP -> Propn
 	Det -> 'in'
-	PUNCT -> '.'
 	"""
 
 # Singular Noun with faulty plural verb
 	simpAgrSingFault = """ 
-	S -> NP VP PUNCT
+	S -> NP VP
 	VP -> V
 	NP -> Det N
 	NP -> Propn
 	Det -> 'in'
 	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
-	V -> 'hawwe' | 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
-	PUNCT -> '.'
+	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
 	"""
 
-# For nonce
-	simpSingNoncefl = """
-	S -> NP VP PUNCT
-	VP -> V
-	NP -> Det N
-	NP -> Propn
-	Det -> 'in'
-	PUNCT -> '.'
-	"""
 
 # Plural Noun simple agreement
 	simpAgrPlCor = """ 
-	S -> NP VP PUNCT
+	S -> NP VP
 	VP -> V
 	NP -> Det N
 	NP -> Propn
 	Det -> 'de'
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	V -> 'hawwe' | 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
-	PUNCT -> '.'
+	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
 	"""
 
 # For nonce sentences plural noun correct
 	noncepluc = """ 
-	S -> NP VP PUNCT
+	S -> NP VP
 	VP -> V
 	NP -> Det N
 	NP -> Propn
 	Det -> 'de'
-	PUNCT -> '.'
 	"""
 
 # Plural Noun with faulty singular verb
 	simpAgrPlFault = """
-	S -> NP VP PUNCT
+	S -> NP VP
 	VP -> V
 	NP -> Det N
 	NP -> Propn
 	Det -> 'de'
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	V -> 'hat' | 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat'
-	PUNCT -> '.'
+	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	"""
 
-# Nonce: Plural noun faulty singular verb 
-	nonceplf = """
-	S -> NP VP PUNCT
-	VP -> V
-	NP -> Det N
-	NP -> Propn
-	Det -> 'de'
-	PUNCT -> '.'
-	"""
 
 	MinPairsSingCor = createLists(simpAgrSing)
 	MinPairsSingFa = createLists(simpAgrSingFault)
@@ -157,26 +133,27 @@ def main():
 
 
 	# Get random words from csv files
-	NOUNsing = get_words("newRandomWords/SimpleAgreementSingularNouns.csv")
-	NOUNpl = get_words("newRandomWords/SimpleAgreementPluralNouns.csv")
-	VERBsing = get_words("newRandomWords/SimpleAgreementSingularVerbs.csv")
-	VERBpl = get_words("newRandomWords/SimpleAgreementPluralVerbs.csv")
+	NOUNsing = get_words("newRandomWords/simpleAgreement/SimpleAgreementSingularNounsbijV.csv")
+	NOUNpl = get_words("newRandomWords/simpleAgreement/SimpleAgreementPluralNounsbijV.csv")
+	VERBsing = get_words("newRandomWords/simpleAgreement/SimpleAgreementSingularVerbs.csv")
+	VERBpl = get_words("newRandomWords/simpleAgreement/SimpleAgreementPluralVerbs.csv")
 
 	noncesing = addToGram(NOUNsing, simpSingNonce, "N")
-	noncesing = addToGram(VERBsing, noncesing, "V")
+	noncesing = noncesing + "\n" + "V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'"
 	minnoncesingcor = createLists(noncesing)
 
 	noncesingFl = addToGram(NOUNsing, simpSingNonce, "N")
-	noncesingFl = addToGram(VERBpl, noncesingFl, "V")
+	noncesingFl = noncesingFl + "\n" + "V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'"
 	minnoncesingfaul = createLists(noncesingFl)
 
 	nonceplucor = addToGram(NOUNpl, noncepluc, "N")
-	nonceplucor = addToGram(VERBpl, nonceplucor, "V")
+	nonceplucor = nonceplucor + "\n" + "V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'"
 	mpnonceplurcor = createLists(nonceplucor)
 
-	nonceplufl = addToGram(NOUNpl, nonceplf, "N")
-	nonceplufl = addToGram(VERBsing, nonceplufl, "V")
-	mpnonceplurfaul = createLists(nonceplufl)
+
+	nonceplufl = addToGram(NOUNpl, noncepluc, "N")
+	nocneplufl = nonceplufl + "\n" + "V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'"
+	mpnonceplurfaul = createLists(nocneplufl)
 
 	#Create minimal pairs
 	SimpAgrSingular = list(zip(MinPairsSingCor, MinPairsSingFa))
