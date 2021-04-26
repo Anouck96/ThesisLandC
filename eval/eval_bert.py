@@ -5,13 +5,14 @@ from transformers import pipeline
 import sys
 import csv
 
-model_name = 'bert-large-multilingual-uncased'
-if 'base' in sys.argv: model_name = 'bert-base-multilingual-uncased'
+model_name = 'bert-base-multilingual-cased'
+#if 'base' in sys.argv: model_name = 'bert-base-multilingual-uncased'
 print("using model:",model_name,file=sys.stderr)
 tokenizer=BertTokenizer.from_pretrained(model_name)
 mbert = pipeline('fill-mask', model=model_name)
 
 def probe(Sentence,Targets) :
+	# Finds probabilities for the two words
     probs = []
     cor = Targets[0]
     for res in mbert(Sentence,targets=Targets) :
@@ -19,25 +20,15 @@ def probe(Sentence,Targets) :
     return probs
 
 def get_probs_for_words(sent,w1,w2):
-    pre,target,post=sent.split('***')
-    if 'mask' in target.lower():
-        target=['[MASK]']
-    else:
-        target=tokenizer.tokenize(target)
-
-    tokens=['[CLS]']+tokenizer.tokenize(pre)
-    target_idx=len(tokens)
-    tokens+=target+tokenizer.tokenize(post)+['[SEP]']
-
-    input_ids=tokenizer.convert_tokens_to_ids(tokens)
-    try:
+	# Checks if the words are in the vocab; returns probabilities
+    if  len(tokenizer.tokenize(w1)) == 1 and len(tokenizer.tokenize(w2)) == 1:
         word_ids=tokenizer.convert_tokens_to_ids([w1,w2])
         sent = sent.replace("***mask***", "[MASK]")
         probs = probe(sent, [w1, w2])
         return(probs)
-    except KeyError:
+    else:
         print("skipping",w1,w2,"bad wins")
-        return None
+        return("NA")
 
 
 from collections import Counter
@@ -45,7 +36,7 @@ def load_marvin():
     # Creates the sentences with masks and gets minimal differences (words)
     cc = Counter()
     out = []
-    for line in open("testcases/simpagr_data.tsv"):
+    for line in open("testcases/test.tsv"):
         case = line.strip().split("\t")
         cc[case[1]]+=1
         g,ug = case[-2],case[-1]
@@ -69,20 +60,26 @@ def main():
     from collections import defaultdict
     for i,(case,tp,s,g,b) in enumerate(o):
         ps = get_probs_for_words(s,g,b)
-        correct = ps[0][0]
-        if ps[0][1] == correct:
-            correctScore = ps[0][2]
-        elif ps[1][1] == correct:
-            correctScore = ps[1][2]
-        if ps[0][1] != correct:
-            incorrectScore = ps[0][2]
-        elif ps[1][1] != correct:
-            incorrectScore = ps[1][2]
-
-        if correctScore > incorrectScore:
-             print(f"True {case} {tp} {g} {b} {s}" )
+        if ps == "NA":
+        	print(f"False {case} {tp} {g} {b} {s}")
         else:
-             print(f"False {case} {tp} {g} {b} {s}")
+            correct = ps[0][0]
+            if ps[0][1] == correct:
+                correctScore = ps[0][2]
+            elif ps[1][1] == correct:
+                correctScore = ps[1][2]
+            if ps[0][1] != correct:
+                incorrectScore = ps[0][2]
+            elif ps[1][1] != correct:
+                incorrectScore = ps[1][2]
+
+            if correctScore > incorrectScore:
+                 print(f"True {case} {tp} {g} {b} {s}" )
+            else:
+                 print(f"False {case} {tp} {g} {b} {s}")
 
 if __name__ == '__main__':
     main()
+
+
+
