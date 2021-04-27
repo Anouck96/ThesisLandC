@@ -9,7 +9,11 @@ def createLists(cfgString):
 	for sent in generate(l):
 		new = (' '.join(sent))
 		PairsList.append(new)
-	return PairsList
+	length = len(PairsList)
+	middle_index = length//2
+	correctList = PairsList[:middle_index]
+	incorrectList = PairsList[middle_index:]
+	return correctList, incorrectList
 
 def get_words(csvFile):
 	df = pd.read_csv(csvFile, sep=",")
@@ -29,8 +33,8 @@ def addToGram(PROPNsing, Grammar, name):
 
 	return(gr)
 
-def writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplural, Nsimp_agrmt, Nsa, Npa, Nsn, Npn):
-	with open("sent_comp.tsv", "w") as out_file:
+def writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplural, sentcomsingSwitch, sentcomplurSwitch, Nsimp_agrmt, Nsa, Npa, Nsn, Npn, scsS, scpS):
+	with open("sentComp_data.tsv", "w") as out_file:
 		tsv_output = csv.writer(out_file, delimiter='\t')
 
 		# Write minimal pairs singular
@@ -57,143 +61,161 @@ def writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplura
 			plunonce.extend(pp)
 			tsv_output.writerow(plunonce)
 
+		# Write minimal pairs singular switched
+		for s in sentcomsingSwitch:
+			st = [Nsimp_agrmt, scsS]
+			st.extend(s)
+			tsv_output.writerow(st)
+
+		# Write minimal pairs singular switched
+		for e in sentcomplurSwitch:
+			swp = [Nsimp_agrmt, scpS]
+			swp.extend(e)
+			tsv_output.writerow(swp)
+
 def main():	
 	# Agreement in sentential complement sing NP (with faulty inflection)
 	sent_compCor = """
-	S -> NP VP Cp PUNCT
+	S -> NP VP Cp
+	S -> NP VP Cpfl
 	NP -> Detpl Npl
 	Cp -> sconj Vpcomp
+	Cpfl -> sconj Vpcompfl
 	Vpcomp -> Det Nsing Vsing
+	Vpcompfl -> Det Nsing Vplur
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	VP -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Vsing -> 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat' 
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
 	sconj -> 'dat'
-	PUNCT -> '.'
+	"""
+
+	# Optional (singular first noun and singular inflection)
+	sent_compCorSwitch = """
+	S -> NP VP Cp
+	S -> NP VP Cpfl
+	NP -> Det Nsing
+	Cp -> sconj Vpcomp
+	Cpfl -> sconj Vpcompfl
+	Vpcomp -> Det Nsing Vsing
+	Vpcompfl -> Det Nsing Vplur
+	Det -> 'in'
+	Detpl -> 'de'
+	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
+	VP -> 'sei' | 'seach' | 'tocht' | 'wist'
+	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	sconj -> 'dat'
 	"""
 
 	# Nonce version
 	sent_compCorNonce = """
-	S -> NP VP Cp PUNCT
+	S -> NP VP Cp
+	S -> NP VP Cpfl
 	NP -> Detpl Npl
 	Cp -> sconj Vpcomp
-	Vpcomp -> Det Nsing V
+	Cpfl -> sconj Vpcompfl
+	Vpcomp -> Det Nsing Vsing
+	Vpcompfl -> Det Nsing Vplur
 	Det -> 'in'
 	Detpl -> 'de'
 	sconj -> 'dat'
-	PUNCT -> '.'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'
 	"""
-
-	# Faulty version
-	sent_compFault = """
-	S -> NP VP Cp PUNCT
-	NP -> Detpl Npl
-	Cp -> sconj Vpcomp
-	Vpcomp -> Det Nsing Vplur
-	Det -> 'in'
-	Detpl -> 'de'
-	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	VP -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
-	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Vplur -> 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
-	sconj -> 'dat'
-	PUNCT -> '.'
-	"""
-
-	# Agreement in sentential complement plural NP
+	# Agreement in sentential complement plural NP (with faulty inflection)
 	sent_compplCor = """
-	S -> NP VP Cp PUNCT
+	S -> NP VP Cp
+	S -> NP VP Cpfl
 	NP -> Det Nsing
 	Cp -> sconj Vpcomp
+	Cpfl -> sconj Vpcompfl
 	Vpcomp -> Detpl Npl Vplur
+	Vpcompfl -> Detpl Npl Vsing
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	VP -> 'sei' | 'seach' | 'tocht' | 'wist'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Vplur -> 'geane' | 'komme' | 'freegje' | 'steane' | 'rinne' |'sitte' | 'prate'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
 	sconj -> 'dat'
-	PUNCT -> '.'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
 	"""
 
-	# Agreement in sentential complement plural NP Faulty inflection
-	sent_compplFault = """
-	S -> NP VP Cp PUNCT
-	NP -> Det Nsing
+	# Optional both nouns plural
+	sent_compplswitch = """
+	S -> NP VP Cp
+	S -> NP VP Cpfl
+	NP -> Detpl Npl
 	Cp -> sconj Vpcomp
-	Vpcomp -> Detpl Npl Vsing
+	Cpfl -> sconj Vpcompfl
+	Vpcomp -> Detpl Npl Vplur
+	Vpcompfl -> Detpl Npl Vsing
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	VP -> 'sei' | 'seach' | 'tocht' | 'wist'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Vsing -> 'giet' | 'komt' | 'freget' | 'stiet' | 'rûn' | 'sit' | 'praat'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
 	sconj -> 'dat'
-	PUNCT -> '.'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
 	"""
+
 
 	# Nonce version
 	sent_compplNonce = """
-	S -> NP VP Cp PUNCT
+	S -> NP VP Cp
+	S -> NP VP Cpfl
 	NP -> Det Nsing
 	Cp -> sconj Vpcomp
-	Vpcomp -> Detpl Npl V
+	Cpfl -> sconj Vpcompfl
+	Vpcomp -> Detpl Npl Vplur
+	Vpcompfl -> Detpl Npl Vsing
 	Det -> 'in'
 	Detpl -> 'de'
 	sconj -> 'dat'
-	PUNCT -> '.'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'
 	"""
 
-	sent_compSingCorrect = createLists(sent_compCor)
-	sent_compSingFaulty = createLists(sent_compFault)
-	sent_compPluCor = createLists(sent_compplCor)
-	sent_compPluFaulty = createLists(sent_compplFault)
-	# Create minimal pairs
-	sent_compSing = list(zip(sent_compSingCorrect, sent_compSingFaulty))
-	sent_compPlur = list(zip(sent_compPluCor, sent_compPluFaulty))
+	corsing, flsing = createLists(sent_compCor)
+	corplur, flplur = createLists(sent_compplCor)
 
+	corsingSwitch, flsingSwitch = createLists(sent_compCorSwitch)
+	corplurSwitch, flplurSwitch = createLists(sent_compplswitch)
+	 # Create minimal pairs
+	sentComp_Sing = list(zip(corsing, flsing))
+	sentComp_Plur = list(zip(corplur, flplur))
+
+	sentCompSingSwitch = list(zip(corsingSwitch, flsingSwitch))
+	sentCompPlurSwitch = list(zip(corplurSwitch, flplurSwitch))
+
+	# Get random words
 	NounSing = get_words("newRandomWords/sentComp/SentCompSingularNouns.csv")
 	NounPlur = get_words("newRandomWords/sentComp/SentCompPluralNouns.csv")
-	VerbSing = get_words("newRandomWords/sentComp/SentCompSingularVerbs.csv")
-	VerbPlur = get_words("newRandomWords/sentComp/SentCompPluralVerbs.csv")
 	Verbs2Sing = get_words("newRandomWords/sentComp/SentComp2SingularVerbs.csv")
 	Verbs2Plur = get_words("newRandomWords/sentComp/SentComp2PluralVerbs.csv")
 
-	# Create nonce sentence singular
+	 # Create nonce sentence singular
 	noncesing = addToGram(NounSing, sent_compCorNonce, "Nsing")
-	noncesing = addToGram(VerbSing, noncesing, "V")
 	noncesing = addToGram(Verbs2Plur, noncesing, "VP")
 	noncesing = addToGram(NounPlur, noncesing, "Npl")
-	NonceSingCor = createLists(noncesing)
+	noncesing, noncesingfl = createLists(noncesing)
+	sentComp_noncesing = list(zip(noncesing, noncesingfl))
 
-	# Create nonce sentences singular faulty inflection
-	noncesingf = addToGram(NounSing, sent_compCorNonce, "Nsing")
-	noncesingf = addToGram(VerbPlur, noncesingf, "V")
-	noncesingf = addToGram(Verbs2Plur, noncesingf, "VP")
-	noncesingf = addToGram(NounPlur, noncesingf, "Npl")
-	NonceSingFl = createLists(noncesingf)
 
-	#Create nonce sentences plural
+	 #Create nonce sentences plural
 	nonceplur = addToGram(NounPlur, sent_compplNonce, "Npl")
 	nonceplur = addToGram(Verbs2Sing, nonceplur, "VP")
 	nonceplur = addToGram(NounSing,nonceplur, "Nsing")
-	nonceplur = addToGram(VerbPlur, nonceplur, "V")
-	NoncePlurCor = createLists(nonceplur)
+	nonceplur, nonceplurfl = createLists(nonceplur)
+	sentComp_nonceplur = list(zip(nonceplur, nonceplurfl))
 
-	# Create nonce sentences plural faulty inflection
-	nonceplurf = addToGram(NounPlur, sent_compplNonce, "Npl")
-	nonceplurf = addToGram(Verbs2Sing, nonceplurf, "VP")
-	nonceplurf = addToGram(NounSing,nonceplurf, "Nsing")
-	nonceplurf = addToGram(VerbSing, nonceplurf, "V")
-	NoncePlurF = createLists(nonceplurf)
-
-	#Create minimal pairs
-	sent_compNonceSing = list(zip(NonceSingCor, NonceSingFl))
-	sent_compNoncePlur = list(zip(NoncePlurCor, NoncePlurF))
-
-	writeTSV(sent_compSing, sent_compPlur, sent_compNonceSing, sent_compNoncePlur, "sent_comp", "sent_compSing", "sent_compPlur", "sent_compNonceSing", "sent_compNoncePlur")	
+	writeTSV(sentComp_Sing, sentComp_Plur, sentComp_noncesing, sentComp_nonceplur, sentCompSingSwitch, sentCompPlurSwitch, "sent_comp", "sent_compSing", "sent_compPlur", "sent_compNonceSing", "sent_compNoncePlur", "sent_compSingSwitch", "sent_compPlurSwitch")	
 
 if __name__ == '__main__':
 	main()
