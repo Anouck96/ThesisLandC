@@ -9,8 +9,11 @@ def createLists(cfgString):
 	for sent in generate(l):
 		new = (' '.join(sent))
 		PairsList.append(new)
-
-	return PairsList
+	length = len(PairsList)
+	middle_index = length//2
+	correctList = PairsList[:middle_index]
+	incorrectList = PairsList[middle_index:]
+	return correctList, incorrectList
 
 def get_words(csvFile):
 	df = pd.read_csv(csvFile, sep=",")
@@ -57,12 +60,12 @@ def writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplura
 			plunonce = [Nsimp_agrmt, Npn]
 			plunonce.extend(pp)
 			tsv_output.writerow(plunonce)
-
 def main():
 
-# Singular Noun simple agreement
+# Singular Noun simple agreement with faulty inflections
 	simpAgrSing = """
 	S -> NP VP
+	S -> NP Vpl
 	VP -> V
 	NP -> Det N
 	NP -> Propn
@@ -70,100 +73,58 @@ def main():
 	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
 	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	"""
+
+# Plural Noun simple agreement
+	simpAgrPl = """ 
+	S -> NP VP
+	S -> NP Vsi
+	VP -> V
+	NP -> Det N
+	NP -> Propn
+	Det -> 'de'
+	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
+	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	"""
 
 # For creation of nonce
-	simpSingNonce = """
+	simpAgrNonce = """
 	S -> NP VP
+	S -> NP Vfl
 	VP -> V
 	NP -> Det N
 	NP -> Propn
-	Det -> 'in'
 	"""
 
-# Singular Noun with faulty plural verb
-	simpAgrSingFault = """ 
-	S -> NP VP
-	VP -> V
-	NP -> Det N
-	NP -> Propn
-	Det -> 'in'
-	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
-	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
-	"""
+	SingCor, SingFl = createLists(simpAgrSing)
+	PluCor, PluFl = createLists(simpAgrPl)
+
+		# Get random words from csv files
+	NOUNsing = get_words("newRandomWords/simpleAgreement/SingularNouns2704.csv")
+	NOUNpl = get_words("newRandomWords/simpleAgreement/PluralNouns2704.csv")
+
+	noncesing = addToGram(NOUNsing, simpAgrNonce, "N")
+	noncesing = noncesing + "\n" + "V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'"
+	noncesing = noncesing + "\n" + "Vfl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'"
+	noncesing = noncesing + "\n" + "Det -> 'in'"
+	noncesingCor, noncesingFl = createLists(noncesing)
+
+	nonceplucor = addToGram(NOUNpl, simpAgrNonce, "N")
+	nonceplucor = nonceplucor + "\n" + "V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'"
+	nonceplucor = nonceplucor + "\n" + "Det -> 'de'"
+	nonceplucor = nonceplucor + "\n" + "Vfl -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'"
+	noncepluCor, noncepluFl = createLists(nonceplucor)
 
 
-# Plural Noun simple agreement
-	simpAgrPlCor = """ 
-	S -> NP VP
-	VP -> V
-	NP -> Det N
-	NP -> Propn
-	Det -> 'de'
-	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
-	"""
-
-# For nonce sentences plural noun correct
-	noncepluc = """ 
-	S -> NP VP
-	VP -> V
-	NP -> Det N
-	NP -> Propn
-	Det -> 'de'
-	"""
-
-# Plural Noun with faulty singular verb
-	simpAgrPlFault = """
-	S -> NP VP
-	VP -> V
-	NP -> Det N
-	NP -> Propn
-	Det -> 'de'
-	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	"""
-
-
-	MinPairsSingCor = createLists(simpAgrSing)
-	MinPairsSingFa = createLists(simpAgrSingFault)
-	MinPairsPlurCor = createLists(simpAgrPlCor)
-	MinPairsPlurFa = createLists(simpAgrPlFault)
-
-
-	# Get random words from csv files
-	NOUNsing = get_words("newRandomWords/simpleAgreement/SimpleAgreementSingularNounsbijV.csv")
-	NOUNpl = get_words("newRandomWords/simpleAgreement/SimpleAgreementPluralNounsbijV.csv")
-	VERBsing = get_words("newRandomWords/simpleAgreement/SimpleAgreementSingularVerbs.csv")
-	VERBpl = get_words("newRandomWords/simpleAgreement/SimpleAgreementPluralVerbs.csv")
-
-	noncesing = addToGram(NOUNsing, simpSingNonce, "N")
-	noncesing = noncesing + "\n" + "V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'"
-	minnoncesingcor = createLists(noncesing)
-
-	noncesingFl = addToGram(NOUNsing, simpSingNonce, "N")
-	noncesingFl = noncesingFl + "\n" + "V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'"
-	minnoncesingfaul = createLists(noncesingFl)
-
-	nonceplucor = addToGram(NOUNpl, noncepluc, "N")
-	nonceplucor = nonceplucor + "\n" + "V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'"
-	mpnonceplurcor = createLists(nonceplucor)
-
-
-	nonceplufl = addToGram(NOUNpl, noncepluc, "N")
-	nocneplufl = nonceplufl + "\n" + "V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'"
-	mpnonceplurfaul = createLists(nocneplufl)
-
-	#Create minimal pairs
-	SimpAgrSingular = list(zip(MinPairsSingCor, MinPairsSingFa))
-	SimpAgrPlural = list(zip(MinPairsPlurCor, MinPairsPlurFa))
-	simpagrSingNonce = list(zip(minnoncesingcor, minnoncesingfaul))
-	simpagrnonceplural = list(zip(mpnonceplurcor, mpnonceplurfaul))
-
-	# Write to tsv file
-
-	writeTSV(SimpAgrSingular, SimpAgrPlural, simpagrSingNonce, simpagrnonceplural, "simp_agrmt", "sing_agr", "plur_agr", "sing_nonce", "plural_nonce")
+#Create minimal pairs
+	SimpAgrSingular = list(zip(SingCor, SingFl))
+	SimpAgrPlural = list(zip(PluCor, PluFl))
+	NonceSimpAgrSing = list(zip(noncesingCor, noncesingFl))
+	NonceSimpAgrPlu = list(zip(noncepluCor, noncepluFl))
+# Write to tsv
+	writeTSV(SimpAgrSingular, SimpAgrPlural, NonceSimpAgrSing, NonceSimpAgrPlu, "simp_agrmt", "sing_agr", "plur_agr", "sing_nonce", "plural_nonce")
 
 if __name__ == '__main__':
 	main()
