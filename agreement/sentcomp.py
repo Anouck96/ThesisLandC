@@ -158,7 +158,7 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	VP -> 'sei' | 'seach' | 'tocht' | 'wist'
+	VP -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
 	sconj -> 'dat'
