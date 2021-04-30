@@ -39,13 +39,15 @@ def main():
 	NOUNdf = (df[df.feats.str.contains("Pos.NOUN")])
 	VERBdf = (df[df.feats.str.contains("Pos.VERB")])
 	VERBTdf = (VERBdf[VERBdf.feats.str.contains("Person.Third")])
+	ADPdf = (df[df.feats.str.contains("Pos.ADP")])
+	randomADP = ADPdf.sample(n=nr)
 
 
 
 	randomSingNouns , pluralNouns = getNouns(nr, NOUNdf)
 	randomSingVerbs, pluralVerbs = getVerbs(nr, VERBTdf)
 
-	# Check if for both there are nr items
+	#Check if for both there are nr items
 	while randomSingNouns.shape[0] != nr or pluralNouns.shape[0] != nr:
 	 	randomSingNouns , pluralNouns = getNouns(nr, NOUNdf)
 	else:
@@ -58,10 +60,11 @@ def main():
 
 
 	# Write to files 
-	randomSingNouns.to_csv(r'SimpleAgreementSingularNouns.csv', index=False)
-	pluralNouns.to_csv(r'SimpleAgreementPluralNouns.csv', index=False)
-	randomSingVerbs.to_csv(r'SimpleAgreementSingularVerbs.csv', index=False)
-	pluralVerbs.to_csv(r'SimpleAgreementPluralVerbs.csv', index=False)
+	randomSingNouns.to_csv(r'wobjrelSingular2Nouns3004.csv', index=False)
+	pluralNouns.to_csv(r'wobjrelPlural2Nouns3004.csv', index=False)
+	randomSingVerbs.to_csv(r'wobjrelSingularVerbs3004.csv', index=False)
+	pluralVerbs.to_csv(r'wobjrelPluralVerbs3004.csv', index=False)
+	randomADP.to_csv(r'longVPADP3004.csv', index=False)
 
 if __name__ == '__main__':
 	main()
