@@ -16,6 +16,23 @@ def createLists(cfgString):
 	incorrectList = PairsList[middle_index:]
 	return correctList, incorrectList
 
+def writeTSV(past, fu, mainName, p, f):
+	with open("simplenpi_inanimate_data.tsv", "w") as out_file:
+		tsv_output = csv.writer(out_file, delimiter='\t')
+
+		# Write minimal pairs past
+		for it in past:
+			start = [mainName, p]
+			start.extend(it)
+			tsv_output.writerow(start)
+	
+		# Write minimal pairs future
+		for i in fu:
+			stplu = [mainName, f]
+			stplu.extend(i)
+			tsv_output.writerow(stplu)
+
+
 def main():
 
 	# simple NPI (PAST)
@@ -57,7 +74,7 @@ def main():
 	npiF = list(zip(fut, futfl))
 
 
-
+	writeTSV(npiP, npiF, "simpleNPI_inanim", "PAST", "FUTURE")
 
 if __name__ == '__main__':
 	main()
