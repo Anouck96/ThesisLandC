@@ -40,7 +40,11 @@ def main():
 	VERBdf = (df[df.feats.str.contains("Pos.VERB")])
 	VERBTdf = (VERBdf[VERBdf.feats.str.contains("Person.Third")])
 	ADPdf = (df[df.feats.str.contains("Pos.ADP")])
+	ADJdf = (df[df.feats.str.contains("Pos.ADJ")])
+	VERBINFdf = (df[df.feats.str.contains("VerbForm.Inf")])
 	randomADP = ADPdf.sample(n=nr)
+	randomADJ = ADJdf.sample(n=nr)
+	randomInfVB = VERBINFdf.sample(n=nr)
 
 
 
@@ -60,11 +64,13 @@ def main():
 
 
 	# Write to files 
-	randomSingNouns.to_csv(r'wobjrelSingular2Nouns3004.csv', index=False)
-	pluralNouns.to_csv(r'wobjrelPlural2Nouns3004.csv', index=False)
-	randomSingVerbs.to_csv(r'wobjrelSingularVerbs3004.csv', index=False)
-	pluralVerbs.to_csv(r'wobjrelPluralVerbs3004.csv', index=False)
-	randomADP.to_csv(r'longVPADP3004.csv', index=False)
+	#randomSingNouns.to_csv(r'SimpRSingularNouns3004.csv', index=False)
+	pluralNouns.to_csv(r'simpNPIPluralNouns3004.csv', index=False)
+	#randomSingVerbs.to_csv(r'SimpRSingularVerbs3004.csv', index=False)
+	pluralVerbs.to_csv(r'simpNPIPluralVerbs3004.csv', index=False)
+	randomADJ.to_csv(r'simpNPIADJ3004.csv', index=False)
+	randomsInfVB.to_csv(r'simpNPIInfVB3004.csv', index=False)
+	# randomADP.to_csv(r'longVPADP3004.csv', index=False)
 
 if __name__ == '__main__':
 	main()
