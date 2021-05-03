@@ -65,47 +65,51 @@ def writeTSV(Sing, Plur, SingNonce, PlurNonce, mainName, S, P, SN, PN):
 def main():
 	# Simple reflexive (singular noun + faulty inflection)
 	refl = """ 
-	S -> NP VP ANPHRs
-	S -> NP VP ANPHRp
+	S -> NP VP ANPHRs ref
+	S -> NP VP ANPHRp ref
 	NP -> Det Nsi
 	Det -> 'in'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
 	Nsi ->  'man' | 'heit' | 'jonge' | 'kening'
 	VP -> 'ferwûne' | 'lokwinsket' | 'ferlegen' | 'ferklaaide' | 'hate'
+	ref -> 'sels'
 	"""
 
 	# Simple Nonce
 	reflns = """ 
-	S -> NP VP ANPHRs
-	S -> NP VP ANPHRp
+	S -> NP VP ANPHRs ref
+	S -> NP VP ANPHRp ref
 	NP -> Det Nsi
 	Det -> 'in'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
+	ref -> 'sels'
 	"""
 
 	# Simple reflexive (plural noun + faulty inflection)
 	reflpl = """ 
-	S -> NP VP ANPHRp
-	S -> NP VP ANPHRs
+	S -> NP VP ANPHRp ref
+	S -> NP VP ANPHRs ref
 	NP -> Det Np
 	Det -> 'de'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
 	Np ->  'manlju' | 'heiten' | 'jonges' | 'keningen'
 	VP -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 
 
 	# Plural Nonce
 	reflplN = """ 
-	S -> NP VP ANPHRp
-	S -> NP VP ANPHRs
+	S -> NP VP ANPHRp ref
+	S -> NP VP ANPHRs ref
 	NP -> Det Np
 	Det -> 'de'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
+	ref -> 'sels'
 	"""
 
 	refl, relffl = createLists(refl)

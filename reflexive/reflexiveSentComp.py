@@ -81,8 +81,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Detp Npl
 	VP -> Vpl
-	Comp -> sconj Det Nsing ANPHRs aux Vpart
-	Compfl -> sconj Det Nsing ANPHRp aux Vpart
+	Comp -> sconj Det Nsing ANPHRs ref aux Vpart
+	Compfl -> sconj Det Nsing ANPHRp ref aux Vpart
 	Detp -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vpl -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
@@ -93,6 +93,7 @@ def main():
 	ANPHRp -> 'har'
 	aux -> 'hie'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 
 	# Reflexive sentential complement (singular noun + faulty inflection) - NONCE version
@@ -101,8 +102,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Detp Npl
 	VP -> Vpl
-	Comp -> sconj Det Nsing ANPHRs aux Vpart
-	Compfl -> sconj Det Nsing ANPHRp aux Vpart
+	Comp -> sconj Det Nsing ANPHRs ref aux Vpart
+	Compfl -> sconj Det Nsing ANPHRp ref aux Vpart
 	Detp -> 'de'
 	sconj -> 'dat'
 	Det -> 'in'
@@ -110,6 +111,7 @@ def main():
 	ANPHRp -> 'har'
 	aux -> 'hie'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 
 	# Optional both singular
@@ -118,8 +120,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Det Ns
 	VP -> Vsg
-	Comp -> sconj Det Nsing ANPHRs aux Vpart
-	Compfl -> sconj Det Nsing ANPHRp aux Vpart
+	Comp -> sconj Det Nsing ANPHRs ref aux Vpart
+	Compfl -> sconj Det Nsing ANPHRp ref aux Vpart
 	Detp -> 'de'
 	Ns -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vsg -> 'sei' | 'seach' | 'tocht' | 'wist'
@@ -130,6 +132,7 @@ def main():
 	ANPHRp -> 'har'
 	aux -> 'hie'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 
 	# Reflexive sentential complement (plural noun + faulty inflection)
@@ -138,8 +141,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Det Nsg
 	VP -> Vsg
-	Comp -> sconj Detpl Nplur ANPHRp aux Vpart
-	Compfl -> sconj Detpl Nplur ANPHRs aux Vpart
+	Comp -> sconj Detpl Nplur ANPHRp ref aux Vpart
+	Compfl -> sconj Detpl Nplur ANPHRs ref aux Vpart
 	Det -> 'in'
 	Nsg -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vsg -> 'sei' | 'seach' | 'tocht' | 'wist'
@@ -150,6 +153,7 @@ def main():
 	ANPHRs -> 'him'
 	aux -> 'hiene'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 	# Reflexive sentential complement (plural noun + faulty inflection) - Nonce version
 	sentReflplNon = """ 
@@ -157,8 +161,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Det Nsg
 	VP -> Vsg
-	Comp -> sconj Detpl Nplur ANPHRp aux Vpart
-	Compfl -> sconj Detpl Nplur ANPHRs aux Vpart
+	Comp -> sconj Detpl Nplur ANPHRp ref aux Vpart
+	Compfl -> sconj Detpl Nplur ANPHRs ref aux Vpart
 	Det -> 'in'
 	sconj -> 'dat'
 	Detpl -> 'de'
@@ -166,6 +170,7 @@ def main():
 	ANPHRs -> 'him'
 	aux -> 'hiene'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 
 	# Optional both plural
@@ -174,8 +179,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Detpl Np
 	VP -> Vpl
-	Comp -> sconj Detpl Nplur ANPHRp aux Vpart
-	Compfl -> sconj Detpl Nplur ANPHRs aux Vpart
+	Comp -> sconj Detpl Nplur ANPHRp ref aux Vpart
+	Compfl -> sconj Detpl Nplur ANPHRs ref aux Vpart
 	Det -> 'in'
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vpl -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
@@ -186,6 +191,7 @@ def main():
 	ANPHRs -> 'him'
 	aux -> 'hiene'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	ref -> 'sels'
 	"""
 
 	reSg, reSgFl = createLists(sentRefl)

@@ -77,8 +77,8 @@ def writeTSV(sing, plu, singNonce, pluNonce, sing2, plu2, mainName, s, p, sn, pn
 def main():
 	# Reflexive across object relative clause (singular noun + faulty inflection)
 	reflOb = """ 
-	S -> NP RelCl VP ANPHRs
-	S -> NP RelCl VP ANPHRp
+	S -> NP RelCl VP ANPHRs ref
+	S -> NP RelCl VP ANPHRp ref
 	NP -> Detsg Nsg
 	RelCl -> sconj Detpl Nplur Vp
 	VP -> Vpart
@@ -91,12 +91,13 @@ def main():
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
+	ref -> 'sels'
 	"""
 
 	# Singular Nonce
 	reflObN = """ 
-	S -> NP RelCl VP ANPHRs
-	S -> NP RelCl VP ANPHRp
+	S -> NP RelCl VP ANPHRs ref
+	S -> NP RelCl VP ANPHRp ref
 	NP -> Detsg Nsg
 	RelCl -> sconj Detpl Nplur Vp
 	VP -> Vpart
@@ -106,12 +107,13 @@ def main():
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
+	ref -> 'sels'
 	"""
 
 	# Optional both singular
 	reflObsg2 = """ 
-	S -> NP RelCl VP ANPHRs
-	S -> NP RelCl VP ANPHRp
+	S -> NP RelCl VP ANPHRs ref
+	S -> NP RelCl VP ANPHRp ref
 	NP -> Detsg Nsg
 	RelCl -> sconj Detsg Nsg Vs
 	VP -> Vpart
@@ -124,12 +126,13 @@ def main():
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
+	ref -> 'sels'
 	"""
 
 	# Reflexive across object relative clause (plural + faulty inflection)
 	reflObpl = """ 
-	S -> NP RelCl VP ANPHRp
-	S -> NP RelCl VP ANPHRs
+	S -> NP RelCl VP ANPHRp ref
+	S -> NP RelCl VP ANPHRs ref
 	NP -> Detpl Npl
 	RelCl -> sconj Det Nsg Vs
 	VP -> Vpart
@@ -142,12 +145,13 @@ def main():
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRp -> 'har'
 	ANPHRs -> 'him'
+	ref -> 'sels'
 	"""
 
 	# Plural Nonce
 	reflObplN = """ 
-	S -> NP RelCl VP ANPHRp
-	S -> NP RelCl VP ANPHRs
+	S -> NP RelCl VP ANPHRp ref
+	S -> NP RelCl VP ANPHRs ref
 	NP -> Detpl Npl
 	RelCl -> sconj Det Nsg Vs
 	VP -> Vpart
@@ -157,12 +161,13 @@ def main():
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRp -> 'har'
 	ANPHRs -> 'him'
+	ref -> 'sels'
 	"""
 
 	#Optional both plural
 	reflObpl2 = """ 
-	S -> NP RelCl VP ANPHRp
-	S -> NP RelCl VP ANPHRs
+	S -> NP RelCl VP ANPHRp ref
+	S -> NP RelCl VP ANPHRs ref
 	NP -> Detpl Npl
 	RelCl -> sconj Detpl Nplur Vp
 	VP -> Vpart
@@ -175,6 +180,7 @@ def main():
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRp -> 'har'
 	ANPHRs -> 'him'
+	ref -> 'sels'
 	"""
 
 	sg, sgfl = createLists(reflOb)
