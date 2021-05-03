@@ -199,7 +199,8 @@ def main():
 	noncep, noncepfl = createLists(nonceplur)
 	wobjrel_nonceplur = list(zip(noncep, noncepfl))
 
-	writeTSV(objinrel_sg, objinrel_pl, wobjrel_noncesing, wobjrel_nonceplur, objinrel_sg2, objinrel_pl2, "withinobjrel_inanim", "wobj_sg", "wojb_pl", "wobj_sgNonce", "wobj_plNonce", "wobj_sg2", "wobj_pl2")
+	# names switched here (so sg is named pl except for sg2 and pl2)
+	writeTSV(objinrel_sg, objinrel_pl, wobjrel_noncesing, wobjrel_nonceplur, objinrel_sg2, objinrel_pl2, "withinobjrel_inanim", "wobj_pl", "wojb_sg", "wobj_plNonce", "wobj_sgNonce", "wobj_sg2", "wobj_pl2")
 
 
 
