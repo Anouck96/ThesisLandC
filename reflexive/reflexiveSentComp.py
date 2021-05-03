@@ -81,8 +81,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Detp Npl
 	VP -> Vpl
-	Comp -> sconj Det Nsing ANPHRs ref aux Vpart
-	Compfl -> sconj Det Nsing ANPHRp ref aux Vpart
+	Comp -> sconj Det Nsing ANPHRs ref Vpart
+	Compfl -> sconj Det Nsing ANPHRp ref Vpart
 	Detp -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vpl -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
@@ -91,8 +91,7 @@ def main():
 	Nsing -> 'man' | 'heit' | 'jonge' | 'kening'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
-	aux -> 'hie'
-	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	Vpart -> 'ferwûne' | 'lokwinsket' | 'ferlegen' | 'ferklaaide' | 'hatet'
 	ref -> 'sels'
 	"""
 
@@ -109,8 +108,7 @@ def main():
 	Det -> 'in'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
-	aux -> 'hie'
-	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	Vpart -> 'ferwûne' | 'lokwinsket' | 'ferlegen' | 'ferklaaide' | 'hatet'
 	ref -> 'sels'
 	"""
 
@@ -130,8 +128,7 @@ def main():
 	Nsing -> 'man' | 'heit' | 'jonge' | 'kening'
 	ANPHRs -> 'him'
 	ANPHRp -> 'har'
-	aux -> 'hie'
-	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
+	Vpart -> 'ferwûne' | 'lokwinsket' | 'ferlegen' | 'ferklaaide' | 'hatet'
 	ref -> 'sels'
 	"""
 
@@ -141,8 +138,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Det Nsg
 	VP -> Vsg
-	Comp -> sconj Detpl Nplur ANPHRp ref aux Vpart
-	Compfl -> sconj Detpl Nplur ANPHRs ref aux Vpart
+	Comp -> sconj Detpl Nplur ANPHRp ref Vpart
+	Compfl -> sconj Detpl Nplur ANPHRs ref Vpart
 	Det -> 'in'
 	Nsg -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vsg -> 'sei' | 'seach' | 'tocht' | 'wist'
@@ -151,7 +148,6 @@ def main():
 	Nplur -> 'manlju' | 'heiten' | 'jonges' | 'keningen'
 	ANPHRp -> 'har'
 	ANPHRs -> 'him'
-	aux -> 'hiene'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ref -> 'sels'
 	"""
@@ -161,14 +157,13 @@ def main():
 	S -> NP VP Compfl
 	NP -> Det Nsg
 	VP -> Vsg
-	Comp -> sconj Detpl Nplur ANPHRp ref aux Vpart
-	Compfl -> sconj Detpl Nplur ANPHRs ref aux Vpart
+	Comp -> sconj Detpl Nplur ANPHRp ref Vpart
+	Compfl -> sconj Detpl Nplur ANPHRs ref Vpart
 	Det -> 'in'
 	sconj -> 'dat'
 	Detpl -> 'de'
 	ANPHRp -> 'har'
 	ANPHRs -> 'him'
-	aux -> 'hiene'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ref -> 'sels'
 	"""
@@ -189,7 +184,6 @@ def main():
 	Nplur -> 'manlju' | 'heiten' | 'jonges' | 'keningen'
 	ANPHRp -> 'har'
 	ANPHRs -> 'him'
-	aux -> 'hiene'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ref -> 'sels'
 	"""
