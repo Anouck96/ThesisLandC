@@ -23,7 +23,9 @@ def get_probs_for_words(sent,w1,w2):
 	# Checks if the words are in the vocab; returns probabilities
     if  len(tokenizer.tokenize(w1)) == 1 and len(tokenizer.tokenize(w2)) == 1:
         word_ids=tokenizer.convert_tokens_to_ids([w1,w2])
+        sent = sent.capitalize()
         sent = sent.replace("***mask***", "[MASK]")
+        print(sent)
         probs = probe(sent, [w1, w2])
         return(probs)
     else:
