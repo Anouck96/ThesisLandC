@@ -124,8 +124,8 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	sconj -> 'dat'
-	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
 	"""
 	# Agreement in sentential complement plural NP (with faulty inflection)
 	sent_compplCor = """
@@ -178,8 +178,8 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	sconj -> 'dat'
-	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'
+	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
 	"""
 
 	corsing, flsing = createLists(sent_compCor)
