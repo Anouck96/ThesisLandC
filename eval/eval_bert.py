@@ -61,6 +61,7 @@ def main():
     from collections import defaultdict
     for i,(case,tp,s,g,b) in enumerate(o):
         ps = get_probs_for_words(s,g,b)
+        s = s.capitalize()
         if ps == "NA":
         	print(f"False {case} {tp} {g} {b} {s}")
         else:
