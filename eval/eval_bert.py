@@ -25,7 +25,6 @@ def get_probs_for_words(sent,w1,w2):
         word_ids=tokenizer.convert_tokens_to_ids([w1,w2])
         sent = sent.capitalize()
         sent = sent.replace("***mask***", "[MASK]")
-        print(sent)
         probs = probe(sent, [w1, w2])
         return(probs)
     else:
@@ -38,7 +37,7 @@ def load_marvin():
     # Creates the sentences with masks and gets minimal differences (words)
     cc = Counter()
     out = []
-    for line in open("testcases/test.tsv"):
+    for line in open("data/simpagr_data.tsv"):
         case = line.strip().split("\t")
         cc[case[1]]+=1
         g,ug = case[-2],case[-1]
