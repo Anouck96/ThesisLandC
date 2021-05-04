@@ -85,7 +85,7 @@ def main():
 	VPrel -> Detpl Npl
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Nsi -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	VP -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
@@ -103,7 +103,7 @@ def main():
 	VPrel -> Detpl Npl
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
 	"""
@@ -117,7 +117,7 @@ def main():
 	VPrel -> Det Nsg
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Nsi -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	VP -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
@@ -135,7 +135,7 @@ def main():
 	VPrel -> Det Nsg
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	VP -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
@@ -153,7 +153,7 @@ def main():
 	VPrel -> Det Nsg
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
 	"""
@@ -168,7 +168,7 @@ def main():
 	VPrel -> Detpl Np2
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	VP -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
 	Np2 -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
