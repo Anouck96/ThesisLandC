@@ -44,7 +44,7 @@ def main():
 	neg -> 'gjin'
 	det -> 'de'
 	N -> 'huzen' | "auto's" | 'boeken' | 'tafels' | 'dingen'
-	sconj -> "dy't"
+	sconj -> "wêr't"
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vrel -> 'fan hâlde' | 'bewûnderje'
 	aux -> 'benne'
@@ -64,7 +64,7 @@ def main():
 	det -> 'de'
 	N -> 'huzen' | "auto's" | 'boeken' | 'tafels' | 'dingen'
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	sconj -> "dy't"
+	sconj -> "wêr't"
 	Vrel -> 'fan hâlde' | 'bewûnderje'
 	aux -> 'sille'
 	npi -> 'ea'

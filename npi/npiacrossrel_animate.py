@@ -87,7 +87,7 @@ def main():
 	neg -> 'gjin'
 	det -> 'de'
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Vrel -> 'fan hâlde' | 'bewûnderje'
 	aux -> 'benne'
 	npi -> 'ea'
@@ -104,7 +104,7 @@ def main():
 	VP -> aux npi adj Vpartic
 	neg -> 'gjin'
 	det -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	aux -> 'benne'
 	npi -> 'ea'
 	Vpartic -> 'west' """
@@ -121,7 +121,7 @@ def main():
 	neg -> 'gjin'
 	det -> 'de'
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Vrel -> 'fan hâlde' | 'bewûnderje'
 	aux -> 'sille'
 	npi -> 'ea'
@@ -139,7 +139,7 @@ def main():
 	VP -> aux npi adj Vpartic
 	neg -> 'gjin'
 	det -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	aux -> 'sille'
 	npi -> 'ea'
 	Vpartic -> 'wêze' """
@@ -153,7 +153,7 @@ def main():
 	VP -> adp V
 	det -> 'de'
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Vrel -> 'fan hâlde' | 'bewûnderje'
 	aux -> 'hoege'
 	npi -> 'net'
@@ -170,7 +170,7 @@ def main():
 	Rel -> sconj det N Vrel
 	VP -> adp V
 	det -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	aux -> 'hoege'
 	npi -> 'net'
 	adj -> 'wol'
