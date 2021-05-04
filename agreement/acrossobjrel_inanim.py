@@ -73,7 +73,7 @@ def main():
 	VPrel -> Detpl Npl
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "wêr't"
+	sconj -> "der't"
 	Nsi -> 'it hûs' | 'de auto' | 'it boek' | 'de tafel' | 'it ding'
 	VP -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
@@ -91,7 +91,7 @@ def main():
 	VPrel -> Det Nsg
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "wêr't"
+	sconj -> "der't"
 	Nsi -> 'it hûs' | 'de auto' | 'it boek' | 'de tafel' | 'it ding'
 	VP -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
@@ -109,7 +109,7 @@ def main():
 	VPrel -> Det Nsg
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "wêr't"
+	sconj -> "der't"
 	Np -> 'huzen' | "auto's" | 'boeken' | 'tafels' | 'dingen'
 	VP -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
@@ -127,7 +127,7 @@ def main():
 	VPrel -> Detpl Np2
 	Det -> 'in'
 	Detpl -> 'de'
-	sconj -> "wêr't"
+	sconj -> "der't"
 	Np -> 'huzen' | "auto's" | 'boeken' | 'tafels' | 'dingen'
 	VP -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
 	Np2 -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
