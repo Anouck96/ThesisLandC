@@ -84,7 +84,7 @@ def main():
 	VP -> Vpart
 	Detsg -> 'in'
 	Nsg -> 'man' | 'heit' | 'jonge' | 'kening'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Detpl -> 'de'
 	Nplur -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vp -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
@@ -102,7 +102,7 @@ def main():
 	RelCl -> sconj Detpl Nplur Vp
 	VP -> Vpart
 	Detsg -> 'in'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Detpl -> 'de'
 	Vpart -> 'ferwûne' | 'lokwinsket' | 'ferlegen' | 'ferklaaide' | 'hatet'
 	ANPHRs -> 'him'
@@ -119,7 +119,7 @@ def main():
 	VP -> Vpart
 	Detsg -> 'in'
 	Nsg -> 'man' | 'heit' | 'jonge' | 'kening'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Detpl -> 'de'
 	Nsg -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vs -> 'fan hâldt' | 'bewûnderet' | 'hatet'
@@ -138,7 +138,7 @@ def main():
 	VP -> Vpart
 	Detpl -> 'de'
 	Npl -> 'manlju' | 'heiten' | 'jonges' | 'keningen'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Det -> 'in'
 	Nsg -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vs -> 'fan hâldt' | 'bewûnderet' | 'hatet'
@@ -156,7 +156,7 @@ def main():
 	RelCl -> sconj Det Nsg Vs
 	VP -> Vpart
 	Detpl -> 'de'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Det -> 'in'
 	Vpart -> 'ferwûnen' | 'lokwinsken' | 'ferlegen' | 'ferklaaiden' | 'hate'
 	ANPHRp -> 'har'
@@ -173,7 +173,7 @@ def main():
 	VP -> Vpart
 	Detpl -> 'de'
 	Npl -> 'manlju' | 'heiten' | 'jonges' | 'keningen'
-	sconj -> "dy't"
+	sconj -> "dêr't"
 	Det -> 'in'
 	Nplur -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vp -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
