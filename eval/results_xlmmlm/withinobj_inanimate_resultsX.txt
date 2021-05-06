@@ -1,0 +1,608 @@
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de pakes ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de pakes ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de pakes ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de pakes ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de boargemasters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de boargemasters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de boargemasters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de boargemasters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de direkteuren ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de direkteuren ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de direkteuren ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de direkteuren ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsessen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsessen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsessen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsessen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de foarsitters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de foarsitters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de foarsitters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de foarsitters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It hûs dat de prinsen ***mask*** is populêr .
+False withinobjrel_inanim wobj_pl hawwe hat De auto dat de pakes ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de pakes ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de pakes ***mask*** is nij .
+False withinobjrel_inanim wobj_pl hawwe hat De auto dat de pakes ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de boargemasters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de boargemasters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de boargemasters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de boargemasters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de direkteuren ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de direkteuren ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de direkteuren ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de direkteuren ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsessen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsessen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsessen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsessen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de foarsitters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de foarsitters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de foarsitters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de foarsitters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De auto dat de prinsen ***mask*** is populêr .
+False withinobjrel_inanim wobj_pl hawwe hat It boek dat de pakes ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de pakes ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de pakes ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de pakes ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de boargemasters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de boargemasters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de boargemasters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de boargemasters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de direkteuren ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de direkteuren ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de direkteuren ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de direkteuren ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsessen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsessen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsessen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsessen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de foarsitters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de foarsitters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de foarsitters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de foarsitters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It boek dat de prinsen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de pakes ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de pakes ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de pakes ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de pakes ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de boargemasters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de boargemasters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de boargemasters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de boargemasters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de direkteuren ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de direkteuren ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de direkteuren ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de direkteuren ***mask*** is populêr .
+False withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsessen ***mask*** is goed .
+False withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsessen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsessen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsessen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de foarsitters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de foarsitters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de foarsitters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de foarsitters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat De tafel dat de prinsen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de pakes ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de pakes ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de pakes ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de pakes ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de boargemasters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de boargemasters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de boargemasters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de boargemasters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de direkteuren ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de direkteuren ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de direkteuren ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de direkteuren ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsessen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsessen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsessen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsessen ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de foarsitters ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de foarsitters ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de foarsitters ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de foarsitters ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsen ***mask*** is goed .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsen ***mask*** is min .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsen ***mask*** is nij .
+True withinobjrel_inanim wobj_pl hawwe hat It ding dat de prinsen ***mask*** is populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in pake ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in pake ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in pake ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in pake ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in boargemaster ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in boargemaster ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in boargemaster ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in boargemaster ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in direkteur ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in direkteur ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in direkteur ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in direkteur ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prinses ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prinses ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prinses ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prinses ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in foarsitter ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in foarsitter ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in foarsitter ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in foarsitter ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prins ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prins ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prins ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De huzen dy't in prins ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in pake ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in pake ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in pake ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in pake ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in boargemaster ***mask*** benne goed .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in boargemaster ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in boargemaster ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in boargemaster ***mask*** benne populêr .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in direkteur ***mask*** benne goed .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in direkteur ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in direkteur ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in direkteur ***mask*** benne populêr .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prinses ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prinses ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prinses ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prinses ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in foarsitter ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in foarsitter ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in foarsitter ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in foarsitter ***mask*** benne populêr .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prins ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prins ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prins ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De auto's dy't in prins ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in pake ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in pake ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in pake ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in pake ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in boargemaster ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in boargemaster ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in boargemaster ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in boargemaster ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in direkteur ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in direkteur ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in direkteur ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in direkteur ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prinses ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prinses ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prinses ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prinses ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in foarsitter ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in foarsitter ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in foarsitter ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in foarsitter ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prins ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prins ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prins ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De boeken dy't in prins ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in pake ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in pake ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in pake ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in pake ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in boargemaster ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in boargemaster ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in boargemaster ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in boargemaster ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in direkteur ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in direkteur ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in direkteur ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in direkteur ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prinses ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prinses ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prinses ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prinses ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in foarsitter ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in foarsitter ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in foarsitter ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in foarsitter ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prins ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prins ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prins ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De tafels dy't in prins ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in pake ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in pake ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in pake ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in pake ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in boargemaster ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in boargemaster ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in boargemaster ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in boargemaster ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in direkteur ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in direkteur ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in direkteur ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in direkteur ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prinses ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prinses ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prinses ***mask*** benne nij .
+True withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prinses ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in foarsitter ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in foarsitter ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in foarsitter ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in foarsitter ***mask*** benne populêr .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prins ***mask*** benne goed .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prins ***mask*** benne min .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prins ***mask*** benne nij .
+False withinobjrel_inanim wojb_sg hat hawwe De dingen dy't in prins ***mask*** benne populêr .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de mearke-eftigen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de mearke-eftigen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de mearke-eftigen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de mearke-eftigen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de skipsongelokken ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de skipsongelokken ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de skipsongelokken ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de skipsongelokken ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de sloopbedriuwen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de sloopbedriuwen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de sloopbedriuwen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de sloopbedriuwen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de strontkroaden ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de strontkroaden ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de strontkroaden ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In buertwinkeltsje dat de strontkroaden ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de mearke-eftigen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de mearke-eftigen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de mearke-eftigen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de mearke-eftigen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de skipsongelokken ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de skipsongelokken ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de skipsongelokken ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de skipsongelokken ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de sloopbedriuwen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de sloopbedriuwen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de sloopbedriuwen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de sloopbedriuwen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de strontkroaden ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de strontkroaden ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de strontkroaden ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In koarddûnser dat de strontkroaden ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de mearke-eftigen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de mearke-eftigen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de mearke-eftigen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de mearke-eftigen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de skipsongelokken ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de skipsongelokken ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de skipsongelokken ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de skipsongelokken ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de sloopbedriuwen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de sloopbedriuwen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de sloopbedriuwen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de sloopbedriuwen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de strontkroaden ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de strontkroaden ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de strontkroaden ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In tichelwurkje dat de strontkroaden ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de mearke-eftigen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de mearke-eftigen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de mearke-eftigen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de mearke-eftigen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de skipsongelokken ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de skipsongelokken ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de skipsongelokken ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de skipsongelokken ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de sloopbedriuwen ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de sloopbedriuwen ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de sloopbedriuwen ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de sloopbedriuwen ***mask*** sensurearre .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de strontkroaden ***mask*** beieret .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de strontkroaden ***mask*** eftersit .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de strontkroaden ***mask*** rikte .
+True withinobjrel_inanim wobj_plNonce hawwe hat In timer dat de strontkroaden ***mask*** sensurearre .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in mearke-eftichste ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in mearke-eftichste ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in mearke-eftichste ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in mearke-eftichste ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in skipsongelok ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in skipsongelok ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in skipsongelok ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in skipsongelok ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in sloopbedriuwke ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in sloopbedriuwke ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in sloopbedriuwke ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in sloopbedriuwke ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in strontkroade ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in strontkroade ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in strontkroade ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De buertwinkeltsjes dy't in strontkroade ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in mearke-eftichste ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in mearke-eftichste ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in mearke-eftichste ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in mearke-eftichste ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in skipsongelok ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in skipsongelok ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in skipsongelok ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in skipsongelok ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in sloopbedriuwke ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in sloopbedriuwke ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in sloopbedriuwke ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in sloopbedriuwke ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in strontkroade ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in strontkroade ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in strontkroade ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De koarddûnsers dy't in strontkroade ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in mearke-eftichste ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in mearke-eftichste ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in mearke-eftichste ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in mearke-eftichste ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in skipsongelok ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in skipsongelok ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in skipsongelok ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in skipsongelok ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in sloopbedriuwke ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in sloopbedriuwke ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in sloopbedriuwke ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in sloopbedriuwke ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in strontkroade ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in strontkroade ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in strontkroade ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De tichelwurken dy't in strontkroade ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in mearke-eftichste ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in mearke-eftichste ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in mearke-eftichste ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in mearke-eftichste ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in skipsongelok ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in skipsongelok ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in skipsongelok ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in skipsongelok ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in sloopbedriuwke ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in sloopbedriuwke ***mask*** eftersitte .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in sloopbedriuwke ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in sloopbedriuwke ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in strontkroade ***mask*** beieren .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in strontkroade ***mask*** eftersitte .
+True withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in strontkroade ***mask*** rikke .
+False withinobjrel_inanim wobj_sgNonce hat hawwe De timers dy't in strontkroade ***mask*** sensurearen .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in pake ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in pake ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in pake ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in pake ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in boargemaster ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in boargemaster ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in boargemaster ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in boargemaster ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in direkteur ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in direkteur ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in direkteur ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in direkteur ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prinses ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prinses ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prinses ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prinses ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in foarsitter ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in foarsitter ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in foarsitter ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in foarsitter ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prins ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prins ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prins ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It hûs dat in prins ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in pake ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in pake ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in pake ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in pake ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in boargemaster ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in boargemaster ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in boargemaster ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in boargemaster ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in direkteur ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in direkteur ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in direkteur ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in direkteur ***mask*** is populêr .
+True withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prinses ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prinses ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prinses ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prinses ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in foarsitter ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in foarsitter ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in foarsitter ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in foarsitter ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prins ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prins ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prins ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De auto dat in prins ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in pake ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in pake ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in pake ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in pake ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in boargemaster ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in boargemaster ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in boargemaster ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in boargemaster ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in direkteur ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in direkteur ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in direkteur ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in direkteur ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prinses ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prinses ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prinses ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prinses ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in foarsitter ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in foarsitter ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in foarsitter ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in foarsitter ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prins ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prins ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prins ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It boek dat in prins ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in pake ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in pake ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in pake ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in pake ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in boargemaster ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in boargemaster ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in boargemaster ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in boargemaster ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in direkteur ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in direkteur ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in direkteur ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in direkteur ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prinses ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prinses ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prinses ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prinses ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in foarsitter ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in foarsitter ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in foarsitter ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in foarsitter ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prins ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prins ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prins ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe De tafel dat in prins ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in pake ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in pake ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in pake ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in pake ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in boargemaster ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in boargemaster ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in boargemaster ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in boargemaster ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in direkteur ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in direkteur ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in direkteur ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in direkteur ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prinses ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prinses ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prinses ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prinses ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in foarsitter ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in foarsitter ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in foarsitter ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in foarsitter ***mask*** is populêr .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prins ***mask*** is goed .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prins ***mask*** is min .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prins ***mask*** is nij .
+False withinobjrel_inanim wobj_sg2 hat hawwe It ding dat in prins ***mask*** is populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de pakes ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de pakes ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de pakes ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de pakes ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de boargemasters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de boargemasters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de boargemasters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de boargemasters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de direkteuren ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de direkteuren ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de direkteuren ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de direkteuren ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsessen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsessen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsessen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsessen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de foarsitters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de foarsitters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de foarsitters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de foarsitters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De huzen dy't de prinsen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de pakes ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de pakes ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de pakes ***mask*** benne nij .
+False withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de pakes ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de boargemasters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de boargemasters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de boargemasters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de boargemasters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de direkteuren ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de direkteuren ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de direkteuren ***mask*** benne nij .
+False withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de direkteuren ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsessen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsessen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsessen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsessen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de foarsitters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de foarsitters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de foarsitters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de foarsitters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De auto's dy't de prinsen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de pakes ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de pakes ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de pakes ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de pakes ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de boargemasters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de boargemasters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de boargemasters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de boargemasters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de direkteuren ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de direkteuren ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de direkteuren ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de direkteuren ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsessen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsessen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsessen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsessen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de foarsitters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de foarsitters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de foarsitters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de foarsitters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De boeken dy't de prinsen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de pakes ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de pakes ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de pakes ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de pakes ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de boargemasters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de boargemasters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de boargemasters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de boargemasters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de direkteuren ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de direkteuren ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de direkteuren ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de direkteuren ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsessen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsessen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsessen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsessen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de foarsitters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de foarsitters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de foarsitters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de foarsitters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De tafels dy't de prinsen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de pakes ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de pakes ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de pakes ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de pakes ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de boargemasters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de boargemasters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de boargemasters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de boargemasters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de direkteuren ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de direkteuren ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de direkteuren ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de direkteuren ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsessen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsessen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsessen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsessen ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de foarsitters ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de foarsitters ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de foarsitters ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de foarsitters ***mask*** benne populêr .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsen ***mask*** benne goed .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsen ***mask*** benne min .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsen ***mask*** benne nij .
+True withinobjrel_inanim wobj_pl2 hawwe hat De dingen dy't de prinsen ***mask*** benne populêr .
