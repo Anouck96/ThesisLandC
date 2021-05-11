@@ -2,7 +2,7 @@
 import sys
 from collections import *
 
-files=[("ph","results_xlmmlm/prepPh_animate_resultsX.txt")]
+files=[("ph","results_mbert/simpagr_results.txt")]
 
 by_model={}
 by_model_sub={}
@@ -40,7 +40,7 @@ for cond in conditions:
 print("subcondition & accuracy & count \\\\")
 for scond in subconditions:
     rbs = by_model_sub['ph'][scond]
-    sbs = "%.2f" % (rbs['True']/(rbs['True']+rbs['False']))
+    sbs = "%.3f" % (rbs['True']/(rbs['True']+rbs['False']))
     print(" & ".join(map(str,[scond, sbs, sum(rbs.values())])),"\\\\")   
 
 
