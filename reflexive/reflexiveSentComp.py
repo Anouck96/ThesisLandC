@@ -101,8 +101,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Detp Npl
 	VP -> Vpl
-	Comp -> sconj Det Nsing ANPHRs ref aux Vpart
-	Compfl -> sconj Det Nsing ANPHRp ref aux Vpart
+	Comp -> sconj Det Nsing ANPHRs ref Vpart
+	Compfl -> sconj Det Nsing ANPHRp ref Vpart
 	Detp -> 'de'
 	sconj -> 'dat'
 	Det -> 'in'
@@ -118,8 +118,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Det Ns
 	VP -> Vsg
-	Comp -> sconj Det Nsing ANPHRs ref aux Vpart
-	Compfl -> sconj Det Nsing ANPHRp ref aux Vpart
+	Comp -> sconj Det Nsing ANPHRs ref Vpart
+	Compfl -> sconj Det Nsing ANPHRp ref Vpart
 	Detp -> 'de'
 	Ns -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vsg -> 'sei' | 'seach' | 'tocht' | 'wist'
@@ -174,8 +174,8 @@ def main():
 	S -> NP VP Compfl
 	NP -> Detpl Np
 	VP -> Vpl
-	Comp -> sconj Detpl Nplur ANPHRp ref aux Vpart
-	Compfl -> sconj Detpl Nplur ANPHRs ref aux Vpart
+	Comp -> sconj Detpl Nplur ANPHRp ref Vpart
+	Compfl -> sconj Detpl Nplur ANPHRs ref Vpart
 	Det -> 'in'
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vpl -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
@@ -208,6 +208,7 @@ def main():
 	nonceSing = addToGram(NounSing, nonceSing, "Nsing")
 	sgnon, sgnonFl = createLists(nonceSing)
 	singNonce = list(zip(sgnon, sgnonFl))
+
 
 	noncePlur = addToGram(NounSing, sentReflplNon, "Nsg")
 	noncePlur = addToGram(VerbsSing, noncePlur, "Vsg")
