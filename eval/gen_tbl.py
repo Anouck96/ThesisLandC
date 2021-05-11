@@ -2,7 +2,7 @@
 import sys
 from collections import *
 
-files=[("base","results/outsimpagr.txt")]
+files=[("ph","results_xlmmlm/prepPh_animate_resultsX.txt")]
 
 by_model={}
 by_model_sub={}
@@ -19,33 +19,28 @@ for title,fname in files:
         if line.startswith("Better speed"): continue
         if line.startswith("skipping"):
             skipped.add(line.split()[1])
-            next(lines)
+            # Use next(lines) if you want results without the skipped items
+            # next(lines)
             continue
         res,c1,c2,w1,w2,s = line.split(None, 5)
-     #   c1 = c1.replace("inanim","anim")
         conditions.add(c1)
         subconditions.add(c2)
         results[c1][res]+=1
         subresults[c2][res] +=1
 
-print(subresults)
 print("skipped:",skipped)
 
-print("condition & base & count \\\\")
+print("condition & accuracy & count \\\\")
 for cond in conditions:
-    rb = by_model['base'][cond]
-    # rl = by_model['large'][cond]
+    rb = by_model['ph'][cond]
     sb = "%.3f" % (rb['True']/(rb['True']+rb['False']))
-    # sl = "%.2f" % (rl['True']/(rl['True']+rl['False']))
     print(" & ".join(map(str,[cond, sb, sum(rb.values())])),"\\\\")
 
 
-print("subcondition & base & count \\\\")
+print("subcondition & accuracy & count \\\\")
 for scond in subconditions:
-    rbs = by_model_sub['base'][scond]
-    # rl = by_model['large'][cond]
+    rbs = by_model_sub['ph'][scond]
     sbs = "%.2f" % (rbs['True']/(rbs['True']+rbs['False']))
-    # sl = "%.2f" % (rl['True']/(rl['True']+rl['False']))
     print(" & ".join(map(str,[scond, sbs, sum(rbs.values())])),"\\\\")   
 
 
