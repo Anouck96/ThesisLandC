@@ -115,13 +115,13 @@ def main():
 	S -> NP RelCl VP ANPHRs ref
 	S -> NP RelCl VP ANPHRp ref
 	NP -> Detsg Nsg
-	RelCl -> sconj Detsg Nsg Vs
+	RelCl -> sconj Detsg Nsing Vs
 	VP -> Vpart
 	Detsg -> 'in'
 	Nsg -> 'man' | 'heit' | 'jonge' | 'kening'
 	sconj -> "dêr't"
 	Detpl -> 'de'
-	Nsg -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
+	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vs -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Vpart -> 'ferwûne' | 'lokwinsket' | 'ferlegen' | 'ferklaaide' | 'hatet'
 	ANPHRs -> 'him'
@@ -192,7 +192,6 @@ def main():
 	ror_sing2 = list(zip(sg2, sgfl2))
 	pl2, plfl2 = createLists(reflObpl2)
 	ror_plur2 = list(zip(pl2, plfl2))
-
 
 # Get random words
 	NounSing = get_words("randomWords/acrossObjRel/reflObjSingNoun0205.csv")
