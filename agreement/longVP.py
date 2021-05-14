@@ -74,7 +74,7 @@ def main():
 	Nsi -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	VPs -> 'sjocht graach televyzjeshows' | 'kin in protte ferskillende talen' | 'is trijeentweintich jier âld' | "spilet graach tennis mei kollega's" | 'skriuwt alle dagen yn in sjoernaal'
 	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Nonce Variant on "skriuwt yn in sjoernaal"
@@ -86,7 +86,7 @@ def main():
 	cc -> 'en'
 	VPS -> v adp D N
 	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 
@@ -99,7 +99,7 @@ def main():
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	VPpl -> 'kinne in protte ferkillende talen' | 'wolle graach televyzjeshows sjen' | 'binne trijeentweintich jier âld' | "spylje graach tennis mei kollega's" | 'skriuwe alle dagen yn in sjoernaal'
 	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	D -> 'de'
 	"""
 
@@ -112,7 +112,7 @@ def main():
 	cc -> 'en'
 	VPS -> v adp D N
 	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	longVPsg, longVPsgfl = createLists(longVpCor)

@@ -86,10 +86,10 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	VP -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
+	VP -> 'tochten' | 'wisten'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang binne' | 'koart binne' | 'âld binne' | 'jong binne'
 	sconj -> 'dat'
 	"""
 
@@ -105,10 +105,10 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	VP -> 'sei' | 'seach' | 'tocht' | 'wist'
+	VP -> 'tocht' | 'wist'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang binne' | 'koart binne' | 'âld binne' | 'jong binne'
 	sconj -> 'dat'
 	"""
 
@@ -125,7 +125,7 @@ def main():
 	Detpl -> 'de'
 	sconj -> 'dat'
 	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang binne' | 'koart binne' | 'âld binne' | 'jong binne'
 	"""
 	# Agreement in sentential complement plural NP (with faulty inflection)
 	sent_compplCor = """
@@ -139,9 +139,9 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	VP -> 'sei' | 'seach' | 'tocht' | 'wist'
+	VP -> 'tocht' | 'wist'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang binne' | 'koart binne' | 'âld binne' | 'jong binne'
 	sconj -> 'dat'
 	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
 	"""
@@ -158,9 +158,9 @@ def main():
 	Det -> 'in'
 	Detpl -> 'de'
 	Npl -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	VP -> 'seinen' | 'seagen' | 'tochten' | 'wisten'
+	VP -> 'tochten' | 'wisten'
 	Nsing -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang binne' | 'koart binne' | 'âld binne' | 'jong binne'
 	sconj -> 'dat'
 	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
 	"""
@@ -179,7 +179,7 @@ def main():
 	Detpl -> 'de'
 	sconj -> 'dat'
 	Vsing -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'lang is' | 'koart is' | 'âld is' | 'jong is'
-	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang benne' | 'koart benne' | 'âld benne' | 'jong benne'
+	Vplur -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'lang binne' | 'koart binne' | 'âld binne' | 'jong binne'
 	"""
 
 	corsing, flsing = createLists(sent_compCor)

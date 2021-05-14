@@ -89,7 +89,7 @@ def main():
 	Vrel -> 'hâldt fan' | 'bewûnderet'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Nonce singular noun
@@ -104,7 +104,7 @@ def main():
 	Detpl -> 'de'
 	sconj -> "dy't"
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Optional singular-singular
@@ -122,7 +122,7 @@ def main():
 	Vrel -> 'hâldt fan' | 'bewûnderet'
 	Npl -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Across subject relative clause (plural noun + faulty inflection)
@@ -140,7 +140,7 @@ def main():
 	Vrel -> 'hâlde fan' | 'bewûnderje'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Nonce plural noun
@@ -155,7 +155,7 @@ def main():
 	Detpl -> 'de'
 	sconj -> "dy't"
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Optional plural-plural
@@ -173,7 +173,7 @@ def main():
 	Vrel -> 'hâlde fan' | 'bewûnderje'
 	Np -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VP2 -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VP2pl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	subsg, subsgfl = createLists(sub_relsg)

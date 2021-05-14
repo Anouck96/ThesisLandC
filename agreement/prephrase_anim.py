@@ -82,11 +82,11 @@ def main():
 	PP -> Adp Detpl Npl
 	Det -> 'in'
 	Nsi -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Adp -> 'neist' | 'efter' | 'foar' | 'tichtby' | 'tsjinoer'
+	Adp -> 'neist' | 'efter' | 'foar' | 'tsjinoer'
 	Detpl -> 'de'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VPsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Optional both nouns singular
@@ -98,11 +98,11 @@ def main():
 	PP -> Adp Detpl Ns2
 	Det -> 'in'
 	Nsi -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
-	Adp -> 'neist' | 'efter' | 'foar' | 'tichtby' | 'tsjinoer'
+	Adp -> 'neist' | 'efter' | 'foar' | 'tsjinoer'
 	Detpl -> 'de'
 	Ns2 -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VPsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	#Nonce singular
@@ -113,10 +113,10 @@ def main():
 	NPs -> Det Nsi
 	PP -> Adp Detpl Npl
 	Det -> 'in'
-	Adp -> 'neist' | 'efter' | 'foar' | 'tichtby' | 'tsjinoer'
+	Adp -> 'neist' | 'efter' | 'foar' | 'tsjinoer'
 	Detpl -> 'de'
 	VPsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Agreement across a prepositional phrase plural noun (with faulty inflections)
@@ -128,11 +128,11 @@ def main():
 	PP -> Adp Det Ns
 	Det -> 'de'
 	Np1 -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	Adp -> 'neist' | 'efter' | 'foar' | 'tichtby' | 'tsjinoer'
+	Adp -> 'neist' | 'efter' | 'foar' | 'tsjinoer'
 	Detpl -> 'de'
 	Ns -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VPsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Optional both nouns plural
@@ -144,11 +144,11 @@ def main():
 	PP -> Adp Det Npl
 	Det -> 'de'
 	Np1 -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	Adp -> 'neist' | 'efter' | 'foar' | 'tichtby' | 'tsjinoer'
+	Adp -> 'neist' | 'efter' | 'foar' | 'tsjinoer'
 	Detpl -> 'de'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VPsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Nonce plural
@@ -159,10 +159,10 @@ def main():
 	NPs -> Detpl Np1
 	PP -> Adp Det Ns
 	Det -> 'de'
-	Adp -> 'neist' | 'efter' | 'foar' | 'tichtby' | 'tsjinoer'
+	Adp -> 'neist' | 'efter' | 'foar' | 'tsjinoer'
 	Detpl -> 'de'
 	VPsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	VPpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	prepsg, prepsgfl = createLists(prepsg)

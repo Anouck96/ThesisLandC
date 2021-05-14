@@ -73,7 +73,7 @@ def main():
 	N -> 'mins' | 'man' | 'heit' | 'mem' | 'frou' | 'plysje' | 'famke' | 'jonge' | 'kening'
 	Propn -> 'ypeij' | 'anneke' | 'durk' | 'nikolaas'
 	V -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 # Plural Noun simple agreement
@@ -85,7 +85,7 @@ def main():
 	NP -> Propn
 	Det -> 'de'
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
-	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	V -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	Vsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	"""
 

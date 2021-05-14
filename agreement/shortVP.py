@@ -78,7 +78,7 @@ def main():
 	Vsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'
 	Vsi2 -> 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'
-	Vpl2 -> 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl2 -> 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Short VP coordintation plural (with faulty inflection)
@@ -96,7 +96,7 @@ def main():
 	Vsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit'
 	Vsi2 -> 'is lang' | 'is koart' | 'is âld' | 'is jong'
 	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige'
-	Vpl2 -> 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl2 -> 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Nonce sentences singular 
@@ -109,7 +109,7 @@ def main():
 	Det -> 'in'
 	cc -> 'en'
 	Vsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	# Nonce sentences plural
@@ -122,7 +122,7 @@ def main():
 	Det -> 'de'
 	cc -> 'en'
 	Vsi -> 'hat' | 'kin' | 'komt' | 'wit' | 'set' | 'leit' | 'is lang' | 'is koart' | 'is âld' | 'is jong'
-	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'benne lang' | 'benne koart' | 'benne âld' | 'benne jong'
+	Vpl -> 'hawwe' | 'kinne' | 'komme' | 'witte' | 'sette' | 'lige' | 'binne lang' | 'binne koart' | 'binne âld' | 'binne jong'
 	"""
 
 	corsing, flsing = createLists(vpsing)

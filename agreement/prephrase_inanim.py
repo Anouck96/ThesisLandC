@@ -73,7 +73,7 @@ def main():
 	Detpl -> 'de'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VPsi -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VPpl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VPpl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	""" 
 
 	# Optional both nouns singular
@@ -88,7 +88,7 @@ def main():
 	Detpl -> 'de'
 	Ns2 -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VPsi -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VPpl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VPpl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	# Agreement across a prepositional phrase plural noun (with faulty inflections)
@@ -104,7 +104,7 @@ def main():
 	Detpl -> 'de'
 	Ns -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VPsi -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VPpl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VPpl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	# Optional both nouns plural
@@ -120,7 +120,7 @@ def main():
 	Detpl -> 'de'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VPsi -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VPpl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VPpl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	prepsg, prepsgfl = createLists(prepsg)

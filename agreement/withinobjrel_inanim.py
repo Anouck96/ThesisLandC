@@ -129,7 +129,7 @@ def main():
 	NPcomp -> adp Det N
 	Vrel -> 'hawwe'
 	Vrelp -> 'hat'
-	VP -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VP -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	Npl -> 'huzen' | "auto's" | 'boeken' | 'tafels' | 'dingen'
 	N -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	adp -> "dy't"
@@ -158,7 +158,7 @@ def main():
 	NPcomp -> adp Detpl N
 	Vrel -> 'hawwe'
 	Vrels -> 'hat'
-	VP -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VP -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	Npl -> 'huzen' | "auto's" | 'boeken' | 'tafels' | 'dingen'
 	N -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	adp -> "dy't"

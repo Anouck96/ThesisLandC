@@ -78,7 +78,7 @@ def main():
 	VP -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
 	Npl -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VP2 -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VP2pl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VP2pl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	# Optional all singulars
@@ -96,7 +96,7 @@ def main():
 	VP -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VP2 -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VP2pl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VP2pl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	# Across object relative clause (plural noun + faulty inflection)
@@ -114,7 +114,7 @@ def main():
 	VP -> 'fan hâldt' | 'bewûnderet' | 'hatet'
 	Nsg -> 'pake' | 'boargemaster' | 'direkteur' | 'prinses' | 'foarsitter' | 'prins'
 	VP2 -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VP2pl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VP2pl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	# Optional all plurals
@@ -132,7 +132,7 @@ def main():
 	VP -> 'fan hâlde' | 'bewûnderje' | 'haatsje'
 	Np2 -> 'pakes' | 'boargemasters' | 'direkteuren' | 'prinsessen' | 'foarsitters' | 'prinsen'
 	VP2 -> 'is goed' | 'is min' | 'is nij' | 'is populêr'
-	VP2pl -> 'benne goed' | 'benne min' | 'benne nij' | 'benne populêr'
+	VP2pl -> 'binne goed' | 'binne min' | 'binne nij' | 'binne populêr'
 	"""
 
 	sing, singfl = createLists(across_obj_relsg)
