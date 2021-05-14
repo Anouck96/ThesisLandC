@@ -35,7 +35,6 @@ def main():
 	m2 = open(model2, "r")
 	model1list = getLists(m1, m1L)
 	model2list = getLists(m2, m2L)
-	print(model2list)
 
 
 	c1c2, c1i2, i1c2, i1i2 = ctabnum(model1list, model2list)
