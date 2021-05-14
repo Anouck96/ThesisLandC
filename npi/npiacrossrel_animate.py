@@ -89,7 +89,7 @@ def main():
 	N -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	sconj -> "dêr't"
 	Vrel -> 'fan hâlde' | 'bewûnderje'
-	aux -> 'benne'
+	aux -> 'binne'
 	npi -> 'ea'
 	adj -> 'populêr' | 'ferneamd' | 'earste' | 'goed' | 'moai'
 	Vpartic -> 'west' """
@@ -105,7 +105,7 @@ def main():
 	neg -> 'gjin'
 	det -> 'de'
 	sconj -> "dêr't"
-	aux -> 'benne'
+	aux -> 'binne'
 	npi -> 'ea'
 	Vpartic -> 'west' """
 

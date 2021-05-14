@@ -41,7 +41,7 @@ def main():
 	S -> NP2 aux VP
 	NP1 -> neg N
 	NP2 -> det N
-	aux -> 'benne'
+	aux -> 'binne'
 	VP -> npi adj Vpartic
 	neg -> 'gjin'
 	det -> 'de'

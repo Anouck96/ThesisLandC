@@ -47,7 +47,7 @@ def main():
 	sconj -> "der't"
 	Np -> 'minsken' | 'manlju' | 'heiten' | 'memmen' | 'froulju' | 'plysjes' | 'famkes' | 'jonges' | 'keningen'
 	Vrel -> 'fan hâlde' | 'bewûnderje'
-	aux -> 'benne'
+	aux -> 'binne'
 	npi -> 'ea'
 	adj -> 'populêr' | 'ferneamd' | 'earste' | 'goed' | 'moai'
 	Vpartic -> 'west' """
