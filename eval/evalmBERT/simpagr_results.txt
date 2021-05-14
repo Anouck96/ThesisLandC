@@ -4,220 +4,220 @@ True simp_agrmt sing_agr komt komme In mins ***mask*** .
 True simp_agrmt sing_agr wit witte In mins ***mask*** .
 True simp_agrmt sing_agr set sette In mins ***mask*** .
 True simp_agrmt sing_agr leit lige In mins ***mask*** .
-True simp_agrmt sing_agr is benne In mins ***mask*** lang .
-True simp_agrmt sing_agr is benne In mins ***mask*** koart .
-True simp_agrmt sing_agr is benne In mins ***mask*** âld .
-True simp_agrmt sing_agr is benne In mins ***mask*** jong .
+True simp_agrmt sing_agr is binne In mins ***mask*** lang .
+True simp_agrmt sing_agr is binne In mins ***mask*** koart .
+True simp_agrmt sing_agr is binne In mins ***mask*** âld .
+True simp_agrmt sing_agr is binne In mins ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In man ***mask*** .
 True simp_agrmt sing_agr kin kinne In man ***mask*** .
 True simp_agrmt sing_agr komt komme In man ***mask*** .
 True simp_agrmt sing_agr wit witte In man ***mask*** .
 True simp_agrmt sing_agr set sette In man ***mask*** .
 False simp_agrmt sing_agr leit lige In man ***mask*** .
-True simp_agrmt sing_agr is benne In man ***mask*** lang .
-True simp_agrmt sing_agr is benne In man ***mask*** koart .
-True simp_agrmt sing_agr is benne In man ***mask*** âld .
-True simp_agrmt sing_agr is benne In man ***mask*** jong .
+True simp_agrmt sing_agr is binne In man ***mask*** lang .
+True simp_agrmt sing_agr is binne In man ***mask*** koart .
+True simp_agrmt sing_agr is binne In man ***mask*** âld .
+True simp_agrmt sing_agr is binne In man ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In heit ***mask*** .
 True simp_agrmt sing_agr kin kinne In heit ***mask*** .
 False simp_agrmt sing_agr komt komme In heit ***mask*** .
 True simp_agrmt sing_agr wit witte In heit ***mask*** .
 True simp_agrmt sing_agr set sette In heit ***mask*** .
 True simp_agrmt sing_agr leit lige In heit ***mask*** .
-True simp_agrmt sing_agr is benne In heit ***mask*** lang .
-True simp_agrmt sing_agr is benne In heit ***mask*** koart .
-True simp_agrmt sing_agr is benne In heit ***mask*** âld .
-True simp_agrmt sing_agr is benne In heit ***mask*** jong .
+True simp_agrmt sing_agr is binne In heit ***mask*** lang .
+True simp_agrmt sing_agr is binne In heit ***mask*** koart .
+True simp_agrmt sing_agr is binne In heit ***mask*** âld .
+True simp_agrmt sing_agr is binne In heit ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In mem ***mask*** .
 True simp_agrmt sing_agr kin kinne In mem ***mask*** .
 True simp_agrmt sing_agr komt komme In mem ***mask*** .
 False simp_agrmt sing_agr wit witte In mem ***mask*** .
 True simp_agrmt sing_agr set sette In mem ***mask*** .
 False simp_agrmt sing_agr leit lige In mem ***mask*** .
-True simp_agrmt sing_agr is benne In mem ***mask*** lang .
-True simp_agrmt sing_agr is benne In mem ***mask*** koart .
-True simp_agrmt sing_agr is benne In mem ***mask*** âld .
-True simp_agrmt sing_agr is benne In mem ***mask*** jong .
+True simp_agrmt sing_agr is binne In mem ***mask*** lang .
+True simp_agrmt sing_agr is binne In mem ***mask*** koart .
+True simp_agrmt sing_agr is binne In mem ***mask*** âld .
+True simp_agrmt sing_agr is binne In mem ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In frou ***mask*** .
 True simp_agrmt sing_agr kin kinne In frou ***mask*** .
 True simp_agrmt sing_agr komt komme In frou ***mask*** .
 True simp_agrmt sing_agr wit witte In frou ***mask*** .
 True simp_agrmt sing_agr set sette In frou ***mask*** .
 False simp_agrmt sing_agr leit lige In frou ***mask*** .
-True simp_agrmt sing_agr is benne In frou ***mask*** lang .
-True simp_agrmt sing_agr is benne In frou ***mask*** koart .
-True simp_agrmt sing_agr is benne In frou ***mask*** âld .
-True simp_agrmt sing_agr is benne In frou ***mask*** jong .
+True simp_agrmt sing_agr is binne In frou ***mask*** lang .
+True simp_agrmt sing_agr is binne In frou ***mask*** koart .
+True simp_agrmt sing_agr is binne In frou ***mask*** âld .
+True simp_agrmt sing_agr is binne In frou ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In plysje ***mask*** .
 True simp_agrmt sing_agr kin kinne In plysje ***mask*** .
 True simp_agrmt sing_agr komt komme In plysje ***mask*** .
 False simp_agrmt sing_agr wit witte In plysje ***mask*** .
 True simp_agrmt sing_agr set sette In plysje ***mask*** .
 False simp_agrmt sing_agr leit lige In plysje ***mask*** .
-True simp_agrmt sing_agr is benne In plysje ***mask*** lang .
-True simp_agrmt sing_agr is benne In plysje ***mask*** koart .
-True simp_agrmt sing_agr is benne In plysje ***mask*** âld .
-True simp_agrmt sing_agr is benne In plysje ***mask*** jong .
+True simp_agrmt sing_agr is binne In plysje ***mask*** lang .
+True simp_agrmt sing_agr is binne In plysje ***mask*** koart .
+True simp_agrmt sing_agr is binne In plysje ***mask*** âld .
+True simp_agrmt sing_agr is binne In plysje ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In famke ***mask*** .
 True simp_agrmt sing_agr kin kinne In famke ***mask*** .
 True simp_agrmt sing_agr komt komme In famke ***mask*** .
 False simp_agrmt sing_agr wit witte In famke ***mask*** .
 True simp_agrmt sing_agr set sette In famke ***mask*** .
 False simp_agrmt sing_agr leit lige In famke ***mask*** .
-True simp_agrmt sing_agr is benne In famke ***mask*** lang .
-True simp_agrmt sing_agr is benne In famke ***mask*** koart .
-True simp_agrmt sing_agr is benne In famke ***mask*** âld .
-True simp_agrmt sing_agr is benne In famke ***mask*** jong .
+True simp_agrmt sing_agr is binne In famke ***mask*** lang .
+True simp_agrmt sing_agr is binne In famke ***mask*** koart .
+True simp_agrmt sing_agr is binne In famke ***mask*** âld .
+True simp_agrmt sing_agr is binne In famke ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In jonge ***mask*** .
 True simp_agrmt sing_agr kin kinne In jonge ***mask*** .
 True simp_agrmt sing_agr komt komme In jonge ***mask*** .
 True simp_agrmt sing_agr wit witte In jonge ***mask*** .
 True simp_agrmt sing_agr set sette In jonge ***mask*** .
 True simp_agrmt sing_agr leit lige In jonge ***mask*** .
-True simp_agrmt sing_agr is benne In jonge ***mask*** lang .
-True simp_agrmt sing_agr is benne In jonge ***mask*** koart .
-True simp_agrmt sing_agr is benne In jonge ***mask*** âld .
-True simp_agrmt sing_agr is benne In jonge ***mask*** jong .
+True simp_agrmt sing_agr is binne In jonge ***mask*** lang .
+True simp_agrmt sing_agr is binne In jonge ***mask*** koart .
+True simp_agrmt sing_agr is binne In jonge ***mask*** âld .
+True simp_agrmt sing_agr is binne In jonge ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe In kening ***mask*** .
 True simp_agrmt sing_agr kin kinne In kening ***mask*** .
 True simp_agrmt sing_agr komt komme In kening ***mask*** .
 False simp_agrmt sing_agr wit witte In kening ***mask*** .
 True simp_agrmt sing_agr set sette In kening ***mask*** .
 True simp_agrmt sing_agr leit lige In kening ***mask*** .
-True simp_agrmt sing_agr is benne In kening ***mask*** lang .
-True simp_agrmt sing_agr is benne In kening ***mask*** koart .
-True simp_agrmt sing_agr is benne In kening ***mask*** âld .
-True simp_agrmt sing_agr is benne In kening ***mask*** jong .
+True simp_agrmt sing_agr is binne In kening ***mask*** lang .
+True simp_agrmt sing_agr is binne In kening ***mask*** koart .
+True simp_agrmt sing_agr is binne In kening ***mask*** âld .
+True simp_agrmt sing_agr is binne In kening ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe Ypeij ***mask*** .
 True simp_agrmt sing_agr kin kinne Ypeij ***mask*** .
 True simp_agrmt sing_agr komt komme Ypeij ***mask*** .
 True simp_agrmt sing_agr wit witte Ypeij ***mask*** .
 True simp_agrmt sing_agr set sette Ypeij ***mask*** .
 False simp_agrmt sing_agr leit lige Ypeij ***mask*** .
-True simp_agrmt sing_agr is benne Ypeij ***mask*** lang .
-True simp_agrmt sing_agr is benne Ypeij ***mask*** koart .
-True simp_agrmt sing_agr is benne Ypeij ***mask*** âld .
-True simp_agrmt sing_agr is benne Ypeij ***mask*** jong .
+True simp_agrmt sing_agr is binne Ypeij ***mask*** lang .
+True simp_agrmt sing_agr is binne Ypeij ***mask*** koart .
+True simp_agrmt sing_agr is binne Ypeij ***mask*** âld .
+True simp_agrmt sing_agr is binne Ypeij ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe Anneke ***mask*** .
 True simp_agrmt sing_agr kin kinne Anneke ***mask*** .
 True simp_agrmt sing_agr komt komme Anneke ***mask*** .
 True simp_agrmt sing_agr wit witte Anneke ***mask*** .
 True simp_agrmt sing_agr set sette Anneke ***mask*** .
 False simp_agrmt sing_agr leit lige Anneke ***mask*** .
-True simp_agrmt sing_agr is benne Anneke ***mask*** lang .
-True simp_agrmt sing_agr is benne Anneke ***mask*** koart .
-True simp_agrmt sing_agr is benne Anneke ***mask*** âld .
-True simp_agrmt sing_agr is benne Anneke ***mask*** jong .
+True simp_agrmt sing_agr is binne Anneke ***mask*** lang .
+True simp_agrmt sing_agr is binne Anneke ***mask*** koart .
+True simp_agrmt sing_agr is binne Anneke ***mask*** âld .
+True simp_agrmt sing_agr is binne Anneke ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe Durk ***mask*** .
 True simp_agrmt sing_agr kin kinne Durk ***mask*** .
 True simp_agrmt sing_agr komt komme Durk ***mask*** .
 True simp_agrmt sing_agr wit witte Durk ***mask*** .
 True simp_agrmt sing_agr set sette Durk ***mask*** .
 True simp_agrmt sing_agr leit lige Durk ***mask*** .
-True simp_agrmt sing_agr is benne Durk ***mask*** lang .
-True simp_agrmt sing_agr is benne Durk ***mask*** koart .
-True simp_agrmt sing_agr is benne Durk ***mask*** âld .
-True simp_agrmt sing_agr is benne Durk ***mask*** jong .
+True simp_agrmt sing_agr is binne Durk ***mask*** lang .
+True simp_agrmt sing_agr is binne Durk ***mask*** koart .
+True simp_agrmt sing_agr is binne Durk ***mask*** âld .
+True simp_agrmt sing_agr is binne Durk ***mask*** jong .
 True simp_agrmt sing_agr hat hawwe Nikolaas ***mask*** .
 True simp_agrmt sing_agr kin kinne Nikolaas ***mask*** .
 True simp_agrmt sing_agr komt komme Nikolaas ***mask*** .
 False simp_agrmt sing_agr wit witte Nikolaas ***mask*** .
 True simp_agrmt sing_agr set sette Nikolaas ***mask*** .
 True simp_agrmt sing_agr leit lige Nikolaas ***mask*** .
-True simp_agrmt sing_agr is benne Nikolaas ***mask*** lang .
-True simp_agrmt sing_agr is benne Nikolaas ***mask*** koart .
-True simp_agrmt sing_agr is benne Nikolaas ***mask*** âld .
-True simp_agrmt sing_agr is benne Nikolaas ***mask*** jong .
+True simp_agrmt sing_agr is binne Nikolaas ***mask*** lang .
+True simp_agrmt sing_agr is binne Nikolaas ***mask*** koart .
+True simp_agrmt sing_agr is binne Nikolaas ***mask*** âld .
+True simp_agrmt sing_agr is binne Nikolaas ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De minsken ***mask*** .
 False simp_agrmt plur_agr kinne kin De minsken ***mask*** .
 False simp_agrmt plur_agr komme komt De minsken ***mask*** .
 True simp_agrmt plur_agr witte wit De minsken ***mask*** .
 False simp_agrmt plur_agr sette set De minsken ***mask*** .
 False simp_agrmt plur_agr lige leit De minsken ***mask*** .
-False simp_agrmt plur_agr benne is De minsken ***mask*** lang .
-False simp_agrmt plur_agr benne is De minsken ***mask*** koart .
-False simp_agrmt plur_agr benne is De minsken ***mask*** âld .
-False simp_agrmt plur_agr benne is De minsken ***mask*** jong .
+False simp_agrmt plur_agr binne is De minsken ***mask*** lang .
+False simp_agrmt plur_agr binne is De minsken ***mask*** koart .
+False simp_agrmt plur_agr binne is De minsken ***mask*** âld .
+False simp_agrmt plur_agr binne is De minsken ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De manlju ***mask*** .
 False simp_agrmt plur_agr kinne kin De manlju ***mask*** .
 False simp_agrmt plur_agr komme komt De manlju ***mask*** .
 True simp_agrmt plur_agr witte wit De manlju ***mask*** .
 False simp_agrmt plur_agr sette set De manlju ***mask*** .
 True simp_agrmt plur_agr lige leit De manlju ***mask*** .
-False simp_agrmt plur_agr benne is De manlju ***mask*** lang .
-False simp_agrmt plur_agr benne is De manlju ***mask*** koart .
-False simp_agrmt plur_agr benne is De manlju ***mask*** âld .
-False simp_agrmt plur_agr benne is De manlju ***mask*** jong .
+False simp_agrmt plur_agr binne is De manlju ***mask*** lang .
+False simp_agrmt plur_agr binne is De manlju ***mask*** koart .
+False simp_agrmt plur_agr binne is De manlju ***mask*** âld .
+False simp_agrmt plur_agr binne is De manlju ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De heiten ***mask*** .
 False simp_agrmt plur_agr kinne kin De heiten ***mask*** .
 True simp_agrmt plur_agr komme komt De heiten ***mask*** .
 True simp_agrmt plur_agr witte wit De heiten ***mask*** .
 False simp_agrmt plur_agr sette set De heiten ***mask*** .
 False simp_agrmt plur_agr lige leit De heiten ***mask*** .
-False simp_agrmt plur_agr benne is De heiten ***mask*** lang .
-False simp_agrmt plur_agr benne is De heiten ***mask*** koart .
-False simp_agrmt plur_agr benne is De heiten ***mask*** âld .
-False simp_agrmt plur_agr benne is De heiten ***mask*** jong .
+False simp_agrmt plur_agr binne is De heiten ***mask*** lang .
+False simp_agrmt plur_agr binne is De heiten ***mask*** koart .
+False simp_agrmt plur_agr binne is De heiten ***mask*** âld .
+False simp_agrmt plur_agr binne is De heiten ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De memmen ***mask*** .
 False simp_agrmt plur_agr kinne kin De memmen ***mask*** .
 False simp_agrmt plur_agr komme komt De memmen ***mask*** .
 False simp_agrmt plur_agr witte wit De memmen ***mask*** .
 False simp_agrmt plur_agr sette set De memmen ***mask*** .
 True simp_agrmt plur_agr lige leit De memmen ***mask*** .
-False simp_agrmt plur_agr benne is De memmen ***mask*** lang .
-False simp_agrmt plur_agr benne is De memmen ***mask*** koart .
-False simp_agrmt plur_agr benne is De memmen ***mask*** âld .
-False simp_agrmt plur_agr benne is De memmen ***mask*** jong .
+False simp_agrmt plur_agr binne is De memmen ***mask*** lang .
+False simp_agrmt plur_agr binne is De memmen ***mask*** koart .
+False simp_agrmt plur_agr binne is De memmen ***mask*** âld .
+False simp_agrmt plur_agr binne is De memmen ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De froulju ***mask*** .
 False simp_agrmt plur_agr kinne kin De froulju ***mask*** .
 False simp_agrmt plur_agr komme komt De froulju ***mask*** .
 False simp_agrmt plur_agr witte wit De froulju ***mask*** .
 False simp_agrmt plur_agr sette set De froulju ***mask*** .
 False simp_agrmt plur_agr lige leit De froulju ***mask*** .
-False simp_agrmt plur_agr benne is De froulju ***mask*** lang .
-False simp_agrmt plur_agr benne is De froulju ***mask*** koart .
-False simp_agrmt plur_agr benne is De froulju ***mask*** âld .
-False simp_agrmt plur_agr benne is De froulju ***mask*** jong .
+False simp_agrmt plur_agr binne is De froulju ***mask*** lang .
+False simp_agrmt plur_agr binne is De froulju ***mask*** koart .
+False simp_agrmt plur_agr binne is De froulju ***mask*** âld .
+False simp_agrmt plur_agr binne is De froulju ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De plysjes ***mask*** .
 False simp_agrmt plur_agr kinne kin De plysjes ***mask*** .
 False simp_agrmt plur_agr komme komt De plysjes ***mask*** .
 False simp_agrmt plur_agr witte wit De plysjes ***mask*** .
 False simp_agrmt plur_agr sette set De plysjes ***mask*** .
 True simp_agrmt plur_agr lige leit De plysjes ***mask*** .
-False simp_agrmt plur_agr benne is De plysjes ***mask*** lang .
-False simp_agrmt plur_agr benne is De plysjes ***mask*** koart .
-False simp_agrmt plur_agr benne is De plysjes ***mask*** âld .
-False simp_agrmt plur_agr benne is De plysjes ***mask*** jong .
+False simp_agrmt plur_agr binne is De plysjes ***mask*** lang .
+False simp_agrmt plur_agr binne is De plysjes ***mask*** koart .
+False simp_agrmt plur_agr binne is De plysjes ***mask*** âld .
+False simp_agrmt plur_agr binne is De plysjes ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De famkes ***mask*** .
 False simp_agrmt plur_agr kinne kin De famkes ***mask*** .
 False simp_agrmt plur_agr komme komt De famkes ***mask*** .
 True simp_agrmt plur_agr witte wit De famkes ***mask*** .
 False simp_agrmt plur_agr sette set De famkes ***mask*** .
 True simp_agrmt plur_agr lige leit De famkes ***mask*** .
-False simp_agrmt plur_agr benne is De famkes ***mask*** lang .
-False simp_agrmt plur_agr benne is De famkes ***mask*** koart .
-False simp_agrmt plur_agr benne is De famkes ***mask*** âld .
-False simp_agrmt plur_agr benne is De famkes ***mask*** jong .
+False simp_agrmt plur_agr binne is De famkes ***mask*** lang .
+False simp_agrmt plur_agr binne is De famkes ***mask*** koart .
+True simp_agrmt plur_agr binne is De famkes ***mask*** âld .
+False simp_agrmt plur_agr binne is De famkes ***mask*** jong .
 False simp_agrmt plur_agr hawwe hat De jonges ***mask*** .
 False simp_agrmt plur_agr kinne kin De jonges ***mask*** .
 False simp_agrmt plur_agr komme komt De jonges ***mask*** .
 False simp_agrmt plur_agr witte wit De jonges ***mask*** .
 False simp_agrmt plur_agr sette set De jonges ***mask*** .
 True simp_agrmt plur_agr lige leit De jonges ***mask*** .
-False simp_agrmt plur_agr benne is De jonges ***mask*** lang .
-False simp_agrmt plur_agr benne is De jonges ***mask*** koart .
-False simp_agrmt plur_agr benne is De jonges ***mask*** âld .
-False simp_agrmt plur_agr benne is De jonges ***mask*** jong .
+False simp_agrmt plur_agr binne is De jonges ***mask*** lang .
+False simp_agrmt plur_agr binne is De jonges ***mask*** koart .
+False simp_agrmt plur_agr binne is De jonges ***mask*** âld .
+False simp_agrmt plur_agr binne is De jonges ***mask*** jong .
 True simp_agrmt plur_agr hawwe hat De keningen ***mask*** .
 True simp_agrmt plur_agr kinne kin De keningen ***mask*** .
 False simp_agrmt plur_agr komme komt De keningen ***mask*** .
 True simp_agrmt plur_agr witte wit De keningen ***mask*** .
 False simp_agrmt plur_agr sette set De keningen ***mask*** .
 True simp_agrmt plur_agr lige leit De keningen ***mask*** .
-False simp_agrmt plur_agr benne is De keningen ***mask*** lang .
-False simp_agrmt plur_agr benne is De keningen ***mask*** koart .
-False simp_agrmt plur_agr benne is De keningen ***mask*** âld .
-False simp_agrmt plur_agr benne is De keningen ***mask*** jong .
+False simp_agrmt plur_agr binne is De keningen ***mask*** lang .
+False simp_agrmt plur_agr binne is De keningen ***mask*** koart .
+False simp_agrmt plur_agr binne is De keningen ***mask*** âld .
+False simp_agrmt plur_agr binne is De keningen ***mask*** jong .
 True simp_agrmt sing_nonce hat hawwe In bargekopke ***mask*** .
 True simp_agrmt sing_nonce kin kinne In bargekopke ***mask*** .
 True simp_agrmt sing_nonce komt komme In bargekopke ***mask*** .
