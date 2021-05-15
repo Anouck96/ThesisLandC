@@ -1,27 +1,27 @@
-False short_VP shortVPsing is benne In mins hat en ***mask*** lang .
-False short_VP shortVPsing is benne In mins hat en ***mask*** koart .
-False short_VP shortVPsing is benne In mins hat en ***mask*** âld .
-False short_VP shortVPsing is benne In mins hat en ***mask*** jong .
-True short_VP shortVPsing is benne In mins kin en ***mask*** lang .
-True short_VP shortVPsing is benne In mins kin en ***mask*** koart .
-False short_VP shortVPsing is benne In mins kin en ***mask*** âld .
-False short_VP shortVPsing is benne In mins kin en ***mask*** jong .
-True short_VP shortVPsing is benne In mins komt en ***mask*** lang .
-True short_VP shortVPsing is benne In mins komt en ***mask*** koart .
-False short_VP shortVPsing is benne In mins komt en ***mask*** âld .
-True short_VP shortVPsing is benne In mins komt en ***mask*** jong .
-False short_VP shortVPsing is benne In mins wit en ***mask*** lang .
-False short_VP shortVPsing is benne In mins wit en ***mask*** koart .
-False short_VP shortVPsing is benne In mins wit en ***mask*** âld .
-False short_VP shortVPsing is benne In mins wit en ***mask*** jong .
-False short_VP shortVPsing is benne In mins set en ***mask*** lang .
-False short_VP shortVPsing is benne In mins set en ***mask*** koart .
-False short_VP shortVPsing is benne In mins set en ***mask*** âld .
-False short_VP shortVPsing is benne In mins set en ***mask*** jong .
-True short_VP shortVPsing is benne In mins leit en ***mask*** lang .
-False short_VP shortVPsing is benne In mins leit en ***mask*** koart .
-False short_VP shortVPsing is benne In mins leit en ***mask*** âld .
-False short_VP shortVPsing is benne In mins leit en ***mask*** jong .
+True short_VP shortVPsing is binne In mins hat en ***mask*** lang .
+False short_VP shortVPsing is binne In mins hat en ***mask*** koart .
+False short_VP shortVPsing is binne In mins hat en ***mask*** âld .
+False short_VP shortVPsing is binne In mins hat en ***mask*** jong .
+False short_VP shortVPsing is binne In mins kin en ***mask*** lang .
+False short_VP shortVPsing is binne In mins kin en ***mask*** koart .
+False short_VP shortVPsing is binne In mins kin en ***mask*** âld .
+False short_VP shortVPsing is binne In mins kin en ***mask*** jong .
+False short_VP shortVPsing is binne In mins komt en ***mask*** lang .
+False short_VP shortVPsing is binne In mins komt en ***mask*** koart .
+False short_VP shortVPsing is binne In mins komt en ***mask*** âld .
+False short_VP shortVPsing is binne In mins komt en ***mask*** jong .
+False short_VP shortVPsing is binne In mins wit en ***mask*** lang .
+False short_VP shortVPsing is binne In mins wit en ***mask*** koart .
+False short_VP shortVPsing is binne In mins wit en ***mask*** âld .
+False short_VP shortVPsing is binne In mins wit en ***mask*** jong .
+False short_VP shortVPsing is binne In mins set en ***mask*** lang .
+False short_VP shortVPsing is binne In mins set en ***mask*** koart .
+False short_VP shortVPsing is binne In mins set en ***mask*** âld .
+False short_VP shortVPsing is binne In mins set en ***mask*** jong .
+False short_VP shortVPsing is binne In mins leit en ***mask*** lang .
+False short_VP shortVPsing is binne In mins leit en ***mask*** koart .
+False short_VP shortVPsing is binne In mins leit en ***mask*** âld .
+False short_VP shortVPsing is binne In mins leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In mins is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In mins is lang en ***mask*** .
@@ -50,30 +50,30 @@ True short_VP shortVPsing komt komme In mins is jong en ***mask*** .
 True short_VP shortVPsing wit witte In mins is jong en ***mask*** .
 True short_VP shortVPsing set sette In mins is jong en ***mask*** .
 True short_VP shortVPsing leit lige In mins is jong en ***mask*** .
-False short_VP shortVPsing is benne In man hat en ***mask*** lang .
-False short_VP shortVPsing is benne In man hat en ***mask*** koart .
-False short_VP shortVPsing is benne In man hat en ***mask*** âld .
-False short_VP shortVPsing is benne In man hat en ***mask*** jong .
-True short_VP shortVPsing is benne In man kin en ***mask*** lang .
-False short_VP shortVPsing is benne In man kin en ***mask*** koart .
-False short_VP shortVPsing is benne In man kin en ***mask*** âld .
-False short_VP shortVPsing is benne In man kin en ***mask*** jong .
-True short_VP shortVPsing is benne In man komt en ***mask*** lang .
-True short_VP shortVPsing is benne In man komt en ***mask*** koart .
-False short_VP shortVPsing is benne In man komt en ***mask*** âld .
-False short_VP shortVPsing is benne In man komt en ***mask*** jong .
-False short_VP shortVPsing is benne In man wit en ***mask*** lang .
-False short_VP shortVPsing is benne In man wit en ***mask*** koart .
-False short_VP shortVPsing is benne In man wit en ***mask*** âld .
-False short_VP shortVPsing is benne In man wit en ***mask*** jong .
-False short_VP shortVPsing is benne In man set en ***mask*** lang .
-False short_VP shortVPsing is benne In man set en ***mask*** koart .
-False short_VP shortVPsing is benne In man set en ***mask*** âld .
-False short_VP shortVPsing is benne In man set en ***mask*** jong .
-True short_VP shortVPsing is benne In man leit en ***mask*** lang .
-False short_VP shortVPsing is benne In man leit en ***mask*** koart .
-False short_VP shortVPsing is benne In man leit en ***mask*** âld .
-False short_VP shortVPsing is benne In man leit en ***mask*** jong .
+False short_VP shortVPsing is binne In man hat en ***mask*** lang .
+False short_VP shortVPsing is binne In man hat en ***mask*** koart .
+False short_VP shortVPsing is binne In man hat en ***mask*** âld .
+False short_VP shortVPsing is binne In man hat en ***mask*** jong .
+False short_VP shortVPsing is binne In man kin en ***mask*** lang .
+False short_VP shortVPsing is binne In man kin en ***mask*** koart .
+False short_VP shortVPsing is binne In man kin en ***mask*** âld .
+False short_VP shortVPsing is binne In man kin en ***mask*** jong .
+False short_VP shortVPsing is binne In man komt en ***mask*** lang .
+False short_VP shortVPsing is binne In man komt en ***mask*** koart .
+False short_VP shortVPsing is binne In man komt en ***mask*** âld .
+False short_VP shortVPsing is binne In man komt en ***mask*** jong .
+False short_VP shortVPsing is binne In man wit en ***mask*** lang .
+False short_VP shortVPsing is binne In man wit en ***mask*** koart .
+False short_VP shortVPsing is binne In man wit en ***mask*** âld .
+False short_VP shortVPsing is binne In man wit en ***mask*** jong .
+False short_VP shortVPsing is binne In man set en ***mask*** lang .
+False short_VP shortVPsing is binne In man set en ***mask*** koart .
+False short_VP shortVPsing is binne In man set en ***mask*** âld .
+False short_VP shortVPsing is binne In man set en ***mask*** jong .
+False short_VP shortVPsing is binne In man leit en ***mask*** lang .
+False short_VP shortVPsing is binne In man leit en ***mask*** koart .
+False short_VP shortVPsing is binne In man leit en ***mask*** âld .
+False short_VP shortVPsing is binne In man leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In man is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In man is lang en ***mask*** .
@@ -102,30 +102,30 @@ True short_VP shortVPsing komt komme In man is jong en ***mask*** .
 True short_VP shortVPsing wit witte In man is jong en ***mask*** .
 True short_VP shortVPsing set sette In man is jong en ***mask*** .
 True short_VP shortVPsing leit lige In man is jong en ***mask*** .
-False short_VP shortVPsing is benne In heit hat en ***mask*** lang .
-False short_VP shortVPsing is benne In heit hat en ***mask*** koart .
-False short_VP shortVPsing is benne In heit hat en ***mask*** âld .
-False short_VP shortVPsing is benne In heit hat en ***mask*** jong .
-True short_VP shortVPsing is benne In heit kin en ***mask*** lang .
-False short_VP shortVPsing is benne In heit kin en ***mask*** koart .
-False short_VP shortVPsing is benne In heit kin en ***mask*** âld .
-False short_VP shortVPsing is benne In heit kin en ***mask*** jong .
-True short_VP shortVPsing is benne In heit komt en ***mask*** lang .
-True short_VP shortVPsing is benne In heit komt en ***mask*** koart .
-False short_VP shortVPsing is benne In heit komt en ***mask*** âld .
-False short_VP shortVPsing is benne In heit komt en ***mask*** jong .
-True short_VP shortVPsing is benne In heit wit en ***mask*** lang .
-False short_VP shortVPsing is benne In heit wit en ***mask*** koart .
-False short_VP shortVPsing is benne In heit wit en ***mask*** âld .
-False short_VP shortVPsing is benne In heit wit en ***mask*** jong .
-False short_VP shortVPsing is benne In heit set en ***mask*** lang .
-False short_VP shortVPsing is benne In heit set en ***mask*** koart .
-False short_VP shortVPsing is benne In heit set en ***mask*** âld .
-False short_VP shortVPsing is benne In heit set en ***mask*** jong .
-True short_VP shortVPsing is benne In heit leit en ***mask*** lang .
-False short_VP shortVPsing is benne In heit leit en ***mask*** koart .
-False short_VP shortVPsing is benne In heit leit en ***mask*** âld .
-False short_VP shortVPsing is benne In heit leit en ***mask*** jong .
+False short_VP shortVPsing is binne In heit hat en ***mask*** lang .
+False short_VP shortVPsing is binne In heit hat en ***mask*** koart .
+False short_VP shortVPsing is binne In heit hat en ***mask*** âld .
+False short_VP shortVPsing is binne In heit hat en ***mask*** jong .
+False short_VP shortVPsing is binne In heit kin en ***mask*** lang .
+False short_VP shortVPsing is binne In heit kin en ***mask*** koart .
+False short_VP shortVPsing is binne In heit kin en ***mask*** âld .
+False short_VP shortVPsing is binne In heit kin en ***mask*** jong .
+False short_VP shortVPsing is binne In heit komt en ***mask*** lang .
+False short_VP shortVPsing is binne In heit komt en ***mask*** koart .
+False short_VP shortVPsing is binne In heit komt en ***mask*** âld .
+False short_VP shortVPsing is binne In heit komt en ***mask*** jong .
+False short_VP shortVPsing is binne In heit wit en ***mask*** lang .
+False short_VP shortVPsing is binne In heit wit en ***mask*** koart .
+False short_VP shortVPsing is binne In heit wit en ***mask*** âld .
+False short_VP shortVPsing is binne In heit wit en ***mask*** jong .
+False short_VP shortVPsing is binne In heit set en ***mask*** lang .
+False short_VP shortVPsing is binne In heit set en ***mask*** koart .
+False short_VP shortVPsing is binne In heit set en ***mask*** âld .
+False short_VP shortVPsing is binne In heit set en ***mask*** jong .
+False short_VP shortVPsing is binne In heit leit en ***mask*** lang .
+False short_VP shortVPsing is binne In heit leit en ***mask*** koart .
+False short_VP shortVPsing is binne In heit leit en ***mask*** âld .
+False short_VP shortVPsing is binne In heit leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In heit is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In heit is lang en ***mask*** .
@@ -154,30 +154,30 @@ True short_VP shortVPsing komt komme In heit is jong en ***mask*** .
 True short_VP shortVPsing wit witte In heit is jong en ***mask*** .
 True short_VP shortVPsing set sette In heit is jong en ***mask*** .
 True short_VP shortVPsing leit lige In heit is jong en ***mask*** .
-True short_VP shortVPsing is benne In mem hat en ***mask*** lang .
-True short_VP shortVPsing is benne In mem hat en ***mask*** koart .
-False short_VP shortVPsing is benne In mem hat en ***mask*** âld .
-False short_VP shortVPsing is benne In mem hat en ***mask*** jong .
-True short_VP shortVPsing is benne In mem kin en ***mask*** lang .
-True short_VP shortVPsing is benne In mem kin en ***mask*** koart .
-False short_VP shortVPsing is benne In mem kin en ***mask*** âld .
-False short_VP shortVPsing is benne In mem kin en ***mask*** jong .
-True short_VP shortVPsing is benne In mem komt en ***mask*** lang .
-True short_VP shortVPsing is benne In mem komt en ***mask*** koart .
-False short_VP shortVPsing is benne In mem komt en ***mask*** âld .
-False short_VP shortVPsing is benne In mem komt en ***mask*** jong .
-False short_VP shortVPsing is benne In mem wit en ***mask*** lang .
-False short_VP shortVPsing is benne In mem wit en ***mask*** koart .
-False short_VP shortVPsing is benne In mem wit en ***mask*** âld .
-False short_VP shortVPsing is benne In mem wit en ***mask*** jong .
-False short_VP shortVPsing is benne In mem set en ***mask*** lang .
-False short_VP shortVPsing is benne In mem set en ***mask*** koart .
-False short_VP shortVPsing is benne In mem set en ***mask*** âld .
-False short_VP shortVPsing is benne In mem set en ***mask*** jong .
-True short_VP shortVPsing is benne In mem leit en ***mask*** lang .
-False short_VP shortVPsing is benne In mem leit en ***mask*** koart .
-False short_VP shortVPsing is benne In mem leit en ***mask*** âld .
-False short_VP shortVPsing is benne In mem leit en ***mask*** jong .
+True short_VP shortVPsing is binne In mem hat en ***mask*** lang .
+False short_VP shortVPsing is binne In mem hat en ***mask*** koart .
+False short_VP shortVPsing is binne In mem hat en ***mask*** âld .
+False short_VP shortVPsing is binne In mem hat en ***mask*** jong .
+True short_VP shortVPsing is binne In mem kin en ***mask*** lang .
+False short_VP shortVPsing is binne In mem kin en ***mask*** koart .
+False short_VP shortVPsing is binne In mem kin en ***mask*** âld .
+False short_VP shortVPsing is binne In mem kin en ***mask*** jong .
+True short_VP shortVPsing is binne In mem komt en ***mask*** lang .
+False short_VP shortVPsing is binne In mem komt en ***mask*** koart .
+False short_VP shortVPsing is binne In mem komt en ***mask*** âld .
+False short_VP shortVPsing is binne In mem komt en ***mask*** jong .
+False short_VP shortVPsing is binne In mem wit en ***mask*** lang .
+False short_VP shortVPsing is binne In mem wit en ***mask*** koart .
+False short_VP shortVPsing is binne In mem wit en ***mask*** âld .
+False short_VP shortVPsing is binne In mem wit en ***mask*** jong .
+False short_VP shortVPsing is binne In mem set en ***mask*** lang .
+False short_VP shortVPsing is binne In mem set en ***mask*** koart .
+False short_VP shortVPsing is binne In mem set en ***mask*** âld .
+False short_VP shortVPsing is binne In mem set en ***mask*** jong .
+True short_VP shortVPsing is binne In mem leit en ***mask*** lang .
+False short_VP shortVPsing is binne In mem leit en ***mask*** koart .
+False short_VP shortVPsing is binne In mem leit en ***mask*** âld .
+False short_VP shortVPsing is binne In mem leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In mem is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In mem is lang en ***mask*** .
@@ -206,30 +206,30 @@ True short_VP shortVPsing komt komme In mem is jong en ***mask*** .
 True short_VP shortVPsing wit witte In mem is jong en ***mask*** .
 True short_VP shortVPsing set sette In mem is jong en ***mask*** .
 True short_VP shortVPsing leit lige In mem is jong en ***mask*** .
-False short_VP shortVPsing is benne In frou hat en ***mask*** lang .
-False short_VP shortVPsing is benne In frou hat en ***mask*** koart .
-False short_VP shortVPsing is benne In frou hat en ***mask*** âld .
-False short_VP shortVPsing is benne In frou hat en ***mask*** jong .
-True short_VP shortVPsing is benne In frou kin en ***mask*** lang .
-False short_VP shortVPsing is benne In frou kin en ***mask*** koart .
-False short_VP shortVPsing is benne In frou kin en ***mask*** âld .
-False short_VP shortVPsing is benne In frou kin en ***mask*** jong .
-True short_VP shortVPsing is benne In frou komt en ***mask*** lang .
-True short_VP shortVPsing is benne In frou komt en ***mask*** koart .
-False short_VP shortVPsing is benne In frou komt en ***mask*** âld .
-False short_VP shortVPsing is benne In frou komt en ***mask*** jong .
-False short_VP shortVPsing is benne In frou wit en ***mask*** lang .
-False short_VP shortVPsing is benne In frou wit en ***mask*** koart .
-False short_VP shortVPsing is benne In frou wit en ***mask*** âld .
-False short_VP shortVPsing is benne In frou wit en ***mask*** jong .
-False short_VP shortVPsing is benne In frou set en ***mask*** lang .
-False short_VP shortVPsing is benne In frou set en ***mask*** koart .
-False short_VP shortVPsing is benne In frou set en ***mask*** âld .
-False short_VP shortVPsing is benne In frou set en ***mask*** jong .
-True short_VP shortVPsing is benne In frou leit en ***mask*** lang .
-False short_VP shortVPsing is benne In frou leit en ***mask*** koart .
-False short_VP shortVPsing is benne In frou leit en ***mask*** âld .
-False short_VP shortVPsing is benne In frou leit en ***mask*** jong .
+True short_VP shortVPsing is binne In frou hat en ***mask*** lang .
+False short_VP shortVPsing is binne In frou hat en ***mask*** koart .
+False short_VP shortVPsing is binne In frou hat en ***mask*** âld .
+False short_VP shortVPsing is binne In frou hat en ***mask*** jong .
+False short_VP shortVPsing is binne In frou kin en ***mask*** lang .
+False short_VP shortVPsing is binne In frou kin en ***mask*** koart .
+False short_VP shortVPsing is binne In frou kin en ***mask*** âld .
+False short_VP shortVPsing is binne In frou kin en ***mask*** jong .
+False short_VP shortVPsing is binne In frou komt en ***mask*** lang .
+False short_VP shortVPsing is binne In frou komt en ***mask*** koart .
+False short_VP shortVPsing is binne In frou komt en ***mask*** âld .
+False short_VP shortVPsing is binne In frou komt en ***mask*** jong .
+False short_VP shortVPsing is binne In frou wit en ***mask*** lang .
+False short_VP shortVPsing is binne In frou wit en ***mask*** koart .
+False short_VP shortVPsing is binne In frou wit en ***mask*** âld .
+False short_VP shortVPsing is binne In frou wit en ***mask*** jong .
+False short_VP shortVPsing is binne In frou set en ***mask*** lang .
+False short_VP shortVPsing is binne In frou set en ***mask*** koart .
+False short_VP shortVPsing is binne In frou set en ***mask*** âld .
+False short_VP shortVPsing is binne In frou set en ***mask*** jong .
+False short_VP shortVPsing is binne In frou leit en ***mask*** lang .
+False short_VP shortVPsing is binne In frou leit en ***mask*** koart .
+False short_VP shortVPsing is binne In frou leit en ***mask*** âld .
+False short_VP shortVPsing is binne In frou leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In frou is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In frou is lang en ***mask*** .
@@ -258,30 +258,30 @@ True short_VP shortVPsing komt komme In frou is jong en ***mask*** .
 True short_VP shortVPsing wit witte In frou is jong en ***mask*** .
 True short_VP shortVPsing set sette In frou is jong en ***mask*** .
 True short_VP shortVPsing leit lige In frou is jong en ***mask*** .
-False short_VP shortVPsing is benne In plysje hat en ***mask*** lang .
-False short_VP shortVPsing is benne In plysje hat en ***mask*** koart .
-False short_VP shortVPsing is benne In plysje hat en ***mask*** âld .
-False short_VP shortVPsing is benne In plysje hat en ***mask*** jong .
-True short_VP shortVPsing is benne In plysje kin en ***mask*** lang .
-True short_VP shortVPsing is benne In plysje kin en ***mask*** koart .
-False short_VP shortVPsing is benne In plysje kin en ***mask*** âld .
-False short_VP shortVPsing is benne In plysje kin en ***mask*** jong .
-True short_VP shortVPsing is benne In plysje komt en ***mask*** lang .
-True short_VP shortVPsing is benne In plysje komt en ***mask*** koart .
-False short_VP shortVPsing is benne In plysje komt en ***mask*** âld .
-True short_VP shortVPsing is benne In plysje komt en ***mask*** jong .
-False short_VP shortVPsing is benne In plysje wit en ***mask*** lang .
-False short_VP shortVPsing is benne In plysje wit en ***mask*** koart .
-False short_VP shortVPsing is benne In plysje wit en ***mask*** âld .
-False short_VP shortVPsing is benne In plysje wit en ***mask*** jong .
-True short_VP shortVPsing is benne In plysje set en ***mask*** lang .
-False short_VP shortVPsing is benne In plysje set en ***mask*** koart .
-False short_VP shortVPsing is benne In plysje set en ***mask*** âld .
-False short_VP shortVPsing is benne In plysje set en ***mask*** jong .
-True short_VP shortVPsing is benne In plysje leit en ***mask*** lang .
-False short_VP shortVPsing is benne In plysje leit en ***mask*** koart .
-False short_VP shortVPsing is benne In plysje leit en ***mask*** âld .
-False short_VP shortVPsing is benne In plysje leit en ***mask*** jong .
+False short_VP shortVPsing is binne In plysje hat en ***mask*** lang .
+False short_VP shortVPsing is binne In plysje hat en ***mask*** koart .
+False short_VP shortVPsing is binne In plysje hat en ***mask*** âld .
+False short_VP shortVPsing is binne In plysje hat en ***mask*** jong .
+False short_VP shortVPsing is binne In plysje kin en ***mask*** lang .
+False short_VP shortVPsing is binne In plysje kin en ***mask*** koart .
+False short_VP shortVPsing is binne In plysje kin en ***mask*** âld .
+False short_VP shortVPsing is binne In plysje kin en ***mask*** jong .
+False short_VP shortVPsing is binne In plysje komt en ***mask*** lang .
+False short_VP shortVPsing is binne In plysje komt en ***mask*** koart .
+False short_VP shortVPsing is binne In plysje komt en ***mask*** âld .
+False short_VP shortVPsing is binne In plysje komt en ***mask*** jong .
+False short_VP shortVPsing is binne In plysje wit en ***mask*** lang .
+False short_VP shortVPsing is binne In plysje wit en ***mask*** koart .
+False short_VP shortVPsing is binne In plysje wit en ***mask*** âld .
+False short_VP shortVPsing is binne In plysje wit en ***mask*** jong .
+False short_VP shortVPsing is binne In plysje set en ***mask*** lang .
+False short_VP shortVPsing is binne In plysje set en ***mask*** koart .
+False short_VP shortVPsing is binne In plysje set en ***mask*** âld .
+False short_VP shortVPsing is binne In plysje set en ***mask*** jong .
+False short_VP shortVPsing is binne In plysje leit en ***mask*** lang .
+False short_VP shortVPsing is binne In plysje leit en ***mask*** koart .
+False short_VP shortVPsing is binne In plysje leit en ***mask*** âld .
+False short_VP shortVPsing is binne In plysje leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In plysje is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In plysje is lang en ***mask*** .
@@ -310,30 +310,30 @@ True short_VP shortVPsing komt komme In plysje is jong en ***mask*** .
 True short_VP shortVPsing wit witte In plysje is jong en ***mask*** .
 True short_VP shortVPsing set sette In plysje is jong en ***mask*** .
 True short_VP shortVPsing leit lige In plysje is jong en ***mask*** .
-True short_VP shortVPsing is benne In famke hat en ***mask*** lang .
-True short_VP shortVPsing is benne In famke hat en ***mask*** koart .
-False short_VP shortVPsing is benne In famke hat en ***mask*** âld .
-False short_VP shortVPsing is benne In famke hat en ***mask*** jong .
-True short_VP shortVPsing is benne In famke kin en ***mask*** lang .
-False short_VP shortVPsing is benne In famke kin en ***mask*** koart .
-False short_VP shortVPsing is benne In famke kin en ***mask*** âld .
-False short_VP shortVPsing is benne In famke kin en ***mask*** jong .
-True short_VP shortVPsing is benne In famke komt en ***mask*** lang .
-True short_VP shortVPsing is benne In famke komt en ***mask*** koart .
-False short_VP shortVPsing is benne In famke komt en ***mask*** âld .
-True short_VP shortVPsing is benne In famke komt en ***mask*** jong .
-False short_VP shortVPsing is benne In famke wit en ***mask*** lang .
-False short_VP shortVPsing is benne In famke wit en ***mask*** koart .
-False short_VP shortVPsing is benne In famke wit en ***mask*** âld .
-False short_VP shortVPsing is benne In famke wit en ***mask*** jong .
-True short_VP shortVPsing is benne In famke set en ***mask*** lang .
-False short_VP shortVPsing is benne In famke set en ***mask*** koart .
-False short_VP shortVPsing is benne In famke set en ***mask*** âld .
-False short_VP shortVPsing is benne In famke set en ***mask*** jong .
-True short_VP shortVPsing is benne In famke leit en ***mask*** lang .
-False short_VP shortVPsing is benne In famke leit en ***mask*** koart .
-False short_VP shortVPsing is benne In famke leit en ***mask*** âld .
-False short_VP shortVPsing is benne In famke leit en ***mask*** jong .
+True short_VP shortVPsing is binne In famke hat en ***mask*** lang .
+False short_VP shortVPsing is binne In famke hat en ***mask*** koart .
+False short_VP shortVPsing is binne In famke hat en ***mask*** âld .
+False short_VP shortVPsing is binne In famke hat en ***mask*** jong .
+False short_VP shortVPsing is binne In famke kin en ***mask*** lang .
+False short_VP shortVPsing is binne In famke kin en ***mask*** koart .
+False short_VP shortVPsing is binne In famke kin en ***mask*** âld .
+False short_VP shortVPsing is binne In famke kin en ***mask*** jong .
+True short_VP shortVPsing is binne In famke komt en ***mask*** lang .
+False short_VP shortVPsing is binne In famke komt en ***mask*** koart .
+False short_VP shortVPsing is binne In famke komt en ***mask*** âld .
+False short_VP shortVPsing is binne In famke komt en ***mask*** jong .
+False short_VP shortVPsing is binne In famke wit en ***mask*** lang .
+False short_VP shortVPsing is binne In famke wit en ***mask*** koart .
+False short_VP shortVPsing is binne In famke wit en ***mask*** âld .
+False short_VP shortVPsing is binne In famke wit en ***mask*** jong .
+False short_VP shortVPsing is binne In famke set en ***mask*** lang .
+False short_VP shortVPsing is binne In famke set en ***mask*** koart .
+False short_VP shortVPsing is binne In famke set en ***mask*** âld .
+False short_VP shortVPsing is binne In famke set en ***mask*** jong .
+False short_VP shortVPsing is binne In famke leit en ***mask*** lang .
+False short_VP shortVPsing is binne In famke leit en ***mask*** koart .
+False short_VP shortVPsing is binne In famke leit en ***mask*** âld .
+False short_VP shortVPsing is binne In famke leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In famke is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In famke is lang en ***mask*** .
@@ -362,30 +362,30 @@ True short_VP shortVPsing komt komme In famke is jong en ***mask*** .
 True short_VP shortVPsing wit witte In famke is jong en ***mask*** .
 True short_VP shortVPsing set sette In famke is jong en ***mask*** .
 True short_VP shortVPsing leit lige In famke is jong en ***mask*** .
-True short_VP shortVPsing is benne In jonge hat en ***mask*** lang .
-True short_VP shortVPsing is benne In jonge hat en ***mask*** koart .
-False short_VP shortVPsing is benne In jonge hat en ***mask*** âld .
-False short_VP shortVPsing is benne In jonge hat en ***mask*** jong .
-True short_VP shortVPsing is benne In jonge kin en ***mask*** lang .
-True short_VP shortVPsing is benne In jonge kin en ***mask*** koart .
-True short_VP shortVPsing is benne In jonge kin en ***mask*** âld .
-False short_VP shortVPsing is benne In jonge kin en ***mask*** jong .
-True short_VP shortVPsing is benne In jonge komt en ***mask*** lang .
-True short_VP shortVPsing is benne In jonge komt en ***mask*** koart .
-False short_VP shortVPsing is benne In jonge komt en ***mask*** âld .
-True short_VP shortVPsing is benne In jonge komt en ***mask*** jong .
-True short_VP shortVPsing is benne In jonge wit en ***mask*** lang .
-False short_VP shortVPsing is benne In jonge wit en ***mask*** koart .
-False short_VP shortVPsing is benne In jonge wit en ***mask*** âld .
-False short_VP shortVPsing is benne In jonge wit en ***mask*** jong .
-True short_VP shortVPsing is benne In jonge set en ***mask*** lang .
-False short_VP shortVPsing is benne In jonge set en ***mask*** koart .
-False short_VP shortVPsing is benne In jonge set en ***mask*** âld .
-False short_VP shortVPsing is benne In jonge set en ***mask*** jong .
-True short_VP shortVPsing is benne In jonge leit en ***mask*** lang .
-True short_VP shortVPsing is benne In jonge leit en ***mask*** koart .
-False short_VP shortVPsing is benne In jonge leit en ***mask*** âld .
-False short_VP shortVPsing is benne In jonge leit en ***mask*** jong .
+True short_VP shortVPsing is binne In jonge hat en ***mask*** lang .
+False short_VP shortVPsing is binne In jonge hat en ***mask*** koart .
+False short_VP shortVPsing is binne In jonge hat en ***mask*** âld .
+False short_VP shortVPsing is binne In jonge hat en ***mask*** jong .
+False short_VP shortVPsing is binne In jonge kin en ***mask*** lang .
+False short_VP shortVPsing is binne In jonge kin en ***mask*** koart .
+False short_VP shortVPsing is binne In jonge kin en ***mask*** âld .
+False short_VP shortVPsing is binne In jonge kin en ***mask*** jong .
+False short_VP shortVPsing is binne In jonge komt en ***mask*** lang .
+False short_VP shortVPsing is binne In jonge komt en ***mask*** koart .
+False short_VP shortVPsing is binne In jonge komt en ***mask*** âld .
+False short_VP shortVPsing is binne In jonge komt en ***mask*** jong .
+False short_VP shortVPsing is binne In jonge wit en ***mask*** lang .
+False short_VP shortVPsing is binne In jonge wit en ***mask*** koart .
+False short_VP shortVPsing is binne In jonge wit en ***mask*** âld .
+False short_VP shortVPsing is binne In jonge wit en ***mask*** jong .
+False short_VP shortVPsing is binne In jonge set en ***mask*** lang .
+False short_VP shortVPsing is binne In jonge set en ***mask*** koart .
+False short_VP shortVPsing is binne In jonge set en ***mask*** âld .
+False short_VP shortVPsing is binne In jonge set en ***mask*** jong .
+False short_VP shortVPsing is binne In jonge leit en ***mask*** lang .
+False short_VP shortVPsing is binne In jonge leit en ***mask*** koart .
+False short_VP shortVPsing is binne In jonge leit en ***mask*** âld .
+False short_VP shortVPsing is binne In jonge leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In jonge is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In jonge is lang en ***mask*** .
@@ -414,30 +414,30 @@ True short_VP shortVPsing komt komme In jonge is jong en ***mask*** .
 True short_VP shortVPsing wit witte In jonge is jong en ***mask*** .
 True short_VP shortVPsing set sette In jonge is jong en ***mask*** .
 True short_VP shortVPsing leit lige In jonge is jong en ***mask*** .
-True short_VP shortVPsing is benne In kening hat en ***mask*** lang .
-True short_VP shortVPsing is benne In kening hat en ***mask*** koart .
-False short_VP shortVPsing is benne In kening hat en ***mask*** âld .
-False short_VP shortVPsing is benne In kening hat en ***mask*** jong .
-True short_VP shortVPsing is benne In kening kin en ***mask*** lang .
-True short_VP shortVPsing is benne In kening kin en ***mask*** koart .
-False short_VP shortVPsing is benne In kening kin en ***mask*** âld .
-False short_VP shortVPsing is benne In kening kin en ***mask*** jong .
-True short_VP shortVPsing is benne In kening komt en ***mask*** lang .
-True short_VP shortVPsing is benne In kening komt en ***mask*** koart .
-False short_VP shortVPsing is benne In kening komt en ***mask*** âld .
-True short_VP shortVPsing is benne In kening komt en ***mask*** jong .
-False short_VP shortVPsing is benne In kening wit en ***mask*** lang .
-True short_VP shortVPsing is benne In kening wit en ***mask*** koart .
-False short_VP shortVPsing is benne In kening wit en ***mask*** âld .
-False short_VP shortVPsing is benne In kening wit en ***mask*** jong .
-True short_VP shortVPsing is benne In kening set en ***mask*** lang .
-False short_VP shortVPsing is benne In kening set en ***mask*** koart .
-False short_VP shortVPsing is benne In kening set en ***mask*** âld .
-False short_VP shortVPsing is benne In kening set en ***mask*** jong .
-True short_VP shortVPsing is benne In kening leit en ***mask*** lang .
-False short_VP shortVPsing is benne In kening leit en ***mask*** koart .
-False short_VP shortVPsing is benne In kening leit en ***mask*** âld .
-False short_VP shortVPsing is benne In kening leit en ***mask*** jong .
+True short_VP shortVPsing is binne In kening hat en ***mask*** lang .
+False short_VP shortVPsing is binne In kening hat en ***mask*** koart .
+False short_VP shortVPsing is binne In kening hat en ***mask*** âld .
+False short_VP shortVPsing is binne In kening hat en ***mask*** jong .
+False short_VP shortVPsing is binne In kening kin en ***mask*** lang .
+False short_VP shortVPsing is binne In kening kin en ***mask*** koart .
+False short_VP shortVPsing is binne In kening kin en ***mask*** âld .
+False short_VP shortVPsing is binne In kening kin en ***mask*** jong .
+False short_VP shortVPsing is binne In kening komt en ***mask*** lang .
+False short_VP shortVPsing is binne In kening komt en ***mask*** koart .
+False short_VP shortVPsing is binne In kening komt en ***mask*** âld .
+False short_VP shortVPsing is binne In kening komt en ***mask*** jong .
+False short_VP shortVPsing is binne In kening wit en ***mask*** lang .
+False short_VP shortVPsing is binne In kening wit en ***mask*** koart .
+False short_VP shortVPsing is binne In kening wit en ***mask*** âld .
+False short_VP shortVPsing is binne In kening wit en ***mask*** jong .
+False short_VP shortVPsing is binne In kening set en ***mask*** lang .
+False short_VP shortVPsing is binne In kening set en ***mask*** koart .
+False short_VP shortVPsing is binne In kening set en ***mask*** âld .
+False short_VP shortVPsing is binne In kening set en ***mask*** jong .
+False short_VP shortVPsing is binne In kening leit en ***mask*** lang .
+False short_VP shortVPsing is binne In kening leit en ***mask*** koart .
+False short_VP shortVPsing is binne In kening leit en ***mask*** âld .
+False short_VP shortVPsing is binne In kening leit en ***mask*** jong .
 False short_VP shortVPsing hat hawwe In kening is lang en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsing kin kinne In kening is lang en ***mask*** .
@@ -466,474 +466,474 @@ True short_VP shortVPsing komt komme In kening is jong en ***mask*** .
 True short_VP shortVPsing wit witte In kening is jong en ***mask*** .
 True short_VP shortVPsing set sette In kening is jong en ***mask*** .
 True short_VP shortVPsing leit lige In kening is jong en ***mask*** .
-False short_VP shortVPplur benne is De minsken hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De minsken hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De minsken hawwe en ***mask*** âld .
-False short_VP shortVPplur benne is De minsken hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De minsken kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De minsken kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De minsken kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De minsken kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De minsken komme en ***mask*** lang .
-False short_VP shortVPplur benne is De minsken komme en ***mask*** koart .
-False short_VP shortVPplur benne is De minsken komme en ***mask*** âld .
-False short_VP shortVPplur benne is De minsken komme en ***mask*** jong .
-False short_VP shortVPplur benne is De minsken witte en ***mask*** lang .
-False short_VP shortVPplur benne is De minsken witte en ***mask*** koart .
-True short_VP shortVPplur benne is De minsken witte en ***mask*** âld .
-True short_VP shortVPplur benne is De minsken witte en ***mask*** jong .
-True short_VP shortVPplur benne is De minsken sette en ***mask*** lang .
-True short_VP shortVPplur benne is De minsken sette en ***mask*** koart .
-True short_VP shortVPplur benne is De minsken sette en ***mask*** âld .
-True short_VP shortVPplur benne is De minsken sette en ***mask*** jong .
-False short_VP shortVPplur benne is De minsken lige en ***mask*** lang .
-False short_VP shortVPplur benne is De minsken lige en ***mask*** koart .
-True short_VP shortVPplur benne is De minsken lige en ***mask*** âld .
-False short_VP shortVPplur benne is De minsken lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De minsken benne lang en ***mask*** .
+True short_VP shortVPplur binne is De minsken hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De minsken hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De minsken hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De minsken hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De minsken kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De minsken kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De minsken kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De minsken kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De minsken komme en ***mask*** lang .
+True short_VP shortVPplur binne is De minsken komme en ***mask*** koart .
+True short_VP shortVPplur binne is De minsken komme en ***mask*** âld .
+True short_VP shortVPplur binne is De minsken komme en ***mask*** jong .
+True short_VP shortVPplur binne is De minsken witte en ***mask*** lang .
+True short_VP shortVPplur binne is De minsken witte en ***mask*** koart .
+True short_VP shortVPplur binne is De minsken witte en ***mask*** âld .
+True short_VP shortVPplur binne is De minsken witte en ***mask*** jong .
+True short_VP shortVPplur binne is De minsken sette en ***mask*** lang .
+True short_VP shortVPplur binne is De minsken sette en ***mask*** koart .
+True short_VP shortVPplur binne is De minsken sette en ***mask*** âld .
+True short_VP shortVPplur binne is De minsken sette en ***mask*** jong .
+True short_VP shortVPplur binne is De minsken lige en ***mask*** lang .
+True short_VP shortVPplur binne is De minsken lige en ***mask*** koart .
+True short_VP shortVPplur binne is De minsken lige en ***mask*** âld .
+True short_VP shortVPplur binne is De minsken lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De minsken binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De minsken benne lang en ***mask*** .
-True short_VP shortVPplur komme komt De minsken benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De minsken benne lang en ***mask*** .
-True short_VP shortVPplur sette set De minsken benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De minsken benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De minsken benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De minsken binne lang en ***mask*** .
+True short_VP shortVPplur komme komt De minsken binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De minsken binne lang en ***mask*** .
+True short_VP shortVPplur sette set De minsken binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De minsken binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De minsken binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De minsken benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De minsken benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De minsken benne koart en ***mask*** .
-True short_VP shortVPplur sette set De minsken benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De minsken benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De minsken benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De minsken binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De minsken binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De minsken binne koart en ***mask*** .
+False short_VP shortVPplur sette set De minsken binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De minsken binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De minsken binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De minsken benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De minsken benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De minsken benne âld en ***mask*** .
-True short_VP shortVPplur sette set De minsken benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De minsken benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De minsken benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De minsken binne âld en ***mask*** .
+True short_VP shortVPplur komme komt De minsken binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De minsken binne âld en ***mask*** .
+False short_VP shortVPplur sette set De minsken binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De minsken binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De minsken binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De minsken benne jong en ***mask*** .
-True short_VP shortVPplur komme komt De minsken benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De minsken benne jong en ***mask*** .
-False short_VP shortVPplur sette set De minsken benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De minsken benne jong en ***mask*** .
-False short_VP shortVPplur benne is De manlju hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De manlju hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De manlju hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De manlju hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De manlju kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De manlju kinne en ***mask*** koart .
-True short_VP shortVPplur benne is De manlju kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De manlju kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De manlju komme en ***mask*** lang .
-False short_VP shortVPplur benne is De manlju komme en ***mask*** koart .
-True short_VP shortVPplur benne is De manlju komme en ***mask*** âld .
-True short_VP shortVPplur benne is De manlju komme en ***mask*** jong .
-False short_VP shortVPplur benne is De manlju witte en ***mask*** lang .
-False short_VP shortVPplur benne is De manlju witte en ***mask*** koart .
-True short_VP shortVPplur benne is De manlju witte en ***mask*** âld .
-True short_VP shortVPplur benne is De manlju witte en ***mask*** jong .
-True short_VP shortVPplur benne is De manlju sette en ***mask*** lang .
-True short_VP shortVPplur benne is De manlju sette en ***mask*** koart .
-True short_VP shortVPplur benne is De manlju sette en ***mask*** âld .
-True short_VP shortVPplur benne is De manlju sette en ***mask*** jong .
-False short_VP shortVPplur benne is De manlju lige en ***mask*** lang .
-False short_VP shortVPplur benne is De manlju lige en ***mask*** koart .
-True short_VP shortVPplur benne is De manlju lige en ***mask*** âld .
-True short_VP shortVPplur benne is De manlju lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De manlju benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De minsken binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De minsken binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De minsken binne jong en ***mask*** .
+True short_VP shortVPplur sette set De minsken binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De minsken binne jong en ***mask*** .
+True short_VP shortVPplur binne is De manlju hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De manlju hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De manlju hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De manlju hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De manlju kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De manlju kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De manlju kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De manlju kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De manlju komme en ***mask*** lang .
+True short_VP shortVPplur binne is De manlju komme en ***mask*** koart .
+True short_VP shortVPplur binne is De manlju komme en ***mask*** âld .
+True short_VP shortVPplur binne is De manlju komme en ***mask*** jong .
+True short_VP shortVPplur binne is De manlju witte en ***mask*** lang .
+True short_VP shortVPplur binne is De manlju witte en ***mask*** koart .
+True short_VP shortVPplur binne is De manlju witte en ***mask*** âld .
+True short_VP shortVPplur binne is De manlju witte en ***mask*** jong .
+True short_VP shortVPplur binne is De manlju sette en ***mask*** lang .
+True short_VP shortVPplur binne is De manlju sette en ***mask*** koart .
+True short_VP shortVPplur binne is De manlju sette en ***mask*** âld .
+True short_VP shortVPplur binne is De manlju sette en ***mask*** jong .
+False short_VP shortVPplur binne is De manlju lige en ***mask*** lang .
+True short_VP shortVPplur binne is De manlju lige en ***mask*** koart .
+True short_VP shortVPplur binne is De manlju lige en ***mask*** âld .
+True short_VP shortVPplur binne is De manlju lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De manlju binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De manlju benne lang en ***mask*** .
-False short_VP shortVPplur komme komt De manlju benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De manlju benne lang en ***mask*** .
-True short_VP shortVPplur sette set De manlju benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De manlju benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De manlju benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De manlju binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De manlju binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De manlju binne lang en ***mask*** .
+True short_VP shortVPplur sette set De manlju binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De manlju binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De manlju binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De manlju benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De manlju benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De manlju benne koart en ***mask*** .
-True short_VP shortVPplur sette set De manlju benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De manlju benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De manlju benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De manlju binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De manlju binne koart en ***mask*** .
+True short_VP shortVPplur witte wit De manlju binne koart en ***mask*** .
+False short_VP shortVPplur sette set De manlju binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De manlju binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De manlju binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De manlju benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De manlju benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De manlju benne âld en ***mask*** .
-True short_VP shortVPplur sette set De manlju benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De manlju benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De manlju benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De manlju binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De manlju binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De manlju binne âld en ***mask*** .
+True short_VP shortVPplur sette set De manlju binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De manlju binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De manlju binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De manlju benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De manlju benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De manlju benne jong en ***mask*** .
-True short_VP shortVPplur sette set De manlju benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De manlju benne jong en ***mask*** .
-False short_VP shortVPplur benne is De heiten hawwe en ***mask*** lang .
-True short_VP shortVPplur benne is De heiten hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De heiten hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De heiten hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De heiten kinne en ***mask*** lang .
-True short_VP shortVPplur benne is De heiten kinne en ***mask*** koart .
-True short_VP shortVPplur benne is De heiten kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De heiten kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De heiten komme en ***mask*** lang .
-False short_VP shortVPplur benne is De heiten komme en ***mask*** koart .
-True short_VP shortVPplur benne is De heiten komme en ***mask*** âld .
-True short_VP shortVPplur benne is De heiten komme en ***mask*** jong .
-False short_VP shortVPplur benne is De heiten witte en ***mask*** lang .
-False short_VP shortVPplur benne is De heiten witte en ***mask*** koart .
-True short_VP shortVPplur benne is De heiten witte en ***mask*** âld .
-True short_VP shortVPplur benne is De heiten witte en ***mask*** jong .
-False short_VP shortVPplur benne is De heiten sette en ***mask*** lang .
-True short_VP shortVPplur benne is De heiten sette en ***mask*** koart .
-True short_VP shortVPplur benne is De heiten sette en ***mask*** âld .
-True short_VP shortVPplur benne is De heiten sette en ***mask*** jong .
-False short_VP shortVPplur benne is De heiten lige en ***mask*** lang .
-False short_VP shortVPplur benne is De heiten lige en ***mask*** koart .
-True short_VP shortVPplur benne is De heiten lige en ***mask*** âld .
-True short_VP shortVPplur benne is De heiten lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De heiten benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De manlju binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De manlju binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De manlju binne jong en ***mask*** .
+True short_VP shortVPplur sette set De manlju binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De manlju binne jong en ***mask*** .
+True short_VP shortVPplur binne is De heiten hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De heiten hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De heiten hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De heiten hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De heiten kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De heiten kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De heiten kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De heiten kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De heiten komme en ***mask*** lang .
+True short_VP shortVPplur binne is De heiten komme en ***mask*** koart .
+True short_VP shortVPplur binne is De heiten komme en ***mask*** âld .
+True short_VP shortVPplur binne is De heiten komme en ***mask*** jong .
+True short_VP shortVPplur binne is De heiten witte en ***mask*** lang .
+True short_VP shortVPplur binne is De heiten witte en ***mask*** koart .
+True short_VP shortVPplur binne is De heiten witte en ***mask*** âld .
+True short_VP shortVPplur binne is De heiten witte en ***mask*** jong .
+True short_VP shortVPplur binne is De heiten sette en ***mask*** lang .
+True short_VP shortVPplur binne is De heiten sette en ***mask*** koart .
+True short_VP shortVPplur binne is De heiten sette en ***mask*** âld .
+True short_VP shortVPplur binne is De heiten sette en ***mask*** jong .
+False short_VP shortVPplur binne is De heiten lige en ***mask*** lang .
+True short_VP shortVPplur binne is De heiten lige en ***mask*** koart .
+True short_VP shortVPplur binne is De heiten lige en ***mask*** âld .
+True short_VP shortVPplur binne is De heiten lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De heiten binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De heiten benne lang en ***mask*** .
-False short_VP shortVPplur komme komt De heiten benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De heiten benne lang en ***mask*** .
-True short_VP shortVPplur sette set De heiten benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De heiten benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De heiten benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De heiten binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De heiten binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De heiten binne lang en ***mask*** .
+True short_VP shortVPplur sette set De heiten binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De heiten binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De heiten binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De heiten benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De heiten benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De heiten benne koart en ***mask*** .
-True short_VP shortVPplur sette set De heiten benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De heiten benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De heiten benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De heiten binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De heiten binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De heiten binne koart en ***mask*** .
+False short_VP shortVPplur sette set De heiten binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De heiten binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De heiten binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De heiten benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De heiten benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De heiten benne âld en ***mask*** .
-True short_VP shortVPplur sette set De heiten benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De heiten benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De heiten benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De heiten binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De heiten binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De heiten binne âld en ***mask*** .
+True short_VP shortVPplur sette set De heiten binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De heiten binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De heiten binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De heiten benne jong en ***mask*** .
-True short_VP shortVPplur komme komt De heiten benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De heiten benne jong en ***mask*** .
-False short_VP shortVPplur sette set De heiten benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De heiten benne jong en ***mask*** .
-False short_VP shortVPplur benne is De memmen hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De memmen hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De memmen hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De memmen hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De memmen kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De memmen kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De memmen kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De memmen kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De memmen komme en ***mask*** lang .
-False short_VP shortVPplur benne is De memmen komme en ***mask*** koart .
-False short_VP shortVPplur benne is De memmen komme en ***mask*** âld .
-False short_VP shortVPplur benne is De memmen komme en ***mask*** jong .
-False short_VP shortVPplur benne is De memmen witte en ***mask*** lang .
-False short_VP shortVPplur benne is De memmen witte en ***mask*** koart .
-False short_VP shortVPplur benne is De memmen witte en ***mask*** âld .
-True short_VP shortVPplur benne is De memmen witte en ***mask*** jong .
-False short_VP shortVPplur benne is De memmen sette en ***mask*** lang .
-False short_VP shortVPplur benne is De memmen sette en ***mask*** koart .
-True short_VP shortVPplur benne is De memmen sette en ***mask*** âld .
-True short_VP shortVPplur benne is De memmen sette en ***mask*** jong .
-False short_VP shortVPplur benne is De memmen lige en ***mask*** lang .
-False short_VP shortVPplur benne is De memmen lige en ***mask*** koart .
-True short_VP shortVPplur benne is De memmen lige en ***mask*** âld .
-True short_VP shortVPplur benne is De memmen lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De memmen benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De heiten binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De heiten binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De heiten binne jong en ***mask*** .
+True short_VP shortVPplur sette set De heiten binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De heiten binne jong en ***mask*** .
+True short_VP shortVPplur binne is De memmen hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De memmen hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De memmen hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De memmen hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De memmen kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De memmen kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De memmen kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De memmen kinne en ***mask*** jong .
+False short_VP shortVPplur binne is De memmen komme en ***mask*** lang .
+True short_VP shortVPplur binne is De memmen komme en ***mask*** koart .
+True short_VP shortVPplur binne is De memmen komme en ***mask*** âld .
+True short_VP shortVPplur binne is De memmen komme en ***mask*** jong .
+False short_VP shortVPplur binne is De memmen witte en ***mask*** lang .
+True short_VP shortVPplur binne is De memmen witte en ***mask*** koart .
+True short_VP shortVPplur binne is De memmen witte en ***mask*** âld .
+True short_VP shortVPplur binne is De memmen witte en ***mask*** jong .
+False short_VP shortVPplur binne is De memmen sette en ***mask*** lang .
+True short_VP shortVPplur binne is De memmen sette en ***mask*** koart .
+True short_VP shortVPplur binne is De memmen sette en ***mask*** âld .
+True short_VP shortVPplur binne is De memmen sette en ***mask*** jong .
+False short_VP shortVPplur binne is De memmen lige en ***mask*** lang .
+True short_VP shortVPplur binne is De memmen lige en ***mask*** koart .
+True short_VP shortVPplur binne is De memmen lige en ***mask*** âld .
+True short_VP shortVPplur binne is De memmen lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De memmen binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De memmen benne lang en ***mask*** .
-True short_VP shortVPplur komme komt De memmen benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De memmen benne lang en ***mask*** .
-True short_VP shortVPplur sette set De memmen benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De memmen benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De memmen benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De memmen binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De memmen binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De memmen binne lang en ***mask*** .
+False short_VP shortVPplur sette set De memmen binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De memmen binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De memmen binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De memmen benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De memmen benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De memmen benne koart en ***mask*** .
-True short_VP shortVPplur sette set De memmen benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De memmen benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De memmen benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De memmen binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De memmen binne koart en ***mask*** .
+True short_VP shortVPplur witte wit De memmen binne koart en ***mask*** .
+False short_VP shortVPplur sette set De memmen binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De memmen binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De memmen binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De memmen benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De memmen benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De memmen benne âld en ***mask*** .
-True short_VP shortVPplur sette set De memmen benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De memmen benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De memmen benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De memmen binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De memmen binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De memmen binne âld en ***mask*** .
+False short_VP shortVPplur sette set De memmen binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De memmen binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De memmen binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De memmen benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De memmen benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De memmen benne jong en ***mask*** .
-True short_VP shortVPplur sette set De memmen benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De memmen benne jong en ***mask*** .
-False short_VP shortVPplur benne is De froulju hawwe en ***mask*** lang .
-True short_VP shortVPplur benne is De froulju hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De froulju hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De froulju hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De froulju kinne en ***mask*** lang .
-True short_VP shortVPplur benne is De froulju kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De froulju kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De froulju kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De froulju komme en ***mask*** lang .
-False short_VP shortVPplur benne is De froulju komme en ***mask*** koart .
-False short_VP shortVPplur benne is De froulju komme en ***mask*** âld .
-False short_VP shortVPplur benne is De froulju komme en ***mask*** jong .
-False short_VP shortVPplur benne is De froulju witte en ***mask*** lang .
-False short_VP shortVPplur benne is De froulju witte en ***mask*** koart .
-False short_VP shortVPplur benne is De froulju witte en ***mask*** âld .
-True short_VP shortVPplur benne is De froulju witte en ***mask*** jong .
-False short_VP shortVPplur benne is De froulju sette en ***mask*** lang .
-True short_VP shortVPplur benne is De froulju sette en ***mask*** koart .
-True short_VP shortVPplur benne is De froulju sette en ***mask*** âld .
-True short_VP shortVPplur benne is De froulju sette en ***mask*** jong .
-False short_VP shortVPplur benne is De froulju lige en ***mask*** lang .
-False short_VP shortVPplur benne is De froulju lige en ***mask*** koart .
-False short_VP shortVPplur benne is De froulju lige en ***mask*** âld .
-True short_VP shortVPplur benne is De froulju lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De froulju benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De memmen binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De memmen binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De memmen binne jong en ***mask*** .
+True short_VP shortVPplur sette set De memmen binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De memmen binne jong en ***mask*** .
+True short_VP shortVPplur binne is De froulju hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De froulju hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De froulju hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De froulju hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De froulju kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De froulju kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De froulju kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De froulju kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De froulju komme en ***mask*** lang .
+True short_VP shortVPplur binne is De froulju komme en ***mask*** koart .
+True short_VP shortVPplur binne is De froulju komme en ***mask*** âld .
+True short_VP shortVPplur binne is De froulju komme en ***mask*** jong .
+False short_VP shortVPplur binne is De froulju witte en ***mask*** lang .
+True short_VP shortVPplur binne is De froulju witte en ***mask*** koart .
+True short_VP shortVPplur binne is De froulju witte en ***mask*** âld .
+True short_VP shortVPplur binne is De froulju witte en ***mask*** jong .
+True short_VP shortVPplur binne is De froulju sette en ***mask*** lang .
+True short_VP shortVPplur binne is De froulju sette en ***mask*** koart .
+True short_VP shortVPplur binne is De froulju sette en ***mask*** âld .
+True short_VP shortVPplur binne is De froulju sette en ***mask*** jong .
+True short_VP shortVPplur binne is De froulju lige en ***mask*** lang .
+True short_VP shortVPplur binne is De froulju lige en ***mask*** koart .
+True short_VP shortVPplur binne is De froulju lige en ***mask*** âld .
+True short_VP shortVPplur binne is De froulju lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De froulju binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De froulju benne lang en ***mask*** .
-True short_VP shortVPplur komme komt De froulju benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De froulju benne lang en ***mask*** .
-True short_VP shortVPplur sette set De froulju benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De froulju benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De froulju benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De froulju binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De froulju binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De froulju binne lang en ***mask*** .
+True short_VP shortVPplur sette set De froulju binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De froulju binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De froulju binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De froulju benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De froulju benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De froulju benne koart en ***mask*** .
-True short_VP shortVPplur sette set De froulju benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De froulju benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De froulju benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De froulju binne koart en ***mask*** .
+False short_VP shortVPplur komme komt De froulju binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De froulju binne koart en ***mask*** .
+False short_VP shortVPplur sette set De froulju binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De froulju binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De froulju binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De froulju benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De froulju benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De froulju benne âld en ***mask*** .
-True short_VP shortVPplur sette set De froulju benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De froulju benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De froulju benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De froulju binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De froulju binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De froulju binne âld en ***mask*** .
+False short_VP shortVPplur sette set De froulju binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De froulju binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De froulju binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De froulju benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De froulju benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De froulju benne jong en ***mask*** .
-False short_VP shortVPplur sette set De froulju benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De froulju benne jong en ***mask*** .
-False short_VP shortVPplur benne is De plysjes hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De plysjes hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De plysjes hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De plysjes hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De plysjes kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De plysjes kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De plysjes kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De plysjes kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De plysjes komme en ***mask*** lang .
-False short_VP shortVPplur benne is De plysjes komme en ***mask*** koart .
-False short_VP shortVPplur benne is De plysjes komme en ***mask*** âld .
-True short_VP shortVPplur benne is De plysjes komme en ***mask*** jong .
-False short_VP shortVPplur benne is De plysjes witte en ***mask*** lang .
-False short_VP shortVPplur benne is De plysjes witte en ***mask*** koart .
-True short_VP shortVPplur benne is De plysjes witte en ***mask*** âld .
-True short_VP shortVPplur benne is De plysjes witte en ***mask*** jong .
-True short_VP shortVPplur benne is De plysjes sette en ***mask*** lang .
-True short_VP shortVPplur benne is De plysjes sette en ***mask*** koart .
-False short_VP shortVPplur benne is De plysjes sette en ***mask*** âld .
-True short_VP shortVPplur benne is De plysjes sette en ***mask*** jong .
-False short_VP shortVPplur benne is De plysjes lige en ***mask*** lang .
-False short_VP shortVPplur benne is De plysjes lige en ***mask*** koart .
-True short_VP shortVPplur benne is De plysjes lige en ***mask*** âld .
-True short_VP shortVPplur benne is De plysjes lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De plysjes benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De froulju binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De froulju binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De froulju binne jong en ***mask*** .
+True short_VP shortVPplur sette set De froulju binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De froulju binne jong en ***mask*** .
+True short_VP shortVPplur binne is De plysjes hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De plysjes hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De plysjes hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De plysjes hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De plysjes kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De plysjes kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De plysjes kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De plysjes kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De plysjes komme en ***mask*** lang .
+True short_VP shortVPplur binne is De plysjes komme en ***mask*** koart .
+True short_VP shortVPplur binne is De plysjes komme en ***mask*** âld .
+True short_VP shortVPplur binne is De plysjes komme en ***mask*** jong .
+True short_VP shortVPplur binne is De plysjes witte en ***mask*** lang .
+True short_VP shortVPplur binne is De plysjes witte en ***mask*** koart .
+True short_VP shortVPplur binne is De plysjes witte en ***mask*** âld .
+True short_VP shortVPplur binne is De plysjes witte en ***mask*** jong .
+True short_VP shortVPplur binne is De plysjes sette en ***mask*** lang .
+True short_VP shortVPplur binne is De plysjes sette en ***mask*** koart .
+True short_VP shortVPplur binne is De plysjes sette en ***mask*** âld .
+True short_VP shortVPplur binne is De plysjes sette en ***mask*** jong .
+True short_VP shortVPplur binne is De plysjes lige en ***mask*** lang .
+True short_VP shortVPplur binne is De plysjes lige en ***mask*** koart .
+True short_VP shortVPplur binne is De plysjes lige en ***mask*** âld .
+True short_VP shortVPplur binne is De plysjes lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De plysjes binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De plysjes benne lang en ***mask*** .
-True short_VP shortVPplur komme komt De plysjes benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De plysjes benne lang en ***mask*** .
-True short_VP shortVPplur sette set De plysjes benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De plysjes benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De plysjes benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De plysjes binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De plysjes binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De plysjes binne lang en ***mask*** .
+True short_VP shortVPplur sette set De plysjes binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De plysjes binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De plysjes binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De plysjes benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De plysjes benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De plysjes benne koart en ***mask*** .
-True short_VP shortVPplur sette set De plysjes benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De plysjes benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De plysjes benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De plysjes binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De plysjes binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De plysjes binne koart en ***mask*** .
+True short_VP shortVPplur sette set De plysjes binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De plysjes binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De plysjes binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De plysjes benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De plysjes benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De plysjes benne âld en ***mask*** .
-True short_VP shortVPplur sette set De plysjes benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De plysjes benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De plysjes benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De plysjes binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De plysjes binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De plysjes binne âld en ***mask*** .
+False short_VP shortVPplur sette set De plysjes binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De plysjes binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De plysjes binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De plysjes benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De plysjes benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De plysjes benne jong en ***mask*** .
-False short_VP shortVPplur sette set De plysjes benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De plysjes benne jong en ***mask*** .
-False short_VP shortVPplur benne is De famkes hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De famkes hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De famkes hawwe en ***mask*** âld .
-False short_VP shortVPplur benne is De famkes hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De famkes kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De famkes kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De famkes kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De famkes kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De famkes komme en ***mask*** lang .
-False short_VP shortVPplur benne is De famkes komme en ***mask*** koart .
-False short_VP shortVPplur benne is De famkes komme en ***mask*** âld .
-False short_VP shortVPplur benne is De famkes komme en ***mask*** jong .
-False short_VP shortVPplur benne is De famkes witte en ***mask*** lang .
-False short_VP shortVPplur benne is De famkes witte en ***mask*** koart .
-True short_VP shortVPplur benne is De famkes witte en ***mask*** âld .
-True short_VP shortVPplur benne is De famkes witte en ***mask*** jong .
-False short_VP shortVPplur benne is De famkes sette en ***mask*** lang .
-True short_VP shortVPplur benne is De famkes sette en ***mask*** koart .
-True short_VP shortVPplur benne is De famkes sette en ***mask*** âld .
-True short_VP shortVPplur benne is De famkes sette en ***mask*** jong .
-False short_VP shortVPplur benne is De famkes lige en ***mask*** lang .
-False short_VP shortVPplur benne is De famkes lige en ***mask*** koart .
-True short_VP shortVPplur benne is De famkes lige en ***mask*** âld .
-True short_VP shortVPplur benne is De famkes lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De famkes benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De plysjes binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De plysjes binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De plysjes binne jong en ***mask*** .
+True short_VP shortVPplur sette set De plysjes binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De plysjes binne jong en ***mask*** .
+True short_VP shortVPplur binne is De famkes hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De famkes hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De famkes hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De famkes hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De famkes kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De famkes kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De famkes kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De famkes kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De famkes komme en ***mask*** lang .
+True short_VP shortVPplur binne is De famkes komme en ***mask*** koart .
+True short_VP shortVPplur binne is De famkes komme en ***mask*** âld .
+True short_VP shortVPplur binne is De famkes komme en ***mask*** jong .
+True short_VP shortVPplur binne is De famkes witte en ***mask*** lang .
+True short_VP shortVPplur binne is De famkes witte en ***mask*** koart .
+True short_VP shortVPplur binne is De famkes witte en ***mask*** âld .
+True short_VP shortVPplur binne is De famkes witte en ***mask*** jong .
+True short_VP shortVPplur binne is De famkes sette en ***mask*** lang .
+True short_VP shortVPplur binne is De famkes sette en ***mask*** koart .
+True short_VP shortVPplur binne is De famkes sette en ***mask*** âld .
+True short_VP shortVPplur binne is De famkes sette en ***mask*** jong .
+False short_VP shortVPplur binne is De famkes lige en ***mask*** lang .
+True short_VP shortVPplur binne is De famkes lige en ***mask*** koart .
+True short_VP shortVPplur binne is De famkes lige en ***mask*** âld .
+True short_VP shortVPplur binne is De famkes lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De famkes binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De famkes benne lang en ***mask*** .
-True short_VP shortVPplur komme komt De famkes benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De famkes benne lang en ***mask*** .
-True short_VP shortVPplur sette set De famkes benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De famkes benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De famkes benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De famkes binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De famkes binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De famkes binne lang en ***mask*** .
+True short_VP shortVPplur sette set De famkes binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De famkes binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De famkes binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De famkes benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De famkes benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De famkes benne koart en ***mask*** .
-True short_VP shortVPplur sette set De famkes benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De famkes benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De famkes benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De famkes binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De famkes binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De famkes binne koart en ***mask*** .
+False short_VP shortVPplur sette set De famkes binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De famkes binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De famkes binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De famkes benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De famkes benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De famkes benne âld en ***mask*** .
-True short_VP shortVPplur sette set De famkes benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De famkes benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De famkes benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De famkes binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De famkes binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De famkes binne âld en ***mask*** .
+False short_VP shortVPplur sette set De famkes binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De famkes binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De famkes binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De famkes benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De famkes benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De famkes benne jong en ***mask*** .
-False short_VP shortVPplur sette set De famkes benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De famkes benne jong en ***mask*** .
-False short_VP shortVPplur benne is De jonges hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De jonges hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De jonges hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De jonges hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De jonges kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De jonges kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De jonges kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De jonges kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De jonges komme en ***mask*** lang .
-False short_VP shortVPplur benne is De jonges komme en ***mask*** koart .
-True short_VP shortVPplur benne is De jonges komme en ***mask*** âld .
-False short_VP shortVPplur benne is De jonges komme en ***mask*** jong .
-False short_VP shortVPplur benne is De jonges witte en ***mask*** lang .
-False short_VP shortVPplur benne is De jonges witte en ***mask*** koart .
-True short_VP shortVPplur benne is De jonges witte en ***mask*** âld .
-True short_VP shortVPplur benne is De jonges witte en ***mask*** jong .
-False short_VP shortVPplur benne is De jonges sette en ***mask*** lang .
-True short_VP shortVPplur benne is De jonges sette en ***mask*** koart .
-True short_VP shortVPplur benne is De jonges sette en ***mask*** âld .
-True short_VP shortVPplur benne is De jonges sette en ***mask*** jong .
-False short_VP shortVPplur benne is De jonges lige en ***mask*** lang .
-False short_VP shortVPplur benne is De jonges lige en ***mask*** koart .
-True short_VP shortVPplur benne is De jonges lige en ***mask*** âld .
-True short_VP shortVPplur benne is De jonges lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De jonges benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De famkes binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De famkes binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De famkes binne jong en ***mask*** .
+True short_VP shortVPplur sette set De famkes binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De famkes binne jong en ***mask*** .
+True short_VP shortVPplur binne is De jonges hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De jonges hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De jonges hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De jonges hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De jonges kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De jonges kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De jonges kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De jonges kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De jonges komme en ***mask*** lang .
+True short_VP shortVPplur binne is De jonges komme en ***mask*** koart .
+True short_VP shortVPplur binne is De jonges komme en ***mask*** âld .
+True short_VP shortVPplur binne is De jonges komme en ***mask*** jong .
+False short_VP shortVPplur binne is De jonges witte en ***mask*** lang .
+True short_VP shortVPplur binne is De jonges witte en ***mask*** koart .
+True short_VP shortVPplur binne is De jonges witte en ***mask*** âld .
+True short_VP shortVPplur binne is De jonges witte en ***mask*** jong .
+True short_VP shortVPplur binne is De jonges sette en ***mask*** lang .
+True short_VP shortVPplur binne is De jonges sette en ***mask*** koart .
+True short_VP shortVPplur binne is De jonges sette en ***mask*** âld .
+True short_VP shortVPplur binne is De jonges sette en ***mask*** jong .
+False short_VP shortVPplur binne is De jonges lige en ***mask*** lang .
+True short_VP shortVPplur binne is De jonges lige en ***mask*** koart .
+True short_VP shortVPplur binne is De jonges lige en ***mask*** âld .
+True short_VP shortVPplur binne is De jonges lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De jonges binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De jonges benne lang en ***mask*** .
-False short_VP shortVPplur komme komt De jonges benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De jonges benne lang en ***mask*** .
-False short_VP shortVPplur sette set De jonges benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De jonges benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De jonges benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De jonges binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De jonges binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De jonges binne lang en ***mask*** .
+True short_VP shortVPplur sette set De jonges binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De jonges binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De jonges binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De jonges benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De jonges benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De jonges benne koart en ***mask*** .
-True short_VP shortVPplur sette set De jonges benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De jonges benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De jonges benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De jonges binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De jonges binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De jonges binne koart en ***mask*** .
+False short_VP shortVPplur sette set De jonges binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De jonges binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De jonges binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De jonges benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De jonges benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De jonges benne âld en ***mask*** .
-False short_VP shortVPplur sette set De jonges benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De jonges benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De jonges benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De jonges binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De jonges binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De jonges binne âld en ***mask*** .
+False short_VP shortVPplur sette set De jonges binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De jonges binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De jonges binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De jonges benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De jonges benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De jonges benne jong en ***mask*** .
-False short_VP shortVPplur sette set De jonges benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De jonges benne jong en ***mask*** .
-False short_VP shortVPplur benne is De keningen hawwe en ***mask*** lang .
-False short_VP shortVPplur benne is De keningen hawwe en ***mask*** koart .
-True short_VP shortVPplur benne is De keningen hawwe en ***mask*** âld .
-True short_VP shortVPplur benne is De keningen hawwe en ***mask*** jong .
-False short_VP shortVPplur benne is De keningen kinne en ***mask*** lang .
-False short_VP shortVPplur benne is De keningen kinne en ***mask*** koart .
-False short_VP shortVPplur benne is De keningen kinne en ***mask*** âld .
-True short_VP shortVPplur benne is De keningen kinne en ***mask*** jong .
-False short_VP shortVPplur benne is De keningen komme en ***mask*** lang .
-False short_VP shortVPplur benne is De keningen komme en ***mask*** koart .
-False short_VP shortVPplur benne is De keningen komme en ***mask*** âld .
-False short_VP shortVPplur benne is De keningen komme en ***mask*** jong .
-False short_VP shortVPplur benne is De keningen witte en ***mask*** lang .
-False short_VP shortVPplur benne is De keningen witte en ***mask*** koart .
-True short_VP shortVPplur benne is De keningen witte en ***mask*** âld .
-True short_VP shortVPplur benne is De keningen witte en ***mask*** jong .
-True short_VP shortVPplur benne is De keningen sette en ***mask*** lang .
-True short_VP shortVPplur benne is De keningen sette en ***mask*** koart .
-True short_VP shortVPplur benne is De keningen sette en ***mask*** âld .
-True short_VP shortVPplur benne is De keningen sette en ***mask*** jong .
-False short_VP shortVPplur benne is De keningen lige en ***mask*** lang .
-False short_VP shortVPplur benne is De keningen lige en ***mask*** koart .
-True short_VP shortVPplur benne is De keningen lige en ***mask*** âld .
-True short_VP shortVPplur benne is De keningen lige en ***mask*** jong .
-True short_VP shortVPplur hawwe hat De keningen benne lang en ***mask*** .
+False short_VP shortVPplur kinne kin De jonges binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De jonges binne jong en ***mask*** .
+True short_VP shortVPplur witte wit De jonges binne jong en ***mask*** .
+True short_VP shortVPplur sette set De jonges binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De jonges binne jong en ***mask*** .
+True short_VP shortVPplur binne is De keningen hawwe en ***mask*** lang .
+True short_VP shortVPplur binne is De keningen hawwe en ***mask*** koart .
+True short_VP shortVPplur binne is De keningen hawwe en ***mask*** âld .
+True short_VP shortVPplur binne is De keningen hawwe en ***mask*** jong .
+True short_VP shortVPplur binne is De keningen kinne en ***mask*** lang .
+True short_VP shortVPplur binne is De keningen kinne en ***mask*** koart .
+True short_VP shortVPplur binne is De keningen kinne en ***mask*** âld .
+True short_VP shortVPplur binne is De keningen kinne en ***mask*** jong .
+True short_VP shortVPplur binne is De keningen komme en ***mask*** lang .
+True short_VP shortVPplur binne is De keningen komme en ***mask*** koart .
+True short_VP shortVPplur binne is De keningen komme en ***mask*** âld .
+True short_VP shortVPplur binne is De keningen komme en ***mask*** jong .
+True short_VP shortVPplur binne is De keningen witte en ***mask*** lang .
+True short_VP shortVPplur binne is De keningen witte en ***mask*** koart .
+True short_VP shortVPplur binne is De keningen witte en ***mask*** âld .
+True short_VP shortVPplur binne is De keningen witte en ***mask*** jong .
+True short_VP shortVPplur binne is De keningen sette en ***mask*** lang .
+True short_VP shortVPplur binne is De keningen sette en ***mask*** koart .
+True short_VP shortVPplur binne is De keningen sette en ***mask*** âld .
+True short_VP shortVPplur binne is De keningen sette en ***mask*** jong .
+False short_VP shortVPplur binne is De keningen lige en ***mask*** lang .
+True short_VP shortVPplur binne is De keningen lige en ***mask*** koart .
+True short_VP shortVPplur binne is De keningen lige en ***mask*** âld .
+True short_VP shortVPplur binne is De keningen lige en ***mask*** jong .
+True short_VP shortVPplur hawwe hat De keningen binne lang en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De keningen benne lang en ***mask*** .
-True short_VP shortVPplur komme komt De keningen benne lang en ***mask*** .
-False short_VP shortVPplur witte wit De keningen benne lang en ***mask*** .
-True short_VP shortVPplur sette set De keningen benne lang en ***mask*** .
-False short_VP shortVPplur lige leit De keningen benne lang en ***mask*** .
-True short_VP shortVPplur hawwe hat De keningen benne koart en ***mask*** .
+False short_VP shortVPplur kinne kin De keningen binne lang en ***mask*** .
+False short_VP shortVPplur komme komt De keningen binne lang en ***mask*** .
+False short_VP shortVPplur witte wit De keningen binne lang en ***mask*** .
+True short_VP shortVPplur sette set De keningen binne lang en ***mask*** .
+False short_VP shortVPplur lige leit De keningen binne lang en ***mask*** .
+True short_VP shortVPplur hawwe hat De keningen binne koart en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De keningen benne koart en ***mask*** .
-False short_VP shortVPplur komme komt De keningen benne koart en ***mask*** .
-False short_VP shortVPplur witte wit De keningen benne koart en ***mask*** .
-True short_VP shortVPplur sette set De keningen benne koart en ***mask*** .
-False short_VP shortVPplur lige leit De keningen benne koart en ***mask*** .
-True short_VP shortVPplur hawwe hat De keningen benne âld en ***mask*** .
+False short_VP shortVPplur kinne kin De keningen binne koart en ***mask*** .
+True short_VP shortVPplur komme komt De keningen binne koart en ***mask*** .
+False short_VP shortVPplur witte wit De keningen binne koart en ***mask*** .
+True short_VP shortVPplur sette set De keningen binne koart en ***mask*** .
+False short_VP shortVPplur lige leit De keningen binne koart en ***mask*** .
+True short_VP shortVPplur hawwe hat De keningen binne âld en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De keningen benne âld en ***mask*** .
-False short_VP shortVPplur komme komt De keningen benne âld en ***mask*** .
-False short_VP shortVPplur witte wit De keningen benne âld en ***mask*** .
-False short_VP shortVPplur sette set De keningen benne âld en ***mask*** .
-False short_VP shortVPplur lige leit De keningen benne âld en ***mask*** .
-True short_VP shortVPplur hawwe hat De keningen benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De keningen binne âld en ***mask*** .
+False short_VP shortVPplur komme komt De keningen binne âld en ***mask*** .
+False short_VP shortVPplur witte wit De keningen binne âld en ***mask*** .
+False short_VP shortVPplur sette set De keningen binne âld en ***mask*** .
+False short_VP shortVPplur lige leit De keningen binne âld en ***mask*** .
+True short_VP shortVPplur hawwe hat De keningen binne jong en ***mask*** .
 skipping kinne kin bad wins
-False short_VP shortVPplur kinne kin De keningen benne jong en ***mask*** .
-False short_VP shortVPplur komme komt De keningen benne jong en ***mask*** .
-False short_VP shortVPplur witte wit De keningen benne jong en ***mask*** .
-False short_VP shortVPplur sette set De keningen benne jong en ***mask*** .
-False short_VP shortVPplur lige leit De keningen benne jong en ***mask*** .
+False short_VP shortVPplur kinne kin De keningen binne jong en ***mask*** .
+True short_VP shortVPplur komme komt De keningen binne jong en ***mask*** .
+False short_VP shortVPplur witte wit De keningen binne jong en ***mask*** .
+True short_VP shortVPplur sette set De keningen binne jong en ***mask*** .
+False short_VP shortVPplur lige leit De keningen binne jong en ***mask*** .
 False short_VP shortVPsingNonce hat hawwe In ferbetterwurk behannelet en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In ferbetterwurk behannelet en ***mask*** .
@@ -941,10 +941,10 @@ True short_VP shortVPsingNonce komt komme In ferbetterwurk behannelet en ***mask
 False short_VP shortVPsingNonce wit witte In ferbetterwurk behannelet en ***mask*** .
 False short_VP shortVPsingNonce set sette In ferbetterwurk behannelet en ***mask*** .
 True short_VP shortVPsingNonce leit lige In ferbetterwurk behannelet en ***mask*** .
-True short_VP shortVPsingNonce is benne In ferbetterwurk behannelet en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In ferbetterwurk behannelet en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In ferbetterwurk behannelet en ***mask*** âld .
-True short_VP shortVPsingNonce is benne In ferbetterwurk behannelet en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In ferbetterwurk behannelet en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In ferbetterwurk behannelet en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In ferbetterwurk behannelet en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In ferbetterwurk behannelet en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In ferbetterwurk bemoudzje en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In ferbetterwurk bemoudzje en ***mask*** .
@@ -952,10 +952,10 @@ True short_VP shortVPsingNonce komt komme In ferbetterwurk bemoudzje en ***mask*
 False short_VP shortVPsingNonce wit witte In ferbetterwurk bemoudzje en ***mask*** .
 False short_VP shortVPsingNonce set sette In ferbetterwurk bemoudzje en ***mask*** .
 True short_VP shortVPsingNonce leit lige In ferbetterwurk bemoudzje en ***mask*** .
-True short_VP shortVPsingNonce is benne In ferbetterwurk bemoudzje en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In ferbetterwurk bemoudzje en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In ferbetterwurk bemoudzje en ***mask*** âld .
-True short_VP shortVPsingNonce is benne In ferbetterwurk bemoudzje en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In ferbetterwurk bemoudzje en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In ferbetterwurk bemoudzje en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In ferbetterwurk bemoudzje en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In ferbetterwurk bemoudzje en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In ferbetterwurk dompele en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In ferbetterwurk dompele en ***mask*** .
@@ -963,10 +963,10 @@ True short_VP shortVPsingNonce komt komme In ferbetterwurk dompele en ***mask***
 False short_VP shortVPsingNonce wit witte In ferbetterwurk dompele en ***mask*** .
 True short_VP shortVPsingNonce set sette In ferbetterwurk dompele en ***mask*** .
 True short_VP shortVPsingNonce leit lige In ferbetterwurk dompele en ***mask*** .
-True short_VP shortVPsingNonce is benne In ferbetterwurk dompele en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In ferbetterwurk dompele en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In ferbetterwurk dompele en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In ferbetterwurk dompele en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In ferbetterwurk dompele en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In ferbetterwurk dompele en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In ferbetterwurk dompele en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In ferbetterwurk dompele en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In ferbetterwurk sinjearret en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In ferbetterwurk sinjearret en ***mask*** .
@@ -974,10 +974,10 @@ True short_VP shortVPsingNonce komt komme In ferbetterwurk sinjearret en ***mask
 True short_VP shortVPsingNonce wit witte In ferbetterwurk sinjearret en ***mask*** .
 True short_VP shortVPsingNonce set sette In ferbetterwurk sinjearret en ***mask*** .
 True short_VP shortVPsingNonce leit lige In ferbetterwurk sinjearret en ***mask*** .
-True short_VP shortVPsingNonce is benne In ferbetterwurk sinjearret en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In ferbetterwurk sinjearret en ***mask*** koart .
-True short_VP shortVPsingNonce is benne In ferbetterwurk sinjearret en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In ferbetterwurk sinjearret en ***mask*** jong .
+True short_VP shortVPsingNonce is binne In ferbetterwurk sinjearret en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In ferbetterwurk sinjearret en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In ferbetterwurk sinjearret en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In ferbetterwurk sinjearret en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In rasfuotballer behannelet en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In rasfuotballer behannelet en ***mask*** .
@@ -985,10 +985,10 @@ True short_VP shortVPsingNonce komt komme In rasfuotballer behannelet en ***mask
 True short_VP shortVPsingNonce wit witte In rasfuotballer behannelet en ***mask*** .
 False short_VP shortVPsingNonce set sette In rasfuotballer behannelet en ***mask*** .
 True short_VP shortVPsingNonce leit lige In rasfuotballer behannelet en ***mask*** .
-True short_VP shortVPsingNonce is benne In rasfuotballer behannelet en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In rasfuotballer behannelet en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In rasfuotballer behannelet en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In rasfuotballer behannelet en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In rasfuotballer behannelet en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In rasfuotballer behannelet en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In rasfuotballer behannelet en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In rasfuotballer behannelet en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In rasfuotballer bemoudzje en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In rasfuotballer bemoudzje en ***mask*** .
@@ -996,10 +996,10 @@ True short_VP shortVPsingNonce komt komme In rasfuotballer bemoudzje en ***mask*
 True short_VP shortVPsingNonce wit witte In rasfuotballer bemoudzje en ***mask*** .
 True short_VP shortVPsingNonce set sette In rasfuotballer bemoudzje en ***mask*** .
 True short_VP shortVPsingNonce leit lige In rasfuotballer bemoudzje en ***mask*** .
-True short_VP shortVPsingNonce is benne In rasfuotballer bemoudzje en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In rasfuotballer bemoudzje en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In rasfuotballer bemoudzje en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In rasfuotballer bemoudzje en ***mask*** jong .
+True short_VP shortVPsingNonce is binne In rasfuotballer bemoudzje en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In rasfuotballer bemoudzje en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In rasfuotballer bemoudzje en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In rasfuotballer bemoudzje en ***mask*** jong .
 True short_VP shortVPsingNonce hat hawwe In rasfuotballer dompele en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In rasfuotballer dompele en ***mask*** .
@@ -1007,10 +1007,10 @@ True short_VP shortVPsingNonce komt komme In rasfuotballer dompele en ***mask***
 True short_VP shortVPsingNonce wit witte In rasfuotballer dompele en ***mask*** .
 True short_VP shortVPsingNonce set sette In rasfuotballer dompele en ***mask*** .
 True short_VP shortVPsingNonce leit lige In rasfuotballer dompele en ***mask*** .
-True short_VP shortVPsingNonce is benne In rasfuotballer dompele en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In rasfuotballer dompele en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In rasfuotballer dompele en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In rasfuotballer dompele en ***mask*** jong .
+True short_VP shortVPsingNonce is binne In rasfuotballer dompele en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In rasfuotballer dompele en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In rasfuotballer dompele en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In rasfuotballer dompele en ***mask*** jong .
 True short_VP shortVPsingNonce hat hawwe In rasfuotballer sinjearret en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In rasfuotballer sinjearret en ***mask*** .
@@ -1018,10 +1018,10 @@ True short_VP shortVPsingNonce komt komme In rasfuotballer sinjearret en ***mask
 False short_VP shortVPsingNonce wit witte In rasfuotballer sinjearret en ***mask*** .
 False short_VP shortVPsingNonce set sette In rasfuotballer sinjearret en ***mask*** .
 True short_VP shortVPsingNonce leit lige In rasfuotballer sinjearret en ***mask*** .
-True short_VP shortVPsingNonce is benne In rasfuotballer sinjearret en ***mask*** lang .
-False short_VP shortVPsingNonce is benne In rasfuotballer sinjearret en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In rasfuotballer sinjearret en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In rasfuotballer sinjearret en ***mask*** jong .
+True short_VP shortVPsingNonce is binne In rasfuotballer sinjearret en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In rasfuotballer sinjearret en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In rasfuotballer sinjearret en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In rasfuotballer sinjearret en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tille behannelet en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tille behannelet en ***mask*** .
@@ -1029,10 +1029,10 @@ False short_VP shortVPsingNonce komt komme In tille behannelet en ***mask*** .
 False short_VP shortVPsingNonce wit witte In tille behannelet en ***mask*** .
 False short_VP shortVPsingNonce set sette In tille behannelet en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tille behannelet en ***mask*** .
-True short_VP shortVPsingNonce is benne In tille behannelet en ***mask*** lang .
-False short_VP shortVPsingNonce is benne In tille behannelet en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tille behannelet en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tille behannelet en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tille behannelet en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tille behannelet en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tille behannelet en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tille behannelet en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tille bemoudzje en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tille bemoudzje en ***mask*** .
@@ -1040,10 +1040,10 @@ False short_VP shortVPsingNonce komt komme In tille bemoudzje en ***mask*** .
 True short_VP shortVPsingNonce wit witte In tille bemoudzje en ***mask*** .
 False short_VP shortVPsingNonce set sette In tille bemoudzje en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tille bemoudzje en ***mask*** .
-True short_VP shortVPsingNonce is benne In tille bemoudzje en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In tille bemoudzje en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tille bemoudzje en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tille bemoudzje en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tille bemoudzje en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tille bemoudzje en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tille bemoudzje en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tille bemoudzje en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tille dompele en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tille dompele en ***mask*** .
@@ -1051,10 +1051,10 @@ False short_VP shortVPsingNonce komt komme In tille dompele en ***mask*** .
 True short_VP shortVPsingNonce wit witte In tille dompele en ***mask*** .
 False short_VP shortVPsingNonce set sette In tille dompele en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tille dompele en ***mask*** .
-True short_VP shortVPsingNonce is benne In tille dompele en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In tille dompele en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tille dompele en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tille dompele en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tille dompele en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tille dompele en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tille dompele en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tille dompele en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tille sinjearret en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tille sinjearret en ***mask*** .
@@ -1062,10 +1062,10 @@ False short_VP shortVPsingNonce komt komme In tille sinjearret en ***mask*** .
 False short_VP shortVPsingNonce wit witte In tille sinjearret en ***mask*** .
 False short_VP shortVPsingNonce set sette In tille sinjearret en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tille sinjearret en ***mask*** .
-True short_VP shortVPsingNonce is benne In tille sinjearret en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In tille sinjearret en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tille sinjearret en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tille sinjearret en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tille sinjearret en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tille sinjearret en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tille sinjearret en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tille sinjearret en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tsjinbetingst behannelet en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tsjinbetingst behannelet en ***mask*** .
@@ -1073,10 +1073,10 @@ True short_VP shortVPsingNonce komt komme In tsjinbetingst behannelet en ***mask
 False short_VP shortVPsingNonce wit witte In tsjinbetingst behannelet en ***mask*** .
 False short_VP shortVPsingNonce set sette In tsjinbetingst behannelet en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tsjinbetingst behannelet en ***mask*** .
-True short_VP shortVPsingNonce is benne In tsjinbetingst behannelet en ***mask*** lang .
-False short_VP shortVPsingNonce is benne In tsjinbetingst behannelet en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tsjinbetingst behannelet en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tsjinbetingst behannelet en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tsjinbetingst behannelet en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tsjinbetingst behannelet en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tsjinbetingst behannelet en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tsjinbetingst behannelet en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tsjinbetingst bemoudzje en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tsjinbetingst bemoudzje en ***mask*** .
@@ -1084,10 +1084,10 @@ True short_VP shortVPsingNonce komt komme In tsjinbetingst bemoudzje en ***mask*
 True short_VP shortVPsingNonce wit witte In tsjinbetingst bemoudzje en ***mask*** .
 False short_VP shortVPsingNonce set sette In tsjinbetingst bemoudzje en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tsjinbetingst bemoudzje en ***mask*** .
-True short_VP shortVPsingNonce is benne In tsjinbetingst bemoudzje en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In tsjinbetingst bemoudzje en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tsjinbetingst bemoudzje en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tsjinbetingst bemoudzje en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tsjinbetingst bemoudzje en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tsjinbetingst bemoudzje en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tsjinbetingst bemoudzje en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tsjinbetingst bemoudzje en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tsjinbetingst dompele en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tsjinbetingst dompele en ***mask*** .
@@ -1095,10 +1095,10 @@ True short_VP shortVPsingNonce komt komme In tsjinbetingst dompele en ***mask***
 True short_VP shortVPsingNonce wit witte In tsjinbetingst dompele en ***mask*** .
 False short_VP shortVPsingNonce set sette In tsjinbetingst dompele en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tsjinbetingst dompele en ***mask*** .
-True short_VP shortVPsingNonce is benne In tsjinbetingst dompele en ***mask*** lang .
-True short_VP shortVPsingNonce is benne In tsjinbetingst dompele en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tsjinbetingst dompele en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tsjinbetingst dompele en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tsjinbetingst dompele en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tsjinbetingst dompele en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tsjinbetingst dompele en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tsjinbetingst dompele en ***mask*** jong .
 False short_VP shortVPsingNonce hat hawwe In tsjinbetingst sinjearret en ***mask*** .
 skipping kin kinne bad wins
 False short_VP shortVPsingNonce kin kinne In tsjinbetingst sinjearret en ***mask*** .
@@ -1106,10 +1106,10 @@ True short_VP shortVPsingNonce komt komme In tsjinbetingst sinjearret en ***mask
 True short_VP shortVPsingNonce wit witte In tsjinbetingst sinjearret en ***mask*** .
 False short_VP shortVPsingNonce set sette In tsjinbetingst sinjearret en ***mask*** .
 True short_VP shortVPsingNonce leit lige In tsjinbetingst sinjearret en ***mask*** .
-True short_VP shortVPsingNonce is benne In tsjinbetingst sinjearret en ***mask*** lang .
-False short_VP shortVPsingNonce is benne In tsjinbetingst sinjearret en ***mask*** koart .
-False short_VP shortVPsingNonce is benne In tsjinbetingst sinjearret en ***mask*** âld .
-False short_VP shortVPsingNonce is benne In tsjinbetingst sinjearret en ***mask*** jong .
+False short_VP shortVPsingNonce is binne In tsjinbetingst sinjearret en ***mask*** lang .
+False short_VP shortVPsingNonce is binne In tsjinbetingst sinjearret en ***mask*** koart .
+False short_VP shortVPsingNonce is binne In tsjinbetingst sinjearret en ***mask*** âld .
+False short_VP shortVPsingNonce is binne In tsjinbetingst sinjearret en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De ferbetterwurken behannelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De ferbetterwurken behannelen en ***mask*** .
@@ -1117,10 +1117,10 @@ False short_VP shortVPplurNonce komme komt De ferbetterwurken behannelen en ***m
 True short_VP shortVPplurNonce witte wit De ferbetterwurken behannelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De ferbetterwurken behannelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De ferbetterwurken behannelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De ferbetterwurken behannelen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De ferbetterwurken behannelen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De ferbetterwurken behannelen en ***mask*** âld .
-False short_VP shortVPplurNonce benne is De ferbetterwurken behannelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De ferbetterwurken behannelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De ferbetterwurken behannelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De ferbetterwurken behannelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De ferbetterwurken behannelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De ferbetterwurken bemouden en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De ferbetterwurken bemouden en ***mask*** .
@@ -1128,10 +1128,10 @@ False short_VP shortVPplurNonce komme komt De ferbetterwurken bemouden en ***mas
 True short_VP shortVPplurNonce witte wit De ferbetterwurken bemouden en ***mask*** .
 True short_VP shortVPplurNonce sette set De ferbetterwurken bemouden en ***mask*** .
 False short_VP shortVPplurNonce lige leit De ferbetterwurken bemouden en ***mask*** .
-False short_VP shortVPplurNonce benne is De ferbetterwurken bemouden en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De ferbetterwurken bemouden en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De ferbetterwurken bemouden en ***mask*** âld .
-False short_VP shortVPplurNonce benne is De ferbetterwurken bemouden en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De ferbetterwurken bemouden en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De ferbetterwurken bemouden en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De ferbetterwurken bemouden en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De ferbetterwurken bemouden en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De ferbetterwurken dompelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De ferbetterwurken dompelen en ***mask*** .
@@ -1139,10 +1139,10 @@ False short_VP shortVPplurNonce komme komt De ferbetterwurken dompelen en ***mas
 False short_VP shortVPplurNonce witte wit De ferbetterwurken dompelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De ferbetterwurken dompelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De ferbetterwurken dompelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De ferbetterwurken dompelen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De ferbetterwurken dompelen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De ferbetterwurken dompelen en ***mask*** âld .
-False short_VP shortVPplurNonce benne is De ferbetterwurken dompelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De ferbetterwurken dompelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De ferbetterwurken dompelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De ferbetterwurken dompelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De ferbetterwurken dompelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De ferbetterwurken sinjearen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De ferbetterwurken sinjearen en ***mask*** .
@@ -1150,10 +1150,10 @@ False short_VP shortVPplurNonce komme komt De ferbetterwurken sinjearen en ***ma
 True short_VP shortVPplurNonce witte wit De ferbetterwurken sinjearen en ***mask*** .
 True short_VP shortVPplurNonce sette set De ferbetterwurken sinjearen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De ferbetterwurken sinjearen en ***mask*** .
-False short_VP shortVPplurNonce benne is De ferbetterwurken sinjearen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De ferbetterwurken sinjearen en ***mask*** koart .
-False short_VP shortVPplurNonce benne is De ferbetterwurken sinjearen en ***mask*** âld .
-False short_VP shortVPplurNonce benne is De ferbetterwurken sinjearen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De ferbetterwurken sinjearen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De ferbetterwurken sinjearen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De ferbetterwurken sinjearen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De ferbetterwurken sinjearen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De rasfuotballers behannelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De rasfuotballers behannelen en ***mask*** .
@@ -1161,10 +1161,10 @@ False short_VP shortVPplurNonce komme komt De rasfuotballers behannelen en ***ma
 True short_VP shortVPplurNonce witte wit De rasfuotballers behannelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De rasfuotballers behannelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De rasfuotballers behannelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De rasfuotballers behannelen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De rasfuotballers behannelen en ***mask*** koart .
-False short_VP shortVPplurNonce benne is De rasfuotballers behannelen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De rasfuotballers behannelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De rasfuotballers behannelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De rasfuotballers behannelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De rasfuotballers behannelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De rasfuotballers behannelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De rasfuotballers bemouden en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De rasfuotballers bemouden en ***mask*** .
@@ -1172,10 +1172,10 @@ False short_VP shortVPplurNonce komme komt De rasfuotballers bemouden en ***mask
 True short_VP shortVPplurNonce witte wit De rasfuotballers bemouden en ***mask*** .
 True short_VP shortVPplurNonce sette set De rasfuotballers bemouden en ***mask*** .
 False short_VP shortVPplurNonce lige leit De rasfuotballers bemouden en ***mask*** .
-False short_VP shortVPplurNonce benne is De rasfuotballers bemouden en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De rasfuotballers bemouden en ***mask*** koart .
-False short_VP shortVPplurNonce benne is De rasfuotballers bemouden en ***mask*** âld .
-False short_VP shortVPplurNonce benne is De rasfuotballers bemouden en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De rasfuotballers bemouden en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De rasfuotballers bemouden en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De rasfuotballers bemouden en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De rasfuotballers bemouden en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De rasfuotballers dompelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De rasfuotballers dompelen en ***mask*** .
@@ -1183,10 +1183,10 @@ False short_VP shortVPplurNonce komme komt De rasfuotballers dompelen en ***mask
 False short_VP shortVPplurNonce witte wit De rasfuotballers dompelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De rasfuotballers dompelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De rasfuotballers dompelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De rasfuotballers dompelen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De rasfuotballers dompelen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De rasfuotballers dompelen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De rasfuotballers dompelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De rasfuotballers dompelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De rasfuotballers dompelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De rasfuotballers dompelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De rasfuotballers dompelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De rasfuotballers sinjearen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De rasfuotballers sinjearen en ***mask*** .
@@ -1194,10 +1194,10 @@ False short_VP shortVPplurNonce komme komt De rasfuotballers sinjearen en ***mas
 True short_VP shortVPplurNonce witte wit De rasfuotballers sinjearen en ***mask*** .
 True short_VP shortVPplurNonce sette set De rasfuotballers sinjearen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De rasfuotballers sinjearen en ***mask*** .
-False short_VP shortVPplurNonce benne is De rasfuotballers sinjearen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De rasfuotballers sinjearen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De rasfuotballers sinjearen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De rasfuotballers sinjearen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De rasfuotballers sinjearen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De rasfuotballers sinjearen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De rasfuotballers sinjearen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De rasfuotballers sinjearen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tillen behannelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tillen behannelen en ***mask*** .
@@ -1205,10 +1205,10 @@ False short_VP shortVPplurNonce komme komt De tillen behannelen en ***mask*** .
 True short_VP shortVPplurNonce witte wit De tillen behannelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De tillen behannelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tillen behannelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De tillen behannelen en ***mask*** lang .
-True short_VP shortVPplurNonce benne is De tillen behannelen en ***mask*** koart .
-False short_VP shortVPplurNonce benne is De tillen behannelen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tillen behannelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De tillen behannelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tillen behannelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tillen behannelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tillen behannelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tillen bemouden en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tillen bemouden en ***mask*** .
@@ -1216,10 +1216,10 @@ False short_VP shortVPplurNonce komme komt De tillen bemouden en ***mask*** .
 True short_VP shortVPplurNonce witte wit De tillen bemouden en ***mask*** .
 True short_VP shortVPplurNonce sette set De tillen bemouden en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tillen bemouden en ***mask*** .
-False short_VP shortVPplurNonce benne is De tillen bemouden en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De tillen bemouden en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tillen bemouden en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tillen bemouden en ***mask*** jong .
+False short_VP shortVPplurNonce binne is De tillen bemouden en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tillen bemouden en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tillen bemouden en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tillen bemouden en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tillen dompelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tillen dompelen en ***mask*** .
@@ -1227,10 +1227,10 @@ False short_VP shortVPplurNonce komme komt De tillen dompelen en ***mask*** .
 False short_VP shortVPplurNonce witte wit De tillen dompelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De tillen dompelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tillen dompelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De tillen dompelen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De tillen dompelen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tillen dompelen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tillen dompelen en ***mask*** jong .
+False short_VP shortVPplurNonce binne is De tillen dompelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tillen dompelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tillen dompelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tillen dompelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tillen sinjearen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tillen sinjearen en ***mask*** .
@@ -1238,10 +1238,10 @@ False short_VP shortVPplurNonce komme komt De tillen sinjearen en ***mask*** .
 False short_VP shortVPplurNonce witte wit De tillen sinjearen en ***mask*** .
 True short_VP shortVPplurNonce sette set De tillen sinjearen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tillen sinjearen en ***mask*** .
-False short_VP shortVPplurNonce benne is De tillen sinjearen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De tillen sinjearen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tillen sinjearen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tillen sinjearen en ***mask*** jong .
+False short_VP shortVPplurNonce binne is De tillen sinjearen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tillen sinjearen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tillen sinjearen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tillen sinjearen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tsjinbetingsten behannelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tsjinbetingsten behannelen en ***mask*** .
@@ -1249,10 +1249,10 @@ False short_VP shortVPplurNonce komme komt De tsjinbetingsten behannelen en ***m
 True short_VP shortVPplurNonce witte wit De tsjinbetingsten behannelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De tsjinbetingsten behannelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tsjinbetingsten behannelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De tsjinbetingsten behannelen en ***mask*** lang .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten behannelen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten behannelen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten behannelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten behannelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten behannelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten behannelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten behannelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tsjinbetingsten bemouden en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tsjinbetingsten bemouden en ***mask*** .
@@ -1260,10 +1260,10 @@ False short_VP shortVPplurNonce komme komt De tsjinbetingsten bemouden en ***mas
 True short_VP shortVPplurNonce witte wit De tsjinbetingsten bemouden en ***mask*** .
 True short_VP shortVPplurNonce sette set De tsjinbetingsten bemouden en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tsjinbetingsten bemouden en ***mask*** .
-False short_VP shortVPplurNonce benne is De tsjinbetingsten bemouden en ***mask*** lang .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten bemouden en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten bemouden en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten bemouden en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten bemouden en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten bemouden en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten bemouden en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten bemouden en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tsjinbetingsten dompelen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tsjinbetingsten dompelen en ***mask*** .
@@ -1271,10 +1271,10 @@ False short_VP shortVPplurNonce komme komt De tsjinbetingsten dompelen en ***mas
 False short_VP shortVPplurNonce witte wit De tsjinbetingsten dompelen en ***mask*** .
 True short_VP shortVPplurNonce sette set De tsjinbetingsten dompelen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tsjinbetingsten dompelen en ***mask*** .
-False short_VP shortVPplurNonce benne is De tsjinbetingsten dompelen en ***mask*** lang .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten dompelen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten dompelen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten dompelen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten dompelen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten dompelen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten dompelen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten dompelen en ***mask*** jong .
 True short_VP shortVPplurNonce hawwe hat De tsjinbetingsten sinjearen en ***mask*** .
 skipping kinne kin bad wins
 False short_VP shortVPplurNonce kinne kin De tsjinbetingsten sinjearen en ***mask*** .
@@ -1282,7 +1282,7 @@ False short_VP shortVPplurNonce komme komt De tsjinbetingsten sinjearen en ***ma
 True short_VP shortVPplurNonce witte wit De tsjinbetingsten sinjearen en ***mask*** .
 True short_VP shortVPplurNonce sette set De tsjinbetingsten sinjearen en ***mask*** .
 False short_VP shortVPplurNonce lige leit De tsjinbetingsten sinjearen en ***mask*** .
-False short_VP shortVPplurNonce benne is De tsjinbetingsten sinjearen en ***mask*** lang .
-False short_VP shortVPplurNonce benne is De tsjinbetingsten sinjearen en ***mask*** koart .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten sinjearen en ***mask*** âld .
-True short_VP shortVPplurNonce benne is De tsjinbetingsten sinjearen en ***mask*** jong .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten sinjearen en ***mask*** lang .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten sinjearen en ***mask*** koart .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten sinjearen en ***mask*** âld .
+True short_VP shortVPplurNonce binne is De tsjinbetingsten sinjearen en ***mask*** jong .
