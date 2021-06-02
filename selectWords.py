@@ -1,6 +1,16 @@
 import random
 import pandas as pd
 
+
+def getPROPN(nr, PROPNdf):
+
+	#Select only the ones that are proper names (so do not contain plural forms)
+	PROPNdf['feats'] = PROPNdf.feats.apply(lambda x: x[1:-1].split(" "))
+	namesdf = PROPNdf[PROPNdf['feats'].str.len() == 1]
+
+	randomnames = namesdf.sample(n=nr)
+	return randomnames
+
 def getNouns(nr, NOUNdf):
 	# Select singular nouns
 	singNouns = (NOUNdf[NOUNdf.feats.str.contains("Number.Sing")])
@@ -36,6 +46,7 @@ def main():
 
 	nr = 4
 	# Create dataframes for specific POStags
+	PROPNdf = (df[df.feats.str.contains("PROPN")])
 	NOUNdf = (df[df.feats.str.contains("Pos.NOUN")])
 	VERBdf = (df[df.feats.str.contains("Pos.VERB")])
 	VERBTdf = (VERBdf[VERBdf.feats.str.contains("Person.Third")])
@@ -46,7 +57,7 @@ def main():
 	randomADJ = ADJdf.sample(n=nr)
 	randomInfVB = VERBINFdf.sample(n=nr)
 
-
+	randompropn = getPROPN(nr, PROPNdf)
 
 	randomSingNouns , pluralNouns = getNouns(nr, NOUNdf)
 	randomSingVerbs, pluralVerbs = getVerbs(nr, VERBTdf)
@@ -64,13 +75,14 @@ def main():
 
 
 	# Write to files 
-	#randomSingNouns.to_csv(r'SimpRSingularNouns3004.csv', index=False)
-	pluralNouns.to_csv(r'simpNPIPluralNouns3004.csv', index=False)
-	#randomSingVerbs.to_csv(r'SimpRSingularVerbs3004.csv', index=False)
-	pluralVerbs.to_csv(r'simpNPIPluralVerbs3004.csv', index=False)
-	randomADJ.to_csv(r'simpNPIADJ3004.csv', index=False)
-	randomsInfVB.to_csv(r'simpNPIInfVB3004.csv', index=False)
-	# randomADP.to_csv(r'longVPADP3004.csv', index=False)
+	randompropn.to_csv(r'propn.csv', index=False)
+	randomSingNouns.to_csv(r'singNoun.csv', index=False)
+	pluralNouns.to_csv(r'plurNoun.csv', index=False)
+	randomSingVerbs.to_csv(r'singVerb.csv', index=False)
+	pluralVerbs.to_csv(r'plurVerb.csv', index=False)
+	randomADJ.to_csv(r'adj.csv', index=False)
+	randomInfVB.to_csv(r'infVerb.csv', index=False)
+	randomADP.to_csv(r'adp.csv', index=False)
 
 if __name__ == '__main__':
 	main()
