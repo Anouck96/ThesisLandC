@@ -34,6 +34,8 @@ The reflexive directory also contains the code and the created sentences (in dat
 * reflexiveAcrossObjRel.py: Reflexive across an object relative clause
 
 ## Directory eval
+The eval directory contains the code needed for testing and evaluating the models. The programs eval_bert.py, eval_roberta.py and eval_xlm.py are used to probe respectively bert-base-multilingual-cased, xlm-roberta-large, and xlm-mlm-100-1280 on the created sentences. If the correct inflection is given a higher probability by these models it will return True for this specific minimal pair. If it returns a lower (or the same) probability it will return False. The file that should be tested should be given in the code itself. When the code is run like: eval_bert.py > results.txt it will write the output to a file. These outputs can be found in the directories evalmBERT, results_RoBERTa_large and results_xlmmlm. With gen_tbl.py scores can be obtained for the total phenomenon or for every variant within this phenomenon. This program takes one of the output files as input and calculates the scores.
+
 
 
 ## getfreqs.py
